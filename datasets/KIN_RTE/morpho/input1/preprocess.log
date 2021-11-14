@@ -1,0 +1,8 @@
+Namespace(align_suffix=None, alignfile=None, all_gather_list_size=16384, bf16=False, bpe=None, checkpoint_shard_count=1, checkpoint_suffix='', cpu=False, criterion='cross_entropy', dataset_impl='mmap', destdir='datasets/KIN_RTE/morpho/input1', empty_cache_freq=0, fp16=False, fp16_init_scale=128, fp16_no_flatten_grads=False, fp16_scale_tolerance=0.0, fp16_scale_window=None, joined_dictionary=False, log_format=None, log_interval=100, lr_scheduler='fixed', memory_efficient_bf16=False, memory_efficient_fp16=False, min_loss_scale=0.0001, model_parallel_size=1, no_progress_bar=False, nwordssrc=-1, nwordstgt=-1, only_source=True, optimizer=None, padding_factor=8, profile=False, quantization_config_path=None, scoring='bleu', seed=1, source_lang=None, srcdict='datasets/KIN_RTE/morpho/dict.txt', target_lang=None, task='translation', tensorboard_logdir=None, testpref='datasets/KIN_RTE/parsed/test_input1_morpho.txt', tgtdict=None, threshold_loss_scale=None, thresholdsrc=0, thresholdtgt=0, tokenizer=None, tpu=False, trainpref='datasets/KIN_RTE/parsed/train_input1_morpho.txt', user_dir=None, validpref='datasets/KIN_RTE/parsed/dev_input1_morpho.txt', workers=8)
+[None] Dictionary: 50984 types
+[None] datasets/KIN_RTE/parsed/train_input1_morpho.txt: 2490 sents, 52098 tokens, 0.288% replaced by <unk>
+[None] Dictionary: 50984 types
+[None] datasets/KIN_RTE/parsed/dev_input1_morpho.txt: 277 sents, 5540 tokens, 0.361% replaced by <unk>
+[None] Dictionary: 50984 types
+[None] datasets/KIN_RTE/parsed/test_input1_morpho.txt: 3000 sents, 61533 tokens, 0.244% replaced by <unk>
+Wrote preprocessed data to datasets/KIN_RTE/morpho/input1

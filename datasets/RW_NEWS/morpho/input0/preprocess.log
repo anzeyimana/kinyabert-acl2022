@@ -1,0 +1,8 @@
+Namespace(align_suffix=None, alignfile=None, all_gather_list_size=16384, bf16=False, bpe=None, checkpoint_shard_count=1, checkpoint_suffix='', cpu=False, criterion='cross_entropy', dataset_impl='mmap', destdir='datasets/RW_NEWS/morpho/input0', empty_cache_freq=0, fp16=False, fp16_init_scale=128, fp16_no_flatten_grads=False, fp16_scale_tolerance=0.0, fp16_scale_window=None, joined_dictionary=False, log_format=None, log_interval=100, lr_scheduler='fixed', memory_efficient_bf16=False, memory_efficient_fp16=False, min_loss_scale=0.0001, model_parallel_size=1, no_progress_bar=False, nwordssrc=-1, nwordstgt=-1, only_source=True, optimizer=None, padding_factor=8, profile=False, quantization_config_path=None, scoring='bleu', seed=1, source_lang=None, srcdict='datasets/RW_NEWS/morpho/dict.txt', target_lang=None, task='translation', tensorboard_logdir=None, testpref='datasets/RW_NEWS/parsed/test_input0_morpho.txt', tgtdict=None, threshold_loss_scale=None, thresholdsrc=0, thresholdtgt=0, tokenizer=None, tpu=False, trainpref='datasets/RW_NEWS/parsed/train_input0_morpho.txt', user_dir=None, validpref='datasets/RW_NEWS/parsed/dev_input0_morpho.txt', workers=8)
+[None] Dictionary: 50984 types
+[None] datasets/RW_NEWS/parsed/train_input0_morpho.txt: 17926 sents, 18552837 tokens, 0.0531% replaced by <unk>
+[None] Dictionary: 50984 types
+[None] datasets/RW_NEWS/parsed/dev_input0_morpho.txt: 1329 sents, 1382331 tokens, 0.0492% replaced by <unk>
+[None] Dictionary: 50984 types
+[None] datasets/RW_NEWS/parsed/test_input0_morpho.txt: 6469 sents, 6576103 tokens, 0.0516% replaced by <unk>
+Wrote preprocessed data to datasets/RW_NEWS/morpho/input0

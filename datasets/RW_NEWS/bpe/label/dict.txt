@@ -1,0 +1,12 @@
+politics 2123
+health 2109
+entertainment 2092
+security 2085
+economy 2061
+sports 2052
+religion 1410
+development 1275
+technology 773
+culture 712
+relationships 646
+people 588

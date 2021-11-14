@@ -1,0 +1,158 @@
+Results for submission kinyabert-stem-11K-GLUE-0
+Score: 61.1
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	77.6
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	82.9/76.3
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	71.3/69.5
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	79.3
+Recognizing Textual Entailment	Accuracy	57.0
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission kinyabert-stem-11K-GLUE-1
+Score: 61.0
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	75.9
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.2/76.4
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	71.1/69.6
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	78.9
+Recognizing Textual Entailment	Accuracy	57.3
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission kinyabert-stem-11K-GLUE-2
+Score: 61.1
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	76.4
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.0/76.4
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	71.3/69.6
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	79.2
+Recognizing Textual Entailment	Accuracy	57.3
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission kinyabert-stem-11K-GLUE-3
+Score: 61.0
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	78.1
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.7/76.8
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	69.8/68.1
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	78.2
+Recognizing Textual Entailment	Accuracy	56.4
+Winograd NLI	Accuracy	65.8
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission kinyabert-stem-11K-GLUE-4
+Score: 61.2
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	75.6
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.2/76.7
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	71.7/70.1
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	79.6
+Recognizing Textual Entailment	Accuracy	58.0
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission kinyabert-stem-11K-GLUE-5
+Score: 61.3
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	77.2
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.4/76.0
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	71.8/69.9
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	79.5
+Recognizing Textual Entailment	Accuracy	57.7
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission kinyabert-stem-11K-GLUE-6
+Score: 60.8
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	76.1
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	82.4/76.5
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	71.2/69.7
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	78.1
+Recognizing Textual Entailment	Accuracy	56.7
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission kinyabert-stem-11K-GLUE-7
+Score: 61.1
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	77.0
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	82.2/75.4
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	71.3/69.7
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	79.3
+Recognizing Textual Entailment	Accuracy	57.9
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission kinyabert-stem-11K-GLUE-8
+Score: 61.0
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	77.8
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.3/75.8
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	71.4/70.0
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	80.0
+Recognizing Textual Entailment	Accuracy	56.0
+Winograd NLI	Accuracy	63.7
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission kinyabert-stem-11K-GLUE-9
+Score: 61.4
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	77.7
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.2/76.2
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	71.6/70.1
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	79.9
+Recognizing Textual Entailment	Accuracy	57.8
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2

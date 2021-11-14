@@ -1,0 +1,159 @@
+Results for submission roberta-30morpho-32K-GLUE-0
+Score: 61.4
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	80.1
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	81.8/72.9
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	70.5/69.0
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	81.0
+Recognizing Textual Entailment	Accuracy	57.7
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission roberta-30morpho-32K-GLUE-1
+Score: 61.4
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	80.9
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.7/76.8
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	67.4/66.5
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	81.1
+Recognizing Textual Entailment	Accuracy	57.2
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission roberta-30morpho-32K-GLUE-2
+Score: 61.1
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	80.7
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	81.4/73.4
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	68.8/67.7
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	80.4
+Recognizing Textual Entailment	Accuracy	56.8
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission roberta-30morpho-32K-GLUE-3
+Score: 61.4
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	80.7
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.5/76.3
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	68.7/67.3
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	80.6
+Recognizing Textual Entailment	Accuracy	57.2
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission roberta-30morpho-32K-GLUE-4
+Score: 61.2
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	80.3
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	82.1/75.1
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	70.9/69.5
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	80.8
+Recognizing Textual Entailment	Accuracy	55.5
+Winograd NLI	Accuracy	64.4
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission roberta-30morpho-32K-GLUE-5
+Score: 61.3
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	80.2
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	82.5/75.7
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	70.0/68.8
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	81.3
+Recognizing Textual Entailment	Accuracy	56.0
+Winograd NLI	Accuracy	64.4
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission roberta-30morpho-32K-GLUE-6
+Score: 61.1
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	80.7
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	82.6/75.3
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	65.9/65.1
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	81.3
+Recognizing Textual Entailment	Accuracy	56.5
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission roberta-30morpho-32K-GLUE-7
+Score: 61.5
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	81.0
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	82.8/75.8
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	68.5/67.8
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	80.5
+Recognizing Textual Entailment	Accuracy	57.7
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+Results for submission roberta-30morpho-32K-GLUE-8
+Score: 61.6
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	81.9
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.7/76.8
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	68.3/68.0
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	80.2
+Recognizing Textual Entailment	Accuracy	57.4
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2
+
+
+
+Results for submission roberta-30morpho-32K-GLUE-9
+Score: 61.2
+Task	Metric	Score
+The Corpus of Linguistic Acceptability	Matthew's Corr	0.0
+The Stanford Sentiment Treebank	Accuracy	80.6
+Microsoft Research Paraphrase Corpus	F1 / Accuracy	83.1/76.1
+Semantic Textual Similarity Benchmark	Pearson-Spearman Corr	69.7/68.4
+Quora Question Pairs	F1 / Accuracy	51.4/79.1
+MultiNLI Matched	Accuracy	56.0
+MultiNLI Mismatched	Accuracy	56.4
+Question NLI	Accuracy	80.7
+Recognizing Textual Entailment	Accuracy	54.6
+Winograd NLI	Accuracy	65.1
+Diagnostics Main	Matthew's Corr	9.2

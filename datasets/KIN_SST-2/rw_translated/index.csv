@@ -1,0 +1,3 @@
+gs://sst2_input/test_input0.txt,rw,gs://sst2_output/sst2_input_test_input0_rw_translations.txt,,,
+gs://sst2_input/train_input0.txt,rw,gs://sst2_output/sst2_input_train_input0_rw_translations.txt,,,
+gs://sst2_input/dev_input0.txt,rw,gs://sst2_output/sst2_input_dev_input0_rw_translations.txt,,,

@@ -1,0 +1,636 @@
+index	sentence1	sentence2	label
+0	I stuck a pin through a carrot. When I pulled the pin out, it had a hole.	The carrot had a hole.	1
+1	John couldn't see the stage with Billy in front of him because he is so short.	John is so short.	1
+2	The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.	The police were trying to stop the drug trade in the neighborhood.	1
+3	Steve follows Fred's example in everything. He influences him hugely.	Steve influences him hugely.	0
+4	When Tatyana reached the cabin, her mother was sleeping. She was careful not to disturb her, undressing and climbing back into her berth.	mother was careful not to disturb her, undressing and climbing back into her berth.	0
+5	George got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it.	George was particularly eager to see it.	0
+6	John was jogging through the park when he saw a man juggling watermelons. He was very impressive.	John was very impressive.	0
+7	I couldn't put the pot on the shelf because it was too tall.	The pot was too tall.	1
+8	We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them.	There were simply not enough copies of the newsletter.	1
+9	At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced.	The judges were so advanced.	0
+10	I took the water bottle out of the backpack so that it would be lighter.	I took the water bottle out of the backpack so that the backpack would be lighter.	1
+11	The table won't fit through the doorway because it is too narrow.	The table is too narrow.	0
+12	I took the water bottle out of the backpack so that it would be handy.	I took the water bottle out of the backpack so that the backpack would be handy.	0
+13	The firemen arrived after the police because they were coming from so far away.	The police were coming from so far away.	0
+14	Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	Dad could not help him now.	0
+15	I poured water from the bottle into the cup until it was empty.	The cup was empty.	0
+16	I put the cake away in the refrigerator. It has a lot of butter in it.	The cake has a lot of butter in it.	1
+17	Lionel is holding captive a scientist, Dr. Vardi, who has invented a device that turns animals invisible; Lionel plans to use it on Geoffrey and send him to steal nuclear material from an army vault.	Lionel plans to use it on Geoffrey and send Lionel to steal nuclear material from an army vault.	0
+18	The foxes are getting in at night and attacking the chickens. They have gotten very bold.	The foxes have gotten very bold.	1
+19	Sam pulled up a chair to the piano, but it was broken, so he had to stand instead.	The piano was broken, so he had to stand instead.	0
+20	Jane knocked on Susan's door but she did not get an answer.	Susan did not get an answer.	0
+21	Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won.	Adam would have won.	0
+22	I put the butterfly wing on the table and it broke.	The table broke.	0
+23	Paul tried to call George on the phone, but he wasn't successful.	Paul wasn't successful.	1
+24	Look! There is a shark swimming right below that duck! It had better get away to safety fast!	The shark had better get away to safety fast!	0
+25	The trophy doesn't fit into the brown suitcase because it is too large.	The suitcase is too large.	0
+26	Joe's uncle can still beat him at tennis, even though he is 30 years older.	Joe is 30 years older.	0
+27	The large ball crashed right through the table because it was made of steel.	The large ball was made of steel.	1
+28	Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be better.	The crutches should be better.	0
+29	Grant worked hard to harvest his beans so he and his family would have enough to eat that winter, His friend Henry let him stack them in his barn where they would dry. Later, he and Tatyana would shell them and cook them for their Sunday dinners.	His friend Henry let him stack Grant and his family in his barn where they would dry.	0
+30	Jane knocked on the door, and Susan answered it. She invited her to come out.	Jane invited her to come out.	1
+31	Dan had to stop Bill from toying with the injured bird. He is very cruel.	Bill is very cruel.	1
+32	Tom said "Check" to Ralph as he took his bishop.	Tom said "Check" to Ralph as he took Ralph's bishop.	1
+33	I sallied out for a bit of food, more to pass the time than because I wanted it.	I sallied out for a bit of food, more to pass the time than because I wanted food.	1
+34	Joe paid the detective after he received the final report on the case.	Joe received the final report on the case.	1
+35	We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them.	There were simply too many copies of the newsletter.	0
+36	Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.	He will be moving into The new house on Thursday.	1
+37	Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	He could not help Dad now.	1
+38	The table was piled high with food, and on the floor beside it there were crocks, baskets, and a five-quart pail of milk.	Beside the table there were crocks, baskets, and a five-quart pail of milk.	1
+39	Jim comforted Kevin because he was so upset.	Kevin was so upset.	1
+40	Jackson was greatly influenced by Arnold, though he lived two centuries earlier.	Arnold lived two centuries earlier.	1
+41	There is a pillar between me and the stage, and I can't see around it.	I can't see around the stage.	0
+42	Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for deer on the river banks.	Prehistoric humans hunted for deer on the river banks.	1
+43	Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs.	Amy's parents are snobs.	1
+44	Bill passed the half-empty plate to John because he was hungry.	John was hungry.	1
+45	Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.	She writes the book when she gets home from work.	0
+46	John promised Bill to leave, so an hour later he left.	Bill left.	0
+47	Sara borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work.	She reads the article when she gets home from work.	0
+48	Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.	The door of the shop closed after Steve.	1
+49	Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve years old.	When Fred first saw my father, My father was twelve years old.	0
+50	Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: "There's plenty."	Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled Grandma to the table.	0
+51	Fred watched TV while George went out to buy groceries. After an hour he got back.	George got back.	1
+52	Lily spoke to Donna, breaking her concentration.	Lily spoke to Donna, breaking Donna's concentration.	1
+53	Although they ran at about the same speed, Sue beat Sally because she had such a bad start.	Sue had such a bad start.	0
+54	Madonna fired her trainer because she couldn't stand her boyfriend.	She couldn't stand Madonna's boyfriend.	0
+55	I can't cut that tree down with that axe; it is too small.	The axe is too small.	1
+56	Madonna fired her trainer because she slept with her boyfriend.	She slept with Madonna's boyfriend.	1
+57	I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy.	I don't know why the guy in uniform was, but he looked very unhappy.	0
+58	Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely.	Alice's daughter was behaving so strangely.	0
+59	Jane knocked on Susan's door but she did not answer.	Jane did not answer.	0
+60	The politicians far away in Washington could not know the settlers so they must make rules to regulate them.	The politicians must make rules to regulate them.	1
+61	A number of times Henry had been present at interviews which his father had had with noted detectives who desired his aid in solving perplexing mysteries, and those occasions stood out as red-letter days for him.	Those occasions stood out as red-letter days for Henry.	1
+62	Sam pulled up a chair to the piano, but it was broken, so he had to stand instead.	The chair was broken, so he had to stand instead.	1
+63	Since it was raining, I carried the newspaper over my backpack to keep it dry.	I carried the newspaper over my backpack to keep the backpack dry.	1
+64	The politicians far away in Washington could not know the settlers so they must make rules to regulate them.	They must make rules to regular the politicians.	0
+65	Anna did a lot better than her good friend Lucy on the test because she had studied so hard.	Anna had studied so hard.	1
+66	Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.	Mr. Singer heard him calling for the captain	0
+67	Fred is the only man still alive who remembers my great-grandfather. He was a remarkable man.	My great-grandfather was a remarkable man.	1
+68	I couldn't put the pot on the shelf because it was too high.	The shelf was too high.	1
+69	No one joins Facebook to be sad and lonely. But a new study from the University of Wisconsin psychologist George Lincoln argues that that's exactly how it makes us feel.	That's exactly how the study makes us feel.	0
+70	Bob paid for Charlie's college education. He is very generous.	Bob is very generous.	1
+71	John promised Bill to leave, so an hour later he left.	John left.	1
+72	Frank was upset with Tom because the toaster he had sold him didn't work.	The toaster Frank had sold him didn't work.	0
+73	Equally swoon-worthy is C.K. Dexter Haven, a pallid young dandy holding a jade-handled walking stick, with a poodle asleep at his feet.	Equally swoon-worthy is C.K. Dexter Haven, a pallid young dandy holding a jade-handled walking stick, with a poodle asleep at Haven's feet.	1
+74	Joe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.	He will be moving out of The old house on Thursday.	1
+75	Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.	The door of the shop closed after Mark.	0
+76	It is not easy to space buttonholes exactly the same distance apart, and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small.	Even one thread uncut will leave the right size too small.	0
+77	Billy cried because Toby wouldn't accept his toy.	Billy cried because Toby wouldn't accept Toby's toy.	0
+78	As Ollie carried Tommy up the long winding steps, his legs dangled.	Ollie's legs dangled.	0
+79	Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.	The chair was broken, so he had to sing instead.	0
+80	The fish ate the worm. It was hungry.	The worm was hungry.	0
+81	The journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time.	The journalists were very cooperative, so the interview lasted for a long time.	0
+82	The trophy doesn't fit into the brown suitcase because it is too small.	The trophy is too small.	0
+83	Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years.	Cooper had been travelling for five years.	0
+84	Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.	She put the album on a chair without even opening the living room.	0
+85	Bill passed the half-empty plate to John because he was full.	Bill was full.	1
+86	Bill passed the half-empty plate to John because he was full.	John was full.	0
+87	The foxes are getting in at night and attacking the chickens. I shall have to kill them.	I shall have to kill The foxes.	1
+88	Joe's uncle can still beat him at tennis, even though he is 30 years younger.	Joe is 30 years younger.	1
+89	Emma did not pass the ball to Janie although she was open.	She saw that Janie was open.	1
+90	Bill passed the gameboy to John because his turn was over.	Bill's turn was over.	1
+91	Ann asked Mary what time the library closes, because she had forgotten.	Ann had forgotten.	1
+92	Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it.	Pam's parents were furious about it.	1
+93	This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked it down.	This afternoon the tide knocked The flag down.	0
+94	The man couldn't lift his son because he was so weak.	The man was so weak.	1
+95	The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.	The customer was immediately taken to the hospital.	0
+96	Since Chester was dependent on Uncle Vernon, he couldn't very well marry without his approval	He couldn't very well marry without Chester's approval	0
+97	Mama came over and sat down beside Alice. Gently she stroked her hair and let the child weep.	Mama stroked her hair and let the child weep.	1
+98	Emma did not pass the ball to Janie although she saw that she was open.	Emma saw that she was open.	1
+99	Mark became absorbed in Blaze, the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid, so he took upon himself the feeding and care of the animal.	Mark was afraid the stable boys at the Burlington Stables struck at him and bullied him.	1
+100	By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.	Tatyana doubted if her mother slept.	1
+101	James asked Robert for a favor but he was refused.	Robert was refused.	0
+102	I can't cut that tree down with that axe; it is too thick.	The axe is too thick.	0
+103	Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very ill.	Bob was very ill.	1
+104	Emma did not pass the ball to Janie although she saw that she was open.	Janie saw that she was open.	0
+105	Tom gave Ralph a lift to school so he wouldn't have to drive alone.	Tom wouldn't have to drive alone.	1
+106	Sam's drawing was hung just above Tina's and it did look much better with another one below it.	Sam's drawing did look much better with another one below it.	1
+107	Although they ran at about the same speed, Sue beat Sally because she had such a good start.	Sue had such a good start.	1
+108	Grace was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her.	The sweater looks dowdy on her.	1
+109	Bob paid for Charlie's college education. He is very grateful.	Charlie is very grateful.	1
+110	Grace was happy to trade me her sweater for my jacket. She thinks it looks great on her.	The sweater looks great on her.	0
+111	Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.	Mr. Schmidt's work was beautiful.	1
+112	The man lifted the boy onto his shoulders.	The man lifted the boy onto the man's shoulders.	1
+113	Fred and Alice had very warm down coats, but they were not prepared for the cold in Alaska.	coats were not prepared for the cold in Alaska.	0
+114	In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were defeated within weeks.	Yakutsk was defeated within weeks.	0
+115	Jackson was greatly influenced by Arnold, though he lived two centuries earlier.	Jackson lived two centuries earlier.	0
+116	The path to the lake was blocked, so we couldn't use it.	We couldn't use the lake.	0
+117	Sara borrowed the book from the library because she needs it for an article she is working on. She reads it when she gets home from work.	She reads the book when she gets home from work.	1
+118	The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.	The teller was immediately taken to the police station.	0
+119	Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be here by this time.	Bob would be here by this time.	1
+120	What about the time you cut up tulip bulbs in the hamburgers because you thought they were onions?	You thought tulip bulbs were onions?	1
+121	This book introduced Shakespeare to Ovid; it was a major influence on his writing.	It was a major influence on Shakespeare's writing.	1
+122	Thomson visited Cooper's grave in 1765. At that date he had been dead for five years.	Cooper had been dead for five years.	1
+123	Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it on.	He changed his mind and turned the TV on.	0
+124	Paul tried to call George on the phone, but he wasn't available.	George wasn't available.	1
+125	When Tatyana reached the cabin, her mother was sleeping. She was careful not to disturb her, undressing and climbing back into her berth.	Tatyana was careful not to disturb her, undressing and climbing back into her berth.	1
+126	Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.	Anyone who knew that he was 19 years old could take his claim away from the government official.	0
+127	Fred is the only man still alive who remembers my great-grandfather. He is a remarkable man.	My great-grandfather is a remarkable man.	0
+128	I put the cake away in the refrigerator. It has a lot of leftovers in it.	The cake has a lot of leftovers in it.	0
+129	Jim signaled the barman and gestured toward his bathroom key.	Jim signaled the barman and gestured toward The barman's bathroom key.	1
+130	Steve follows Fred's example in everything. He influences him hugely.	Fred influences him hugely.	1
+131	When Tatyana reached the cabin, her mother was sleeping. She was careful not to disturb her , undressing and climbing back into her berth.	She was careful not to disturb her mother , undressing and climbing back into her berth.	1
+132	Jane gave Joan candy because she wasn't hungry.	Jane wasn't hungry.	1
+133	When Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look.	Father gave Tommy a stern look.	0
+134	I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of ink.	The coffee got full of ink.	1
+135	The man couldn't lift his son because he was so weak.	The son was so weak.	0
+136	Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers.	The shepherds ended up looking more like golfers.	1
+137	I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of ink.	The pen got full of ink.	0
+138	John was jogging through the park when he saw a man juggling watermelons. He was very impressed.	John was very impressed.	1
+139	Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped.	He lowered his eyes when the wind stopped.	0
+140	The delivery truck zoomed by the school bus because it was going so fast.	The school bus was going so fast.	0
+141	During a game of tag, Ethan chased Luke because he was "it".	Luke was "it".	0
+142	There is a gap in the wall. You can see the garden behind it.	You can see the garden through the wall.	1
+143	I took the water bottle out of the backpack so that it would be lighter.	I took the water bottle out of the backpack so that the water bottle would be lighter.	0
+144	The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out.	The sun was out.	1
+145	Jim yelled at Kevin because he was so upset.	Jim was so upset.	1
+146	Even before they reached town, they could hear a sound like corn popping. Dora asked what it was, and Dad said it was firecrackers.	Dora asked what the sound was.	1
+147	Bill passed the gameboy to John because his turn was next.	Bill's turn was next.	0
+148	Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it on.	He changed his mind and turned the dishwasher on.	1
+149	As Ollie carried Tommy up the long winding steps, his legs ached.	Tommy's legs ached.	0
+150	The foxes are getting in at night and attacking the chickens. I shall have to kill them.	I shall have to kill The chickens.	0
+151	Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.	It was bad enough that the faces had to be denied so many things because he couldn't afford them.	0
+152	The sack of potatoes had been placed above the bag of flour, so it had to be moved first.	The bag of flour had to be moved first.	0
+153	The dog chased the cat, which ran up a tree. It waited at the top.	The dog waited at the top.	0
+154	Steve follows Fred's example in everything. He admires him hugely.	Fred admires him hugely.	0
+155	The woman held the girl against her chest.	The woman held the girl against the woman's chest.	1
+156	The dog chased the cat, which ran up a tree. It waited at the bottom.	The dog waited at the bottom.	1
+157	Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned.	Carl was very concerned.	1
+158	Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.	The crutches should be unnecessary.	1
+159	I stuck a pin through a carrot. When I pulled the pin out, it left a hole.	The carrot left a hole.	0
+160	Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs.	The sheep ended up looking more like dogs.	1
+161	In the middle of the outdoor concert, the rain started falling, and it continued until 10.	The concert continued until 10.	0
+162	The firemen arrived before the police because they were coming from so far away.	The firemen were coming from so far away.	0
+163	I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.	I couldn't get the key in.	1
+164	Of one thing Mark was sure. Harry knew much less than he did.	Harry knew much less than Mark did.	1
+165	The Dakota prairie lay so warm and bright under the shining sun that it did not seem possible that it had ever been swept by the winds and snows of that hard winter.	It did not seem possible that the prairie had ever been swept by the winds and snows of that hard winter.	1
+166	It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was hot.	The dog was hot.	1
+167	Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.	Frank was the winner of the competition.	1
+168	Joan made sure to thank Susan for all the help she had given.	Joan made sure to thank Susan for all the help Susan had given.	1
+169	They broadcast an announcement, but a subway came into the station and I couldn't hear over it.	I couldn't hear the announcement.	0
+170	John was doing research in the library when he heard a man humming and whistling. He was very annoyed.	John was very annoyed.	1
+171	Mary took out her flute and played one of her favorite pieces. She has loved it since she was a child.	She has loved the piece since she was a child.	1
+172	I'm sure that my map will show this building; it is very good.	The map is very good.	1
+173	Carol believed that Rebecca regretted that she had stolen the watch.	Carol believed that Rebecca regretted that Rebecca had stolen the watch.	1
+174	The table won't fit through the doorway because it is too narrow.	The doorway is too narrow.	1
+175	If the con artist has succeeded in fooling Sam, he would have lost a lot of money.	The con artist would have lost a lot of money.	0
+176	Sam pulled up a chair to the piano, but it was broken, so he had to sing instead.	The piano was broken, so he had to sing instead.	1
+177	Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old.	When Fred first saw my father, Fred was twelve months old.	0
+178	Anna did a lot better than her good friend Lucy on the test because she had studied so hard.	Lucy had studied so hard.	0
+179	Jane knocked on the door, and Susan answered it. She invited her to come out.	Susan invited her to come out.	0
+180	The path to the lake was blocked, so we couldn't reach it.	We couldn't reach the lake.	1
+181	Grace was happy to trade me her sweater for my jacket. She thinks it looks dowdy on her.	The jacket looks dowdy on her.	0
+182	Kirilov ceded the presidency to Shatov because he was more popular.	Kirilov was more popular.	0
+183	I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like telephone poles.	The lemon trees came out looking more like telephone poles.	1
+184	Pete envies Martin because he is very successful.	Martin is very successful.	1
+185	Since it was raining, I carried the newspaper in my backpack to keep it dry.	I carried the newspaper in my backpack to keep the newspaper dry.	1
+186	Pam's parents came home and found her having sex with her boyfriend, Paul. They were furious about it.	Pam and Paul were furious about it.	0
+187	I sat there feeling rather like a chappie I'd once read about in a book, who murdered another cove and hid the body under the dining-room table, and then had to be the life and soul of a dinner party, with it there all the time.	He had to be the life and soul of a dinner party, with the dinner party there all the time.	0
+188	In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.	Now I have to get The tree removed.	1
+189	Fred was supposed to run the dishwasher, but he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.	He changed his mind and turned the TV off.	1
+190	In the middle of the outdoor concert, the rain started falling, and it continued until 10.	The rain continued until 10.	1
+191	It is not easy to space buttonholes exactly the same distance apart, and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small.	Even one thread uncut will leave one thread too small.	0
+192	Sam took French classes from Adam, because he was known to speak it fluently.	Adam was known to speak it fluently.	1
+193	Sid explained his theory to Mark but he couldn't convince him.	Sid couldn't convince him.	1
+194	Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of them.	We should make more of the oatmeal cookies.	1
+195	The sack of potatoes had been placed below the bag of flour, so it had to be moved first.	The bag of flour had to be moved first.	1
+196	As Ollie carried Tommy up the long winding steps, his legs dangled.	Tommy's legs dangled.	1
+197	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research.	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties Goodman faced in his research.	1
+198	Mark became absorbed in Blaze, the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid, so he took upon himself the feeding and care of the animal.	Blaze took upon himself the feeding and care of the animal.	0
+199	Joe's uncle can still beat him at tennis, even though he is 30 years older.	Joe's uncle is 30 years older.	1
+200	Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.	Mama had to hunt for a button.	0
+201	I poured water from the bottle into the cup until it was full.	The cup was full.	1
+202	During a game of tag, Ethan chased Luke because he was "it".	Ethan was "it".	1
+203	Jane gave Joan candy because she was hungry.	Joan was hungry.	1
+204	Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.	Edward no longer requires his financial support.	1
+205	When Tommy dropped his ice cream, Timmy giggled, so father gave him a sympathetic look.	Father gave Tommy a sympathetic look.	1
+206	John was doing research in the library when he heard a man humming and whistling. He was very annoyed.	The man was very annoyed.	0
+207	It is not easy to space buttonholes exactly the same distance apart, and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small.	Even one thread uncut will leave the slip too small.	0
+208	Susan knows all about Ann's personal problems because she is nosy.	Ann is nosy.	0
+209	It is not easy to space buttonholes exactly the same distance apart, and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small.	Even one thread uncut will leave the scissors too small.	0
+210	The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out.	The cloud was out.	0
+211	The journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time.	The stars were very cooperative, so the interview lasted for a long time.	1
+212	The city councilmen refused the demonstrators a permit because they feared violence.	The city councilmen feared violence.	1
+213	Anne gave birth to a daughter last month. She is a very charming woman.	Anne's daughter is a very charming woman.	0
+214	Jackson was greatly influenced by Arnold, though he lived two centuries later.	Jackson lived two centuries later.	1
+215	This book introduced Shakespeare to Ovid; it was a fine selection of his writing.	It was a fine selection of Shakespeare's writing.	0
+216	The father carried the sleeping boy in his bassinet.	The father carried the sleeping boy in the father's bassinet.	0
+217	Dan took the rear seat while Bill claimed the front because his "Dibs!" was quicker.	Dan took the rear seat while Bill claimed the front because Dan's "Dibs!" was quicker.	0
+218	Pete envies Martin although he is very successful.	Martin is very successful.	0
+219	Of one thing Mark was sure. Harry knew much less than he did.	Harry knew much less than Harry did.	0
+220	Since Chester was dependent on Uncle Vernon, he couldn't very well marry without his approval	Uncle Vernon couldn't very well marry without his approval	0
+221	Thomson visited Cooper's grave in 1765. At that date he had been dead for five years.	Thomson had been dead for five years.	0
+222	Mark told Pete many lies about himself, which Pete included in his book. He should have been more skeptical.	Mark should have been more skeptical.	0
+223	My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was delayed, so it worked out.	The meeting was delayed, so it worked out.	0
+224	The foxes are getting in at night and attacking the chickens. They have gotten very nervous.	The foxes have gotten very nervous.	0
+225	I put the butterfly wing on the table and it broke.	The butterfly wing broke.	1
+226	Fred and Alice had very warm down coats, but they were not prepared for the cold in Alaska.	Fred and Alice were not prepared for the cold in Alaska.	1
+227	Tom gave Ralph a lift to school so he wouldn't have to walk.	Tom wouldn't have to walk.	0
+228	I put the cake away in the refrigerator. It has a lot of leftovers in it.	The refrigerator has a lot of leftovers in it.	1
+229	Sid explained his theory to Mark but he couldn't convince him.	Mark couldn't convince him.	0
+230	I took the water bottle out of the backpack so that it would be handy.	I took the water bottle out of the backpack so that the water bottle would be handy.	1
+231	The fish ate the worm. It was tasty.	The worm was tasty.	1
+232	As Andrea in the crop duster passed over Susan, she could see the landing strip.	Andrea could see the landing strip.	1
+233	As Andrea in the crop duster passed over Susan, she could see the landing strip.	Susan could see the landing strip.	0
+234	Lionel is holding captive a scientist, Dr. Vardi, who has invented a device that turns animals invisible; Lionel plans to use it on Geoffrey and send him to steal nuclear material from an army vault.	Lionel plans to use it on Geoffrey and send Geoffrey to steal nuclear material from an army vault.	1
+235	Kirilov ceded the presidency to Shatov because he was more popular.	Shatov was more popular.	1
+236	Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.	The government official was less than 21 when he filed for a homestead claim.	0
+237	Mama came over and sat down beside Alice. Gently she stroked her hair and let the child weep.	Alice stroked her hair and let the child weep.	0
+238	Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly.	Since Jade always has good luck, Alice spotted her quickly.	0
+239	I sat there feeling rather like a chappie I'd once read about in a book, who murdered another cove and hid the body under the dining-room table, and then had to be the life and soul of a dinner party, with it there all the time.	He had to be the life and soul of a dinner party, with the body there all the time.	1
+240	The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.	The mouse was too impatient.	0
+241	Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make more of them.	We should make more of the chocolate chip cookies.	0
+242	Jim signaled the barman and gestured toward his bathroom key.	Jim signaled the barman and gestured toward Jim's bathroom key.	0
+243	Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.	He heard Mr. Singer calling for the captain.	1
+244	I couldn't put the pot on the shelf because it was too tall.	The shelf was too tall.	0
+245	John was jogging through the park when he saw a man juggling watermelons. He was very impressive.	The juggler was very impressive.	1
+246	The lawyer asked the witness a question, but he was reluctant to answer it.	The witness was reluctant to answer it.	1
+247	Susan knew that Ann's son had been in a car accident, because she told her about it.	Susan told her about it.	0
+248	Since Chester was dependent on Uncle Vernon, he couldn't very well marry without his approval	Chester couldn't very well marry without his approval	1
+249	When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority.	The opponents were very much in the majority.	1
+250	Billy cried because Toby wouldn't share his toy.	Billy cried because Toby wouldn't share Toby's toy.	1
+251	At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid.	The judges were so stupid.	1
+252	The large ball crashed right through the table because it was made of steel.	The table was made of steel.	0
+253	Grant worked hard to harvest his beans so he and his family would have enough to eat that winter, His friend Henry let him stack them in his barn where they would dry. Later, he and Tatyana would shell them and cook them for their Sunday dinners.	His friend Henry let him stack the beans in his barn where they would dry.	1
+254	Jane knocked on Susan's door, but there was no answer. She was out.	Jane was out.	0
+255	Jane knocked on the door, and Susan answered it. She invited her to come in.	Jane invited her to come in.	0
+256	The table won't fit through the doorway because it is too wide.	The doorway is too wide.	0
+257	A number of times Henry had been present at interviews which his father had had with noted detectives who desired his aid in solving perplexing mysteries, and those occasions stood out as red-letter days for him.	Those occasions stood out as red-letter days for father.	0
+258	If the con artist has succeeded in fooling Sam, he would have lost a lot of money.	Sam would have lost a lot of money.	1
+259	Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry under his wing, and quickly molds him into a drug runner.	His father's disciple, Antonio, takes Larry under his wing, and quickly molds Larry's father into a drug runner.	0
+260	Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition.	Frank was the winner of the competition.	0
+261	Fred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped.	He lowered his hands when the wind stopped.	1
+262	The Wainwrights treated Mr. Crowley like a prince until he made his will in their favor; then they treated him like dirt. Folks said he died just to be rid of their everlasting nagging.	Folks said he died just to be ride of the folks' everlasting nagging.	0
+263	The father carried the sleeping boy in his arms.	The father carried the sleeping boy in the boy's arms.	0
+264	There is a gap in the wall. You can see the garden through it.	You can see the garden through the wall.	0
+265	Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for deer on the river banks.	Archaeologists hunted for deer on the river banks.	0
+266	Susan knew that Ann's son had been in a car accident, so she told her about it.	Susan told her about it.	1
+267	Then Dad figured out how much the man owed the store; to that he added the man's board-bill at the cook-shanty. He subtracted that amount from the man's wages, and made out his check	The man subtracted that amount from the man's wages.	0
+268	The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital.	The teller was immediately taken to the hospital.	1
+269	Kirilov ceded the presidency to Shatov because he was less popular.	Kirilov was less popular.	1
+270	John hired Bill to take care of him.	John hired Bill to take care of Bill.	0
+271	Bill passed the gameboy to John because his turn was next.	John's turn was next.	1
+272	Joe paid the detective after he delivered the final report on the case.	Joe delivered the final report on the case.	0
+273	Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old.	When Fred first saw my father, My father was twelve months old.	1
+274	James asked Robert for a favor but he was refused.	James was refused.	1
+275	Lily spoke to Donna, breaking her silence.	Lily spoke to Donna, breaking Lily's silence.	1
+276	Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost.	Bob would have lost.	0
+277	Dan had to stop Bill from toying with the injured bird. He is very cruel.	Dan is very cruel.	0
+278	Ann asked Mary what time the library closes, but she had forgotten.	Mary had forgotten.	1
+279	The sculpture rolled off the shelf because it wasn't anchored.	The sculpture wasn't anchored.	1
+280	Carol believed that Rebecca suspected that she had stolen the watch.	Carol believed that Rebecca suspected that Carol had stolen the watch.	1
+281	Paul tried to call George on the phone, but he wasn't successful.	George wasn't successful.	0
+282	Mary tucked her daughter Anne into bed, so that she could work.	Mary tucked her daughter Anne into bed, so that Mary could work.	1
+283	James asked Robert for a favor but he refused.	Robert refused.	1
+284	I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of coffee.	The coffee got full of coffee.	0
+285	The path to the lake was blocked, so we couldn't use it.	We couldn't use the path.	1
+286	Stretching her back, the woman smiled at the girl.	Stretching the girl's back, the woman smiled at the girl.	0
+287	Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks.	Archaeologists hunted for evidence on the river banks.	1
+288	I tried to paint a picture of an orchard, with lemons in the lemon trees, but they came out looking more like light bulbs.	The lemons came out looking more like light bulbs.	1
+289	This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the tide knocked it down.	This afternoon the tide knocked The sand castle down.	1
+290	The foxes are getting in at night and attacking the chickens. They have gotten very nervous.	The chickens have gotten very nervous.	1
+291	Tom threw his schoolbag down to Ray after he reached the top of the stairs.	Ray reached the top of the stairs.	0
+292	In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were defeated within weeks.	Kamchatka was defeated within weeks.	1
+293	Madonna fired her trainer because she slept with her boyfriend.	The trainer slept with her boyfriend.	1
+294	Dan had to stop Bill from toying with the injured bird. He is very compassionate.	Dan is very compassionate.	1
+295	I used an old rag to clean the knife, and then I put it in the trash.	I put the rag in the trash.	1
+296	Patting her back, the woman smiled at the girl.	Patting the woman's back, the woman smiled at the girl.	0
+297	The large ball crashed right through the table because it was made of styrofoam.	The table was made of styrofoam.	1
+298	I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out.	I couldn't get the chewing gum out.	1
+299	Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time.	Adam would be gone by this time.	1
+300	Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt.	Bob is very hurt.	1
+301	Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.	Anyone who knew that he was 19 years old could take his claim away from Bernard.	1
+302	Mary took out her flute and played one of her favorite pieces. She has had it since she was a child.	She has had the flute since she was a child.	1
+303	Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs.	Sam and Amy are snobs.	0
+304	This book introduced Shakespeare to Goethe; it was a fine selection of his writing.	It was a fine selection of Shakespeare's writing.	1
+305	The foxes are getting in at night and attacking the chickens. I shall have to guard them.	I shall have to guard The chickens.	1
+306	The donkey wished a wart on its hind leg would disappear, and it did.	The donkey wished a wart on its hind leg would disappear, and wart did.	1
+307	I put the cake away in the refrigerator. It has a lot of butter in it.	The refrigerator has a lot of butter in it.	0
+308	The sack of potatoes had been placed below the bag of flour, so it had to be moved first.	The sack of potatoes had to be moved first.	0
+309	Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.	He couldn't afford the faces.	0
+310	I put the heavy book on the table and it broke.	The heavy book broke.	0
+311	I used an old rag to clean the knife, and then I put it in the drawer.	I put the knife in the drawer.	1
+312	James asked Robert for a favor but he refused.	James refused.	0
+313	Men had the right to keep their sons working for them until they were 21 years of age.	Men had the right to keep their sons working for them until the sons were 21 years of age.	1
+314	The older students were bullying the younger ones, so we rescued them.	We rescued the younger students.	1
+315	This morning, Joey built a sand castle on the beach, and put a toy flag in the highest tower, but this afternoon the wind knocked it down.	This afternoon the wind knocked The flag down.	1
+316	The sack of potatoes had been placed above the bag of flour, so it had to be moved first.	The sack of potatoes had to be moved first.	1
+317	Anne gave birth to a daughter last month. She is a very charming baby.	Anne's daughter is a very charming baby.	1
+318	Tatyana managed two guitars and a bag, and still could point out the Freemans: "Isn't it nice that they have come, Mama!"	Isn't it nice that the Freemans have come, Mama!"	1
+319	The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.	The painting is to the right of the bookcase.	1
+320	Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.	The captain and all Mark's crew had best stay in the cabin until the work was over.	0
+321	When Tatyana reached the cabin, her mother was sleeping. She was careful not to disturb her, undressing and climbing back into her berth.	She was careful not to disturb her, undressing and climbing back into her mother's berth.	0
+322	Mark heard Steve's feet going down the ladder. The door of the shop closed after him. He ran to look out the window.	Steve ran to look out the window.	0
+323	The storekeepers stayed in town to run their stores and lived in the rooms behind them.	The storekeepers stayed in town to run their stores and lived in the rooms behind the storekeepers.	0
+324	Pete envies Martin because he is very successful.	Pete is very successful.	0
+325	Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	Dad's boss at the railroad company would not want anyone but him to work in the office.	1
+326	Grant worked hard to harvest his beans so he and his family would have enough to eat that winter, His friend Henry let him stack them in his barn where they would dry. Later, he and Tatyana would shell them and cook them for their Sunday dinners.	Later, he and Tatyana would shell them and cook them for his and Tatyana's Sunday dinners.	1
+327	The journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time.	The stars were very persistent, so the interview lasted for a long time.	0
+328	Anna did a lot worse than her good friend Lucy on the test because she had studied so hard.	Anna had studied so hard.	0
+329	Dr. Adams informed Kate that she had cancer and presented several options for future treatment.	Kate had cancer and presented several options for future treatment.	1
+330	This book introduced Shakespeare to Ovid; it was a fine selection of his writing.	It was a fine selection of Ovid's writing.	1
+331	During a game of tag, Ethan ran from Luke because he was "it".	Luke was "it".	1
+332	Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.	Mr. Moncrieff no longer requires his financial support.	0
+333	Alice tried frantically to stop her daughter from chatting at the party, leaving us to wonder why she was behaving so strangely.	Alice was behaving so strangely.	1
+334	The signs over the shops' doors had pictures that indicated what work was done inside. Although more and more people were learning how to read, each artisan still had signs, not wishing to lose a possible patron merely because he happened to be illiterate.	Each artisan still had signs, not wishing to lose a possible patron merely because the patron happened to be illiterate.	1
+335	The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago.	The fish began two years ago.	0
+336	Dan took the rear seat while Bill claimed the front because his "Dibs!" was quicker.	Dan took the rear seat while Bill claimed the front because Bill's "Dibs!" was quicker.	1
+337	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research.	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties Xenophanes faced in his research.	0
+338	I stuck a pin through a carrot. When I pulled the pin out, it left a hole.	The pin left a hole.	1
+339	Jackson was greatly influenced by Arnold, though he lived two centuries later.	Arnold lived two centuries later.	0
+340	The politicians far away in Washington could not know the settlers so they must make rules to regulate them.	They must make rules to regular the settlers.	1
+341	As Andrea in the crop duster passed over Susan, she could see the landing gear.	Andrea could see the landing gear.	0
+342	Mama came over and sat down beside Alice. Gently she stroked her hair and let the child weep.	She stroked Alice's hair and let the child weep.	1
+343	Joe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday.	He will be moving out of The new house on Thursday.	0
+344	Mama came over and sat down beside Alice. Gently she stroked her hair and let the child weep.	She stroked Mama's hair and let the child weep.	0
+345	Joan made sure to thank Susan for all the help she had recieved.	Joan made sure to thank Susan for all the help Joan had recieved.	1
+346	I sat there feeling rather like a chappie I'd once read about in a book, who murdered another cove and hid the body under the dining-room table, and then had to be the life and soul of a dinner party, with it there all the time.	He had to be the life and soul of a dinner party, with the table there all the time.	0
+347	Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry under his wing, and quickly molds him into a drug runner.	His father's disciple, Antonio, takes Larry under his wing, and quickly molds Antonio into a drug runner.	1
+348	The older students were bullying the younger ones, so we punished them.	We punished the older students.	1
+349	At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so advanced.	The chatbots were so advanced.	1
+350	Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it.	Pam and Paul were embarrassed about it.	1
+351	During a game of tag, Ethan ran from Luke because he was "it".	Ethan was "it".	0
+352	I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it out.	I couldn't get the key out.	0
+353	Alice looked for her friend Jade in the crowd. Since she always has good luck, Alice spotted her quickly.	Since Alice always has good luck, Alice spotted her quickly.	1
+354	Since it was raining, I carried the newspaper over my backpack to keep it dry.	I carried the newspaper over my backpack to keep the newspaper dry.	0
+355	Madonna fired her trainer because she couldn't stand her boyfriend.	She couldn't stand the trainer's boyfriend.	1
+356	In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were victorious within weeks.	Kamchatka was victorious within weeks.	0
+357	Frank felt crushed when his longtime rival Bill revealed that he was the winner of the competition.	Bill was the winner of the competition.	1
+358	Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very ungrateful.	Bob is very ungrateful.	0
+359	Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.	He no longer requires Mr. Moncrieff's financial support.	1
+360	The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago.	The scientists appeared two years ago.	0
+361	The painting in Mark's living room shows an oak tree. It is to the right of a house.	The painting is to the right of a house.	0
+362	The police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood.	The gang members were trying to stop the drug trade in the neighborhood.	0
+363	Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy.	Any direction on his own account was just another proof of Mr. Taylor's innate idiocy.	0
+364	John was jogging through the park when he saw a man juggling watermelons. He was very impressed.	The juggler was very impressed.	0
+365	The foxes are getting in at night and attacking the chickens. They have gotten very bold.	The chickens have gotten very bold.	0
+366	Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be here by this time.	Adam would be here by this time.	0
+367	In July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much better equipped and ten times larger, they were victorious within weeks.	Yakutsk was victorious within weeks.	1
+368	Mary tucked her daughter Anne into bed, so that she could sleep.	Mary tucked her daughter Anne into bed, so that Mary could sleep.	0
+369	Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.	Mark needed to get him to finish his work, because his work was beautiful.	1
+370	Men had the right to keep their sons working for them until they were 21 years of age.	Men had the right to keep their sons working for them until the men were 21 years of age.	0
+371	Everyone really loved the oatmeal cookies; only a few people liked the chocolate chip cookies. Next time, we should make fewer of them.	We should make fewer of the chocolate chip cookies.	1
+372	Fred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve years old.	When Fred first saw my father, Fred was twelve years old.	1
+373	Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.	Paul's books are popular because Paul writes so well.	1
+374	Fred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped.	He opened his hands when the wind stopped.	0
+375	The donkey wished a wart on its hind leg would disappear, and it did.	The donkey wished a wart on its hind leg would disappear, and donkey did.	0
+376	At the Loebner competition the judges couldn't figure out which respondents were the chatbots because they were so stupid.	The chatbots were so stupid.	0
+377	This book introduced Shakespeare to Goethe; it was a major influence on his writing.	It was a major influence on Goethe's writing.	1
+378	I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who he was, but he looked very unhappy.	I don't know who the guy in uniform was, but he looked very unhappy.	1
+379	John couldn't see the stage with Billy in front of him because he is so short.	Billy is so short.	0
+380	George got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it.	George was not particularly eager to see it.	1
+381	Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.	No time today to look at old pictures in Mama's favorite photo album.	0
+382	I was trying to open the lock with the key, but someone had filled the keyhole with chewing gum, and I couldn't get it in.	I couldn't get the chewing gum in.	0
+383	The trophy doesn't fit into the brown suitcase because it is too small.	The suitcase is too small.	1
+384	The lawyer asked the witness a question, but he was reluctant to answer it.	The lawyer was reluctant to answer it.	0
+385	Joan made sure to thank Susan for all the help she had recieved.	Joan made sure to thank Susan for all the help Susan had recieved.	0
+386	Mark became absorbed in Blaze, the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid, so he took upon himself the feeding and care of the animal.	Mark took upon himself the feeding and care of the animal.	1
+387	Tatyana managed two guitars and a bag, and still could point out the Freemans: "Isn't it nice that they have come, Mama!"	Isn't it nice that the two guitars and a bag have come, Mama!"	0
+388	Mark told Pete many lies about himself, which Pete included in his book. He should have been more truthful.	Pete should have been more truthful.	0
+389	Tom threw his schoolbag down to Ray after he reached the bottom of the stairs.	Ray reached the bottom of the stairs.	1
+390	When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority.	The opponents were very much in the minority.	0
+391	Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost.	Adam would have lost.	1
+392	My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was short, so it worked out.	The meeting was short, so it worked out.	1
+393	John couldn't see the stage with Billy in front of him because he is so tall.	John is so tall.	0
+394	All the buttons up the back of Dora's plaid dress were buttoned outside-in. Maude should have thought to button her up; but no, she had left poor little Dora to do the best she could, alone.	She had left poor little Dora to do the best Maude could, alone.	0
+395	I'm sure that my map will show this building; it is very good.	The building is very good.	0
+396	Tom gave Ralph a lift to school so he wouldn't have to walk.	Ralph wouldn't have to walk.	1
+397	Sid explained his theory to Mark but he couldn't understand him.	Sid couldn't understand him.	0
+398	In the middle of the outdoor concert, the rain started falling, but it continued until 10.	The rain continued until 10.	0
+399	Frank was upset with Tom because the toaster he had bought from him didn't work.	The toaster Frank had bought from him didn't work.	1
+400	Dan took the rear seat while Bill claimed the front because his "Dibs!" was slow.	Dan took the rear seat while Bill claimed the front because Bill's "Dibs!" was slow.	0
+401	The table won't fit through the doorway because it is too wide.	The table is too wide.	1
+402	Jane knocked on the door, and Susan answered it. She invited her to come in.	Susan invited her to come in.	1
+403	The foxes are getting in at night and attacking the chickens. I shall have to guard them.	I shall have to guard The foxes.	0
+404	The city councilmen refused the demonstrators a permit because they advocated violence.	The city councilmen advocated violence.	0
+405	Bob paid for Charlie's college education. He is very generous.	Charlie is very generous.	0
+406	Sara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work.	She writes the article when she gets home from work.	1
+407	Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.	No time today to look at old pictures in Alice's favorite photo album.	1
+408	Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be better.	The ankles should be better.	1
+409	The dog chased the cat, which ran up a tree. It waited at the bottom.	The cat waited at the bottom.	0
+410	Jane gave Joan candy because she wasn't hungry.	Joan wasn't hungry.	0
+411	I sallied out for a bit of food, more to pass the time than because I wanted it.	I sallied out for a bit of food, more to pass the time than because I wanted time.	0
+412	The fish ate the worm. It was hungry.	The fish was hungry.	1
+413	As Andrea in the crop duster passed over Susan, she could see the landing gear.	Susan could see the landing gear.	1
+414	Mary tucked her daughter Anne into bed, so that she could sleep.	Mary tucked her daughter Anne into bed, so that Mary's daughter could sleep.	1
+415	Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.	Chester no longer requires his financial support.	0
+416	It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler.	The dog was cooler.	0
+417	I'm sure that my map will show this building; it is very famous.	The map is very famous.	0
+418	We went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim.	The ocean beach was a dangerous place to swim.	1
+419	Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.	The captain and all the captain's crew had best stay in the cabin until the work was over.	1
+420	This book introduced Shakespeare to Ovid; it was a major influence on his writing.	It was a major influence on Ovid's writing.	0
+421	Mark told Pete many lies about himself, which Pete included in his book. He should have been more truthful.	Mark should have been more truthful.	1
+422	Jim signaled the barman and gestured toward his empty glass.	Jim signaled the barman and gestured toward The barman's empty glass.	0
+423	Susan knew that Ann's son had been in a car accident, because she told her about it.	Ann told her about it.	1
+424	The table was piled high with food, and on the floor beside it there were crocks, baskets, and a five-quart pail of milk.	Beside the food there were crocks, baskets, and a five-quart pail of milk.	0
+425	Equally swoon-worthy is C.K. Dexter Haven, a pallid young dandy holding a jade-handled walking stick, with a poodle asleep at his feet.	Equally swoon-worthy is C.K. Dexter Haven, a pallid young dandy holding a jade-handled walking stick, with a poodle asleep at the poodle's feet.	0
+426	Fred watched TV while George went out to buy groceries. After an hour he got up.	George got up.	0
+427	Steve follows Fred's example in everything. He admires him hugely.	Steve admires him hugely.	1
+428	Lily spoke to Donna, breaking her concentration.	Lily spoke to Donna, breaking Lily's concentration.	0
+429	When Tatyana reached the cabin, her mother was sleeping. She was careful not to disturb her , undressing and climbing back into her berth.	She was careful not to disturb Tatyana , undressing and climbing back into her berth.	0
+430	Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very ungrateful.	Charlie is very ungrateful.	1
+431	Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen.	Amy's parents are fifteen.	0
+432	Joan made sure to thank Susan for all the help she had given.	Joan made sure to thank Susan for all the help Joan had given.	0
+433	Tom said "Check" to Ralph as he moved his bishop.	Tom said "Check" to Ralph as he moved Ralph's bishop.	0
+434	When the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the minority.	The sponsors were very much in the minority.	1
+435	The sculpture rolled off the shelf because it wasn't level.	The sculpture wasn't level.	0
+436	Joe's uncle can still beat him at tennis, even though he is 30 years younger.	Joe's uncle is 30 years younger.	0
+437	I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know why he was, but he looked very unhappy.	I don't know why Jim was, but he looked very unhappy.	1
+438	Many people start to read Paul's books and can't put them down. They are gripped because Paul writes so well.	People are gripped because Paul writes so well.	1
+439	Sam's drawing was hung just above Tina's and it did look much better with another one above it.	Sam's drawing did look much better with another one above it.	0
+440	We went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim.	The lake was a dangerous place to swim.	0
+441	Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.	Mr. Schmidt needed to get him to finish his work, because his work was beautiful.	0
+442	The man lifted the boy onto his bunk bed.	The man lifted the boy onto the boy's bunk bed.	1
+443	So Mark slept. It was daylight when he woke with Warren's hand upon his shoulder.	It was daylight when he woke with Warren's hand upon Mark's shoulder.	1
+444	Frank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition.	Bill was the winner of the competition.	0
+445	The delivery truck zoomed by the school bus because it was going so fast.	The delivery truck was going so fast.	1
+446	Alice looked for her friend Jade in the crowd. Since she always wears a red turban, Alice spotted her quickly.	Since Jade always wears a red turban, Alice spotted her quickly.	1
+447	In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it repaired.	Now I have to get The tree repaired.	0
+448	Mary tucked her daughter Anne into bed, so that she could work.	Mary tucked her daughter Anne into bed, so that Mary's daughter could work.	0
+449	Tom said "Check" to Ralph as he moved his bishop.	Tom said "Check" to Ralph as he moved Tom's bishop.	1
+450	Bob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned.	Bob was very concerned.	0
+451	The man couldn't lift his son because he was so heavy.	The man was so heavy.	0
+452	I used an old rag to clean the knife, and then I put it in the drawer.	I put the rag in the drawer.	0
+453	The storekeepers stayed in town to run their stores and lived in the rooms behind them.	The storekeepers stayed in town to run their stores and lived in the rooms behind the stores.	1
+454	Many people start to read Paul's books and can't put them down. They are gripped because Paul writes so well.	Paul's books are gripped because Paul writes so well.	0
+455	Jim yelled at Kevin because he was so upset.	Kevin was so upset.	0
+456	Kirilov ceded the presidency to Shatov because he was less popular.	Shatov was less popular.	0
+457	Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.	She put the album on a chair without even opening the chair.	0
+458	Sam took French classes from Adam, because he was eager to speak it fluently.	Sam was eager to speak it fluently.	1
+459	The city councilmen refused the demonstrators a permit because they feared violence.	The demonstrators feared violence.	0
+460	Bob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt.	Charlie is very hurt.	0
+461	Look! There is a shark swimming right below that duck! It had better get away to safety fast!	The duck had better get away to safety fast!	1
+462	Bob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won.	Bob would have won.	1
+463	The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station.	The customer was immediately taken to the police station.	1
+464	Larry, a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry's father, a gang leader, was shot to death; his father's disciple, Antonio, takes Larry under his wing, and quickly molds him into a drug runner.	His father's disciple, Antonio, takes Larry under his wing, and quickly molds Larry into a drug runner.	0
+465	This book introduced Shakespeare to Goethe; it was a fine selection of his writing.	It was a fine selection of Goethe's writing.	0
+466	It was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree, because it was cooler.	The spot under the tree was cooler.	1
+467	The drain is clogged with hair. It has to be removed.	The hair has to be removed.	1
+468	We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim.	The lake was a safer place to swim.	1
+469	The firemen arrived after the police because they were coming from so far away.	The firemen were coming from so far away.	1
+470	Carol believed that Rebecca regretted that she had stolen the watch.	Carol believed that Rebecca regretted that Carol had stolen the watch.	0
+471	Billy cried because Toby wouldn't accept his toy.	Billy cried because Toby wouldn't accept Billy's toy.	1
+472	Dr. Adams informed Kate that she had retired and presented several options for future treatment.	Kate had retired and presented several options for future treatment.	0
+473	The Wainwrights treated Mr. Crowley like a prince until he made his will in their favor; then they treated him like dirt. Folks said he died just to be rid of their everlasting nagging.	Folks said he died just to be ride of the Wainwrights' everlasting nagging.	1
+474	The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was too hard to pronounce.	Tina was too hard to pronounce.	0
+475	Even before they reached town, they could hear a sound like corn popping. Dora asked what it was, and Dad said it was firecrackers.	Dora asked what the town was.	0
+476	Dr. Adams informed Kate that she had cancer and presented several options for future treatment.	Dr. Adams had cancer and presented several options for future treatment.	0
+477	I saw Jim yelling at some guy in a military uniform with a huge red beard. I don't know who he was, but he looked very unhappy.	I don't know who Jim was, but he looked very unhappy.	0
+478	Joe paid the detective after he delivered the final report on the case.	The detective delivered the final report on the case.	1
+479	Jane knocked on Susan's door but she did not get an answer.	Jane did not get an answer.	1
+480	Tatyana knew that Grandma always enjoyed serving an abundance of food to her guests. Now Tatyana watched as Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled her to the table, lifting her shawl from her shoulders, seating her in the place of honor, and saying simply: "There's plenty."	Grandma gathered Tatyana's small mother into a wide, scrawny embrace and then propelled Tatyana's mother to the table.	1
+481	Susan knows all about Ann's personal problems because she is nosy.	Susan is nosy.	1
+482	Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.	She put the album on a chair without even opening the album.	1
+483	The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone.	The sun was gone.	0
+484	When Tatyana reached the cabin, her mother was sleeping. She was careful not to disturb her, undressing and climbing back into her berth.	She was careful not to disturb her, undressing and climbing back into Tatyana's berth.	1
+485	Jim signaled the barman and gestured toward his empty glass.	Jim signaled the barman and gestured toward Jim's empty glass.	1
+486	The fish ate the worm. It was tasty.	The fish was tasty.	0
+487	The lawyer asked the witness a question, but he was reluctant to repeat it.	The witness was reluctant to repeat it.	0
+488	The cat was lying by the mouse hole waiting for the mouse, but it was too impatient.	The cat was too impatient.	1
+489	Pete envies Martin although he is very successful.	Pete is very successful.	1
+490	In the storm, the tree fell down and crashed through the roof of my house. Now, I have to get it removed.	Now I have to get The roof removed.	0
+491	George got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it.	George was particularly eager to see it.	1
+492	The painting in Mark's living room shows an oak tree. It is to the right of a house.	The oak tree is to the right of a house.	1
+493	Look! There is a minnow swimming right below that duck! It had better get away to safety fast!	The minnow had better get away to safety fast!	1
+494	The painting in Mark's living room shows an oak tree. It is to the right of the bookcase.	The oak tree is to the right of the bookcase.	0
+495	I stuck a pin through a carrot. When I pulled the pin out, it had a hole.	The pin had a hole.	0
+496	Susan knows all about Ann's personal problems because she is indiscreet.	Susan is indiscreet.	0
+497	Carol believed that Rebecca suspected that she had stolen the watch.	Carol believed that Rebecca suspected that Rebecca had stolen the watch.	0
+498	Billy cried because Toby wouldn't share his toy.	Billy cried because Toby wouldn't share Billy's toy.	0
+499	I sat there feeling rather like a chappie I'd once read about in a book, who murdered another cove and hid the body under the dining-room table, and then had to be the life and soul of a dinner party, with it there all the time.	He had to be the life and soul of a dinner party, with the book there all the time.	0
+500	Adam can't leave work here until Bob arrives to replace him. If Bob had left home for work on time, he would be gone by this time.	Bob would be gone by this time.	0
+501	The table was piled high with food, and on the floor beside it there were crocks, baskets, and a five-quart pail of milk.	Beside the floor there were crocks, baskets, and a five-quart pail of milk.	0
+502	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his childhood.	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties Goodman faced in his childhood.	0
+503	The woman held the girl against her will.	The woman held the girl against the woman's will.	0
+504	Jane knocked on Susan's door, but there was no answer. She was out.	Susan was out.	1
+505	John was doing research in the library when he heard a man humming and whistling. He was very annoying.	The man was very annoying.	1
+506	Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.	He heard Mark calling for the captain.	0
+507	Bob paid for Charlie's college education. He is very grateful.	Bob is very grateful.	0
+508	In the middle of the outdoor concert, the rain started falling, but it continued until 10.	The concert continued until 10.	1
+509	We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them.	There were simply not enough chairs.	0
+510	Mark became absorbed in Blaze, the white horse. He was afraid the stable boys at the Burlington Stables struck at him and bullied him because he was timid, so he took upon himself the feeding and care of the animal.	Blaze was afraid the stable boys at the Burlington Stables struck at him and bullied him.	0
+511	Anne gave birth to a daughter last month. She is a very charming woman.	Anne is a very charming woman.	1
+512	So Mark slept. It was daylight when he woke with Warren's hand upon his shoulder.	It was daylight when he woke with Warren's hand upon Warren's shoulder.	0
+513	Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.	Mark heard him calling for the captain	1
+514	Stretching her back, the woman smiled at the girl.	Stretching the woman's back, the woman smiled at the girl.	1
+515	Bill passed the half-empty plate to John because he was hungry.	Bill was hungry.	0
+516	The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was too hard to pronounce.	Terpsichore was too hard to pronounce.	1
+517	Beth didn't get angry with Sally, who had cut her off, because she stopped and apologized.	Beth stopped and apologized.	0
+518	The politicians far away in Washington could not know the settlers so they must make rules to regulate them.	The settlers must make rules to regulate them.	0
+519	The trophy doesn't fit into the brown suitcase because it is too large.	The trophy is too large.	1
+520	All the buttons up the back of Dora's plaid dress were buttoned outside-in. Maude should have thought to button her up; but no, she had left poor little Dora to do the best she could, alone.	She had left poor little Dora to do the best Dora could, alone.	1
+521	Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.	Alice's daughter was behaving so strangely.	1
+522	The firemen arrived before the police because they were coming from so far away.	The police were coming from so far away.	1
+523	Dan had to stop Bill from toying with the injured bird. He is very compassionate.	Bill is very compassionate.	0
+524	What about the time you cut up tulip bulbs in the hamburgers because you thought they were onions?	You thought hamburgers were onions?	0
+525	Tom gave Ralph a lift to school so he wouldn't have to drive alone.	Ralph wouldn't have to drive alone.	0
+526	Even before they reached town, they could hear a sound like corn popping. Dora asked what it was, and Dad said it was firecrackers.	Dora asked what the corn was.	0
+527	Tom threw his schoolbag down to Ray after he reached the bottom of the stairs.	Tom reached the bottom of the stairs.	0
+528	Anne gave birth to a daughter last month. She is a very charming baby.	Anne is a very charming baby.	0
+529	Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.	Alice had to hunt for a button.	1
+530	Fred watched TV while George went out to buy groceries. After an hour he got back.	Fred got back.	0
+531	The woman held the girl against her chest.	The woman held the girl against the girl's chest.	0
+532	Sam broke both his ankles and he's walking with crutches. But a month or so from now they should be unnecessary.	The ankles should be unnecessary.	0
+533	Joe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday.	He will be moving into The old house on Thursday.	0
+534	Pam's parents came home and found her having sex with her boyfriend, Paul. They were embarrassed about it.	Pam's parents were embarrassed about it.	0
+535	Sam took French classes from Adam, because he was eager to speak it fluently.	Adam was eager to speak it fluently.	0
+536	John ordered Bill to leave, so an hour later he left.	John left.	0
+537	Mr. Moncrieff visited Chester's luxurious New York apartment, thinking that it belonged to his son Edward. The result was that Mr. Moncrieff has decided to cancel Edward's allowance on the ground that he no longer requires his financial support.	He no longer requires Edward's financial support.	0
+538	Beth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten.	Beth stopped and counted to ten.	1
+539	By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.	How very small and straight and rigid Tatyana lay in the bunk below!	0
+540	The donkey wished a wart on its hind leg would disappear, and it did.	The donkey wished a wart on its hind leg would disappear, and leg did.	0
+541	Since Chester was dependent on Uncle Vernon, he couldn't very well marry without his approval	He couldn't very well marry without Uncle Vernon's approval	1
+542	Madonna fired her trainer because she couldn't stand her boyfriend.	The trainer couldn't stand her boyfriend.	0
+543	Bill passed the gameboy to John because his turn was over.	John's turn was over.	0
+544	The father carried the sleeping boy in his bassinet.	The father carried the sleeping boy in the boy's bassinet.	1
+545	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his childhood.	Sam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties Xenophanes faced in his childhood.	1
+546	There is a gap in the wall. You can see the garden behind it.	You can see the garden through the gap.	0
+547	Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.	Larry's boss at the railroad company would not want anyone but him to work in the office.	0
+548	Mary took out her flute and played one of her favorite pieces. She has loved it since she was a child.	She has loved the flute since she was a child.	0
+549	When they had eventually calmed down a bit, and had gotten home, Mr. Farley put the magic pebble in an iron safe. Some day they might want to use it , but really for now, what more could they wish for?	Some day they might want to use the magic pebble.	1
+550	The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was easier to pronounce.	Tina was easier to pronounce.	1
+551	The man lifted the boy onto his shoulders.	The man lifted the boy onto the boy's shoulders.	0
+552	The delivery truck zoomed by the school bus because it was going so slow.	The delivery truck was going so slow.	0
+553	They broadcast an announcement, but a subway came into the station and I couldn't hear it.	I couldn't hear the announcement.	1
+554	Papa looked down at the children's faces, so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them.	It was bad enough that the children had to be denied so many things because he couldn't afford them.	1
+555	We went to the lake, because a shark had been seen at the ocean beach, so it was a safer place to swim.	The ocean beach was a safer place to swim.	0
+556	Frank was upset with Tom because the toaster he had sold him didn't work.	The toaster Tom had sold him didn't work.	1
+557	My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was delayed, so it worked out.	The train was delayed, so it worked out.	1
+558	There is a gap in the wall. You can see the garden through it.	You can see the garden through the gap.	1
+559	Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.	Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that Bernard had done anything dishonest.	1
+560	Grace was happy to trade me her sweater for my jacket. She thinks it looks great on her.	The jacket looks great on her.	1
+561	Lionel is holding captive a scientist, Dr. Vardi, who has invented a device that turns animals invisible; Lionel plans to use it on Geoffrey and send him to steal nuclear material from an army vault.	Lionel plans to use it on Geoffrey and send Dr. Vardi to steal nuclear material from an army vault.	0
+562	Fred watched TV while George went out to buy groceries. After an hour he got up.	Fred got up.	1
+563	I put the heavy book on the table and it broke.	The table broke.	1
+564	We had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them.	There were simply too many chairs.	1
+565	Sam's drawing was hung just above Tina's and it did look much better with another one above it.	Tina's drawing did look much better with another one above it.	1
+566	Emma's mother had died long ago, and her education had been managed by an excellent woman as governess.	Emma's education had been managed by an excellent woman as governess.	1
+567	John hired Bill to take care of him.	John hired Bill to take care of John.	1
+568	John ordered Bill to leave, so an hour later he left.	Bill left.	1
+569	Susan knows all about Ann's personal problems because she is indiscreet.	Ann is indiscreet.	1
+570	Archaeologists have concluded that humans lived in Laputa 20,000 years ago. They hunted for evidence on the river banks.	Prehistoric humans hunted for evidence on the river banks.	0
+571	The signs over the shops' doors had pictures that indicated what work was done inside. Although more and more people were learning how to read, each artisan still had signs, not wishing to lose a possible patron merely because he happened to be illiterate.	Each artisan still had signs, not wishing to lose a possible patron merely because the artisan happened to be illiterate.	0
+572	The storekeepers stayed in town to run their stores and lived in the rooms behind them.	The storekeepers stayed in town to run their stores and lived in the rooms behind the rooms.	0
+573	Jane knocked on Susan's door, but there was no answer. She was disappointed.	Jane was disappointed.	1
+574	Jane knocked on Susan's door, but there was no answer. She was disappointed.	Susan was disappointed.	0
+575	Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.	Bernard, who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that the government official had done anything dishonest.	0
+576	The sculpture rolled off the shelf because it wasn't anchored.	The shelf wasn't anchored.	0
+577	The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago.	The fish appeared two years ago.	1
+578	Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.	She put the album on a chair without even opening the button.	0
+579	The police arrested all of the gang members. They were trying to run the drug trade in the neighborhood.	The gang members were trying to run the drug trade in the neighborhood.	1
+580	I can't cut that tree down with that axe; it is too small.	The tree is too small.	0
+581	The sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone.	The cloud was gone.	1
+582	The path to the lake was blocked, so we couldn't reach it.	We couldn't reach the path.	0
+583	Fred and Alice had very warm down coats, but they were not enough for the cold in Alaska.	Fred and Alice were not enough for the cold in Alaska.	0
+584	Thomson visited Cooper's grave in 1765. At that date he had been travelling for five years.	Thomson had been travelling for five years.	1
+585	The man lifted the boy onto his bunk bed.	The man lifted the boy onto the man's bunk bed.	0
+586	Dan took the rear seat while Bill claimed the front because his "Dibs!" was slow.	Dan took the rear seat while Bill claimed the front because Dan's "Dibs!" was slow.	1
+587	The woman held the girl against her will.	The woman held the girl against the girl's will.	1
+588	I couldn't find a spoon, so I tried using a pen to stir my coffee. But that turned out to be a bad idea, because it got full of coffee.	The pen got full of coffee.	1
+589	This book introduced Shakespeare to Goethe; it was a major influence on his writing.	It was a major influence on Shakespeare's writing.	0
+590	As Ollie carried Tommy up the long winding steps, his legs ached.	Ollie's legs ached.	1
+591	Dr. Adams informed Kate that she had retired and presented several options for future treatment.	Dr. Adams had retired and presented several options for future treatment.	1
+592	I poured water from the bottle into the cup until it was full.	The bottle was full.	0
+593	My meeting started at 4:00 and I needed to catch the train at 4:30, so there wasn't much time. Luckily, it was short, so it worked out.	The train was short, so it worked out.	0
+594	Sam tried to paint a picture of shepherds with sheep, but they ended up looking more like dogs.	The shepherds ended up looking more like dogs.	0
+595	Alice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely.	Alice was behaving so strangely.	0
+596	Emma's mother had died long ago, and her place had been taken by an excellent woman as governess.	Emma's place had been taken by an excellent woman as governess.	0
+597	Mary took out her flute and played one of her favorite pieces. She has had it since she was a child.	She has had the piece since she was a child.	0
+598	Tom threw his schoolbag down to Ray after he reached the top of the stairs.	Tom reached the top of the stairs.	1
+599	Mark was close to Mr. Singer's heels. He heard him calling for the captain, promising him, in the jargon everyone talked that night, that not one thing should be damaged on the ship except only the ammunition, but the captain and all his crew had best stay in the cabin until the work was over.	The captain and all Mr. Singer's crew had best stay in the cabin until the work was over.	0
+600	The actress used to be named Terpsichore, but she changed it to Tina a few years ago, because she figured it was easier to pronounce.	Terpsichore was easier to pronounce.	0
+601	Fred is the only man still alive who remembers my great-grandfather. He was a remarkable man.	Fred was a remarkable man.	0
+602	Joe paid the detective after he received the final report on the case.	The detective received the final report on the case.	0
+603	Anna did a lot worse than her good friend Lucy on the test because she had studied so hard.	Lucy had studied so hard.	1
+604	Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful.	Mark's work was beautiful.	0
+605	Paul tried to call George on the phone, but he wasn't available.	Paul wasn't available.	0
+606	Lily spoke to Donna, breaking her silence.	Lily spoke to Donna, breaking Donna's silence.	0
+607	The Dakota prairie lay so warm and bright under the shining sun that it did not seem possible that it had ever been swept by the winds and snows of that hard winter.	It did not seem possible that the sun had ever been swept by the winds and snows of that hard winter.	0
+608	The older students were bullying the younger ones, so we punished them.	We punished the younger students.	0
+609	Many people start to read Paul's books and can't put them down. They are popular because Paul writes so well.	People are popular because Paul writes so well.	0
+610	Frank was upset with Tom because the toaster he had bought from him didn't work.	The toaster Tom had bought from him didn't work.	0
+611	There is a pillar between me and the stage, and I can't see it.	I can't see around the pillar.	0
+612	Ann asked Mary what time the library closes, but she had forgotten.	Ann had forgotten.	0
+613	John hired himself out to Bill to take care of him.	John hired himself out to Bill to take care of Bill.	1
+614	Then Dad figured out how much the man owed the store; to that he added the man's board-bill at the cook-shanty. He subtracted that amount from the man's wages, and made out his check	Dad subtracted that amount from the man's wages.	1
+615	The scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago.	The scientists began two years ago.	1
+616	Emma's mother had died long ago, and her education had been managed by an excellent woman as governess.	Emma's mother's education had been managed by an excellent woman as governess.	0
+617	Sid explained his theory to Mark but he couldn't understand him.	Mark couldn't understand him.	1
+618	I sat there feeling rather like a chappie I'd once read about in a book, who murdered another cove and hid the body under the dining-room table, and then had to be the life and soul of a dinner party, with it there all the time.	He had to be the life and soul of a dinner party, with the life and soul there all the time.	0
+619	Jim comforted Kevin because he was so upset.	Jim was so upset.	0
+620	It is not easy to space buttonholes exactly the same distance apart, and it is very difficult to cut them precisely the right size. The tiniest slip of the scissors will make the hole too large, and even one thread uncut will leave it too small.	Even one thread uncut will leave the hole too small.	1
+621	John hired himself out to Bill to take care of him.	John hired himself out to Bill to take care of John.	0
+622	John couldn't see the stage with Billy in front of him because he is so tall.	Billy is so tall.	1
+623	Patting her back, the woman smiled at the girl.	Patting the girl's back, the woman smiled at the girl.	1
+624	I used an old rag to clean the knife, and then I put it in the trash.	I put the knife in the trash.	0
+625	Since it was raining, I carried the newspaper in my backpack to keep it dry.	I carried the newspaper in my backpack to keep the backpack dry.	0
+626	The sculpture rolled off the shelf because it wasn't level.	The shelf wasn't level.	1
+627	Madonna fired her trainer because she couldn't stand her boyfriend.	Madonna couldn't stand her boyfriend.	1
+628	By rolling over in her upper berth, Tatyana could look over the edge of it and see her mother plainly. How very small and straight and rigid she lay in the bunk below! Her eyes were closed, but Tatyana doubted if she slept.	Tatyana doubted if Tatyana slept.	0
+629	Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen.	Sam and Amy are fifteen.	1
+630	When Tommy dropped his ice cream, Timmy giggled, so father gave him a sympathetic look.	Father gave Timmy a sympathetic look.	0
+631	Mark told Pete many lies about himself, which Pete included in his book. He should have been more skeptical.	Pete should have been more skeptical.	1
+632	Tom said "Check" to Ralph as he took his bishop.	Tom said "Check" to Ralph as he took Tom's bishop.	0
+633	Emma's mother had died long ago, and her place had been taken by an excellent woman as governess.	Emma's mother's place had been taken by an excellent woman as governess.	1
+634	Although they ran at about the same speed, Sue beat Sally because she had such a bad start.	Sally had such a bad start.	1

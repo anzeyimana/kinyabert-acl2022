@@ -1,0 +1,6 @@
+gs://mrpc_input/train_input0.txt,rw,gs://mrpc_output/mrpc_input_train_input0_rw_translations.txt,,,
+gs://mrpc_input/test_input1.txt,rw,gs://mrpc_output/mrpc_input_test_input1_rw_translations.txt,,,
+gs://mrpc_input/test_input0.txt,rw,gs://mrpc_output/mrpc_input_test_input0_rw_translations.txt,,,
+gs://mrpc_input/dev_input0.txt,rw,gs://mrpc_output/mrpc_input_dev_input0_rw_translations.txt,,,
+gs://mrpc_input/dev_input1.txt,rw,gs://mrpc_output/mrpc_input_dev_input1_rw_translations.txt,,,
+gs://mrpc_input/train_input1.txt,rw,gs://mrpc_output/mrpc_input_train_input1_rw_translations.txt,,,
