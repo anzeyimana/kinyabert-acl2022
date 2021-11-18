@@ -1,277 +1,277 @@
-NP:▁christopher T:▁ree T:ve V:4:a V:2:a V:gir V:18:ye N:1:n N:0:i N:hanuka PT:▁.
-N:1:n N:0:i N:rwara PO:1:i PO:a NN:▁bagiteri V:4:ra V:2:i V:tsind V:18:a N:1:n N:0:i N:tambara PO:1:i PO:o V:2:ku V:rwany V:18:a T:▁antibiyo T:tike PT:▁.
-UN:▁toni NN:▁miliyoni DI:▁15 PO:1:zi PO:a N:1:mi N:0:i N:anda V:2:i V:kor V:17:w V:18:a DE:2:r DE:1:bu DE:i SP:▁munsi PR:▁i NP:▁cairo PT:▁.
-T:▁pennsylvania V:2:i V:fit V:18:e N:1:mu N:0:u N:ryango QA:1:mu QA:nini PO:1:u PO:a T:▁ami T:sh PR:▁muri NP:▁amerika
-N:1:n N:0:i N:ego PO:1:zi PO:a N:1:mu N:0:u N:tekano V:4:a V:2:zi V:r V:18:i N:1:ma N:so AD:▁cyane TE:▁nyuma PO:1:i PO:a N:1:bu N:0:u N:kangurambaga V:4:a V:2:bu V:rang V:16:y V:17:w V:18:ye CJ:▁na N:1:ru N:0:u N:gomo PT:▁.
-N:1:ma N:0:a N:sezerano PO:1:i PO:a N:1:ma N:0:a N:horo PO:1:i PO:a NP:▁isiraheli CJ:▁na NP:▁misiri V:4:a V:2:a V:shyir V:16:y V:17:w V:18:ye V:19:ho N:1:mu N:0:u N:kono PR:▁mu DI:▁1979 PT:▁.
-N:1:ma N:0:a N:cumu V:8:ku V:2:u V:1:ni V:tandukan V:18:a CJ:▁na NP:▁kevin T:▁feder T:line PT:▁.
-NP:▁wales V:2:i V:akir V:18:a N:1:ki N:0:i N:kombe PO:1:ki PO:a T:▁ry T:der DI:▁2010 PT:▁.
-NP:▁steve NP:▁jobs V:4:a V:2:a V:kor V:18:aga PR:▁muri NP:▁apple PT:▁.
-N:1:bu N:0:u N:oko PO:1:bu PO:a T:▁rais T:ani V:2:bu V:tur V:18:ye PR:▁muri NP:▁pakisitani PT:▁.
-N:1:ba N:0:a N:ganga V:3:ta V:2:ba V:gir V:18:a N:1:mu N:0:u N:paka CP:▁ni N:1:mu N:0:u N:ryango AJ:▁mpuzamahanga V:2:u V:tabar V:18:a PT:▁.
-PR:▁mu N:0:i N:sahani PT:▁, NP:▁shyira NU:0:ha NU:mwe N:1:ma N:0:a N:gi PT:▁, N:0:i N:sukari CJ:▁na T:▁vani T:lla V:2:ku V:gez V:18:a N:1:ru N:0:u N:muri T:▁rwama T:bara PT:▁.
-DI:▁2 PT:▁. DI:▁7 PR:▁ku NU:0:magana NU:mwe PO:1:bi PO:a N:1:ba N:0:a N:ntu V:2:ba V:andur V:18:ye NN:▁virusi V:2:i V:ter V:18:a NP:▁sida V:2:ba V:ba V:18:a PR:▁muri NP:▁afurika PT:▁.
-NP:▁jack T:▁ke T:vor T:ki T:an N:nizina N:1:ri N:ukuri PO:1:ri PO:a PT:▁" NP:▁dr PT:▁. N:1:ru N:0:u N:pfu PT:▁" PT:▁.
-T:▁pro T:c T:ter CJ:▁na T:▁ga T:mble V:4:a V:2:ba V:koresh V:18:a NN:▁miliyari DI:▁1 PT:▁. DI:▁8 PO:1:zi PO:a N:1:ma N:0:a N:dolari PR:▁mu N:1:bu N:shakashatsi CJ:▁na N:0:i N:terambere PT:▁.
-N:1:ki N:0:i N:sirikare PO:1:ki PO:a NP:▁amerika V:2:ki V:imur V:18:ye N:1:ba N:0:a N:nyamerika PT:▁.
-N:1:n N:0:i N:mbeba V:4:a V:2:zi V:gaburir V:17:w V:18:ye CJ:▁na N:vino V:2:i V:tukur V:18:a V:4:a V:2:zi V:ramb V:18:a VC:▁nubwo V:2:zi V:fit V:18:e N:1:n N:0:i N:ryo V:2:i V:uzur V:18:ye PT:▁.
-NP:▁charles N:de NP:▁gaulle V:4:a V:2:a V:pf V:13:ur V:18:ye PR:▁mu DI:▁1970 PT:▁.
-NP:▁ubufaransa V:2:bu V:itabir V:18:a NP:▁euro DI:▁2004 PT:▁.
+T:▁christopher T:▁ree T:ve V:2:a V:4:a V:gir V:18:ye N:0:i N:1:n N:hanuka PT:▁.
+N:0:i N:1:n N:rwara PO:1:i PO:a NN:▁bagiteri V:2:i V:4:ra V:tsind V:18:a N:0:i N:1:n N:tambara PO:1:i PO:o V:2:ku V:rwany V:18:a T:▁antibiyo T:tike PT:▁.
+UN:▁toni NN:▁miliyoni DI:▁15 PO:1:zi PO:a N:0:i N:1:mi N:anda V:2:i V:kor V:17:w V:18:a DE:1:bu DE:2:r DE:i SP:▁munsi PR:▁i T:▁cairo PT:▁.
+T:▁pennsylvania V:2:i V:fit V:18:e N:0:u N:1:mu N:ryango QA:1:mu QA:nini PO:1:u PO:a T:▁ami T:sh PR:▁muri NP:▁amerika
+N:0:i N:1:n N:ego PO:1:zi PO:a N:0:u N:1:mu N:tekano V:2:zi V:4:a V:r V:18:i N:1:ma N:so AD:▁cyane TE:▁nyuma PO:1:i PO:a N:0:u N:1:bu N:kangurambaga V:2:bu V:4:a V:rang V:16:y V:17:w V:18:ye CJ:▁na N:0:u N:1:ru N:gomo PT:▁.
+N:0:a N:1:ma N:sezerano PO:1:i PO:a N:0:a N:1:ma N:horo PO:1:i PO:a NP:▁isiraheli CJ:▁na NP:▁misiri V:2:a V:4:a V:shyir V:16:y V:17:w V:18:ye V:19:ho N:0:u N:1:mu N:kono PR:▁mu DI:▁1979 PT:▁.
+N:0:a N:1:ma N:cumu V:1:ni V:2:u V:8:ku V:tandukan V:18:a CJ:▁na T:▁kevin T:▁feder T:line PT:▁.
+T:▁wales V:2:i V:akir V:18:a N:0:i N:1:ki N:kombe PO:1:ki PO:a T:▁ry T:der DI:▁2010 PT:▁.
+T:▁steve T:▁jobs V:2:a V:4:a V:kor V:18:aga PR:▁muri T:▁apple PT:▁.
+N:0:u N:1:bu N:oko PO:1:bu PO:a T:▁rais T:ani V:2:bu V:tur V:18:ye PR:▁muri NP:▁pakisitani PT:▁.
+N:0:a N:1:ba N:ganga V:2:ba V:3:ta V:gir V:18:a N:0:u N:1:mu N:paka CP:▁ni N:0:u N:1:mu N:ryango AJ:▁mpuzamahanga V:2:u V:tabar V:18:a PT:▁.
+PR:▁mu N:0:i N:sahani PT:▁, NP:▁shyira NU:0:ha NU:mwe N:0:a N:1:ma N:gi PT:▁, N:0:i N:sukari CJ:▁na T:▁vani T:lla V:2:ku V:gez V:18:a N:0:u N:1:ru N:muri T:▁rwama T:bara PT:▁.
+DI:▁2 PT:▁. DI:▁7 PR:▁ku NU:0:magana NU:mwe PO:1:bi PO:a N:0:a N:1:ba N:ntu V:2:ba V:andur V:18:ye NN:▁virusi V:2:i V:ter V:18:a NP:▁sida V:2:ba V:ba V:18:a PR:▁muri NP:▁afurika PT:▁.
+T:▁jack T:▁ke T:vor T:ki T:an N:nizina N:1:ri N:ukuri PO:1:ri PO:a PT:▁" T:▁dr PT:▁. N:0:u N:1:ru N:pfu PT:▁" PT:▁.
+T:▁pro T:c T:ter CJ:▁na T:▁ga T:mble V:2:ba V:4:a V:koresh V:18:a NN:▁miliyari DI:▁1 PT:▁. DI:▁8 PO:1:zi PO:a N:0:a N:1:ma N:dolari PR:▁mu N:1:bu N:shakashatsi CJ:▁na N:0:i N:terambere PT:▁.
+N:0:i N:1:ki N:sirikare PO:1:ki PO:a NP:▁amerika V:2:ki V:imur V:18:ye N:0:a N:1:ba N:nyamerika PT:▁.
+N:0:i N:1:n N:mbeba V:2:zi V:4:a V:gaburir V:17:w V:18:ye CJ:▁na N:vino V:2:i V:tukur V:18:a V:2:zi V:4:a V:ramb V:18:a VC:▁nubwo V:2:zi V:fit V:18:e N:0:i N:1:n N:ryo V:2:i V:uzur V:18:ye PT:▁.
+T:▁charles N:de T:▁gaulle V:2:a V:4:a V:pf V:13:ur V:18:ye PR:▁mu DI:▁1970 PT:▁.
+NP:▁ubufaransa V:2:bu V:itabir V:18:a T:▁euro DI:▁2004 PT:▁.
 NP:▁perezida T:▁fu T:j T:imo T:ri V:2:a V:onger V:18:ye V:2:ku V:tor V:17:w V:18:a PR:▁mu DI:▁1995 PT:▁.
 T:▁he T:p T:burn PO:1:i PO:a N:diyama CJ:▁na N:safiro T:▁bro T:ch V:2:i V:injir V:16:y V:18:ye PT:▁$ DI:▁120 PT:▁. DI:▁000 PT:▁.
-T:▁hu T:cka T:by V:4:ra V:2:a V:shinj V:17:w V:18:a V:2:ku V:ic V:18:a NP:▁sandra NP:▁can NP:tu PT:▁.
+T:▁hu T:cka T:by V:2:a V:4:ra V:shinj V:17:w V:18:a V:2:ku V:ic V:18:a T:▁sandra NP:▁can NP:tu PT:▁.
 T:▁el T:j T:vir N:duka V:2:a V:komok V:18:a PR:▁muri T:▁alubaniya PT:▁.
-PT:▁" T:▁os T:bour T:nes PT:▁" N:1:n N:nizina T:▁r T:yiki T:ganiro DE:2:ki DE:1:nya DE:o V:4:a V:2:ki V:kin V:18:ye CJ:▁na NP:▁o NP:zzy T:▁os T:bourne PT:▁.
-N:1:bi N:0:i N:ro PO:1:bi PO:a NP:▁sky NP:▁news V:2:bi V:eger V:13:ir V:18:ye NP:▁ban NP:ki PO:1:i PO:a NP:▁ubw NP:ong NP:ereza PT:▁.
-NP:▁san NP:▁diego T:▁pad T:res V:4:a V:2:a V:tsind V:18:ye N:1:mu N:0:u N:kino CJ:▁na PO:1:ba PO:a NP:▁cardinal PO:1:ba PO:a NP:▁muta NP:gatifu NP:▁louis PT:▁.
-T:▁uno T:cal V:4:a V:2:i V:vug V:18:ye CJ:▁ko V:4:za V:2:i V:suzum V:18:a N:0:i N:tangwa PO:1:ri PO:a T:▁cno T:oc PT:▁.
-T:▁fal T:lu T:jah CJ:▁na T:▁ba T:qu T:bah CP:▁ni N:1:mi N:0:i N:gi PO:1:i PO:o PR:▁muri NP:▁iraki PT:▁.
-N:1:ba N:0:a N:shakashatsi PO:1:ba PO:a NP:▁aba NP:shin NP:wa V:4:a V:2:ba V:kor V:18:a N:1:mi N:0:i N:shinga QA:1:mi QA:re QA:3:mi QA:4:re V:8:bu V:2:mu V:hind V:18:e V:4:ra V:2:ba V:shobor V:18:a V:2:ku V:bon V:18:a NN:▁viza V:2:bi V:oroh V:18:ye PT:▁.
-N:1:n N:0:i N:dege V:2:i V:twar V:18:a N:1:ba N:0:a N:genzi DE:2:r DE:1:bu DE:i SP:▁munsi V:4:a V:2:a V:gur V:18:ye PR:▁i NP:▁buffalo PT:▁.
-T:▁silo T:veni T:ya V:2:i V:fit V:18:e N:1:ba N:0:a N:turage DI:▁3 PT:▁. DI:▁000 PT:▁.
-N:1:ba N:0:a N:ntu DI:▁13 V:2:ba V:ic V:16:y V:17:w V:18:e CJ:▁na N:1:ba N:0:a N:nyeshuri NU:0:ba NU:biri PR:▁mu DI:▁1999 PT:▁.
-NP:▁simon T:▁co T:well V:4:a V:2:a V:kund V:13:an V:18:ye CJ:▁na NP:▁susan T:▁boy T:le PT:▁.
-PR:▁mu DI:▁2001 PT:▁, N:1:mu N:0:u N:ryango PO:1:u PO:a N:1:bu N:0:u N:mwe PO:1:bu PO:a N:1:bi N:0:i N:hugu PO:1:bi PO:a NP:▁ubu NP:rayi V:4:a V:2:u V:shyir V:18:ye V:19:ho N:1:ka N:0:a N:ato PO:1:ka PO:a N:1:ma N:0:a N:ezi NU:0:a NU:tandatu PR:▁ku N:1:ma N:tungo OT:1:i OT:ose PO:1:i PO:o PR:▁mu N:1:ru N:go PT:▁.
-N:0:i N:sabukuru N:yimyaka DI:▁50 PO:1:i PO:a T:▁nor T:m T:andy T:▁land T:ings V:2:i V:mar V:18:a N:1:mu N:0:u N:aka PT:▁.
-T:▁q T:in NP:▁shi T:▁huang V:4:a V:2:a V:r V:18:i N:1:mu N:0:u N:ami PO:1:u PO:a N:1:ba N:0:a N:ami PO:1:u PO:a TE:▁mbere PO:1:u PO:a NP:▁ubushinwa PT:▁.
-T:▁ku T:puro V:4:a V:2:a V:gabany V:13:iz V:17:w V:18:ye V:19:mo N:1:bi N:0:i N:ce NU:0:bi NU:biri PR:▁muri MO:▁werurwe DI:▁2001 PT:▁.
-TE:▁mbere PO:1:i PO:a NP:▁salt NP:▁lake NP:▁city PT:▁, N:1:mi N:0:i N:kino NP:▁olempike V:4:a V:2:i V:ber V:18:aga PR:▁i T:▁na T:gano PT:▁.
-N:1:mu N:0:u N:gabane PO:1:u PO:a NP:▁ama NP:zone V:4:a V:2:u V:gabanuk V:18:ye V:19:ho DI:▁4 PR:▁ku NU:0:magana NU:mwe PT:▁.
-TE:▁mbere PO:1:i PO:a NP:▁salt NP:▁lake NP:▁city PT:▁, N:1:mi N:0:i N:kino NP:▁olempike V:4:a V:2:i V:ber V:18:aga PR:▁i T:▁na T:gano PT:▁.
-N:1:ma N:0:a N:ta V:2:a V:ons V:18:a V:4:ra V:2:a V:shobor V:18:a V:2:ku V:fash V:18:a V:2:ku V:rwany V:18:a NN:▁kanseri T:▁yin T:kondo PO:1:i PO:a N:1:mu N:0:u N:ra PT:▁.
-NP:▁bwana NP:▁dean CP:▁ni N:1:mu N:0:u N:nyamabanga PO:1:u PO:a V:8:bu V:2:u V:zim V:18:a CJ:▁na NN:▁serivisi PO:1:zi PO:a N:1:ba N:0:a N:ntu PT:▁.
-NP:▁alice NP:▁cooper T:▁numu T:kristo PT:▁.
-T:▁pi T:bul V:4:a V:2:a V:r V:18:i N:1:mu N:0:u N:nyagitugu PO:1:u PO:a T:▁tayi T:lande PT:▁.
-NP:▁neil T:▁armstrong CP:▁niwe N:1:mu N:gabo N:wambere V:4:a V:2:u V:ger V:18:ye PR:▁ku N:1:ku N:ezi PT:▁.
-T:▁kt T:lk PR:▁i NP:▁san NP:▁francisco PT:▁.
-NP:▁abarusiya V:2:ba V:fit V:18:e N:1:ma N:0:a N:teka PO:1:i PO:o V:2:ku V:mar V:18:a N:1:ki N:0:i N:he QA:1:ki QA:nini PR:▁mu V:2:ki V:rer V:18:e PT:▁.
-N:1:bi N:0:i N:mera PO:1:bi PO:o PR:▁mu N:1:n N:nyanja V:2:bi V:sarur V:17:w V:18:a PT:▁.
-QA:1:mi QA:ke NP:▁tyson V:8:ya V:rumy V:18:e N:1:ku N:0:u N:twi PO:1:ku PO:a T:▁holy T:field PR:▁mu DI:▁1964 PT:▁.
-PR:▁ku N:1:ki N:umweru PT:▁, N:1:ba N:0:a N:yobozi V:2:ba V:gir V:18:ye N:1:n N:0:i N:paka PR:▁ku V:9:ii V:2:ba V:jyan V:18:ye CJ:▁no V:2:ku V:shak V:18:a V:2:ku V:tind V:16:y V:18:a N:1:ki N:0:i N:he V:2:a V:1:nti V:reng V:17:w V:18:a PO:1:ki PO:o PR:▁muri NP:▁kanama PO:1:ki PO:o V:2:ku V:uzuz V:18:a N:1:n N:0:i N:yandiko V:2:ku V:gir V:18:a CJ:▁ngo V:8:ba V:2:ba V:ha V:18:a N:1:mu N:0:u N:anya V:2:u V:hag V:13:iz V:16:y V:18:e PO:1:u PO:o V:2:ku V:kemur V:18:a N:1:bi N:0:i N:bazo CJ:▁nka DE:2:bi DE:1:i DE:i PT:▁.
-NP:▁porofeseri T:▁ocho T:a NP:▁garcia CP:▁ni NU:0:u NU:mwe PR:▁mu V:2:ba V:gir V:18:ye NN:▁guverinoma PO:1:i PO:a T:▁salvador T:an PT:▁.
-N:1:ki N:0:i N:buga AJ:▁mpuzamahanga PO:1:ki PO:a NP:▁ted NP:▁stevens NP:▁an NP:cho NP:rage CP:▁ni N:1:mu N:0:u N:koresha PO:1:u PO:a NP:▁jeremy T:▁lind T:se T:th PT:▁.
+PT:▁" T:▁os T:bour T:nes PT:▁" N:1:n N:nizina T:▁r T:yiki T:ganiro DE:1:nya DE:2:ki DE:o V:2:ki V:4:a V:kin V:18:ye CJ:▁na T:▁o T:zzy T:▁os T:bourne PT:▁.
+N:0:i N:1:bi N:ro PO:1:bi PO:a T:▁sky T:▁news V:2:bi V:eger V:13:ir V:18:ye NP:▁ban NP:ki PO:1:i PO:a NP:▁ubw NP:ong NP:ereza PT:▁.
+T:▁san T:▁diego T:▁pad T:res V:2:a V:4:a V:tsind V:18:ye N:0:u N:1:mu N:kino CJ:▁na PO:1:ba PO:a T:▁cardinal PO:1:ba PO:a NP:▁muta NP:gatifu T:▁louis PT:▁.
+T:▁uno T:cal V:2:i V:4:a V:vug V:18:ye CJ:▁ko V:2:i V:4:za V:suzum V:18:a N:0:i N:tangwa PO:1:ri PO:a T:▁cno T:oc PT:▁.
+T:▁fal T:lu T:jah CJ:▁na T:▁ba T:qu T:bah CP:▁ni N:0:i N:1:mi N:gi PO:1:i PO:o PR:▁muri NP:▁iraki PT:▁.
+N:0:a N:1:ba N:shakashatsi PO:1:ba PO:a NP:▁aba NP:shin NP:wa V:2:ba V:4:a V:kor V:18:a N:0:i N:1:mi N:shinga QA:1:mi QA:re QA:3:mi QA:4:re V:2:mu V:8:bu V:hind V:18:e V:2:ba V:4:ra V:shobor V:18:a V:2:ku V:bon V:18:a NN:▁viza V:2:bi V:oroh V:18:ye PT:▁.
+N:0:i N:1:n N:dege V:2:i V:twar V:18:a N:0:a N:1:ba N:genzi DE:1:bu DE:2:r DE:i SP:▁munsi V:2:a V:4:a V:gur V:18:ye PR:▁i T:▁buffalo PT:▁.
+T:▁silo T:veni T:ya V:2:i V:fit V:18:e N:0:a N:1:ba N:turage DI:▁3 PT:▁. DI:▁000 PT:▁.
+N:0:a N:1:ba N:ntu DI:▁13 V:2:ba V:ic V:16:y V:17:w V:18:e CJ:▁na N:0:a N:1:ba N:nyeshuri NU:0:ba NU:biri PR:▁mu DI:▁1999 PT:▁.
+T:▁simon T:▁co T:well V:2:a V:4:a V:kund V:13:an V:18:ye CJ:▁na T:▁susan T:▁boy T:le PT:▁.
+PR:▁mu DI:▁2001 PT:▁, N:0:u N:1:mu N:ryango PO:1:u PO:a N:0:u N:1:bu N:mwe PO:1:bu PO:a N:0:i N:1:bi N:hugu PO:1:bi PO:a NP:▁ubu NP:rayi V:2:u V:4:a V:shyir V:18:ye V:19:ho N:0:a N:1:ka N:ato PO:1:ka PO:a N:0:a N:1:ma N:ezi NU:0:a NU:tandatu PR:▁ku N:1:ma N:tungo OT:1:i OT:ose PO:1:i PO:o PR:▁mu N:1:ru N:go PT:▁.
+N:0:i N:sabukuru N:yimyaka DI:▁50 PO:1:i PO:a T:▁nor T:m T:andy T:▁land T:ings V:2:i V:mar V:18:a N:0:u N:1:mu N:aka PT:▁.
+T:▁q T:in NP:▁shi T:▁huang V:2:a V:4:a V:r V:18:i N:0:u N:1:mu N:ami PO:1:u PO:a N:0:a N:1:ba N:ami PO:1:u PO:a TE:▁mbere PO:1:u PO:a NP:▁ubushinwa PT:▁.
+T:▁ku T:puro V:2:a V:4:a V:gabany V:13:iz V:17:w V:18:ye V:19:mo N:0:i N:1:bi N:ce NU:0:bi NU:biri PR:▁muri MO:▁werurwe DI:▁2001 PT:▁.
+TE:▁mbere PO:1:i PO:a T:▁salt NP:▁lake T:▁city PT:▁, N:0:i N:1:mi N:kino NP:▁olempike V:2:i V:4:a V:ber V:18:aga PR:▁i T:▁na T:gano PT:▁.
+N:0:u N:1:mu N:gabane PO:1:u PO:a NP:▁ama NP:zone V:2:u V:4:a V:gabanuk V:18:ye V:19:ho DI:▁4 PR:▁ku NU:0:magana NU:mwe PT:▁.
+TE:▁mbere PO:1:i PO:a T:▁salt NP:▁lake T:▁city PT:▁, N:0:i N:1:mi N:kino NP:▁olempike V:2:i V:4:a V:ber V:18:aga PR:▁i T:▁na T:gano PT:▁.
+N:0:a N:1:ma N:ta V:2:a V:ons V:18:a V:2:a V:4:ra V:shobor V:18:a V:2:ku V:fash V:18:a V:2:ku V:rwany V:18:a NN:▁kanseri T:▁yin T:kondo PO:1:i PO:a N:0:u N:1:mu N:ra PT:▁.
+NP:▁bwana T:▁dean CP:▁ni N:0:u N:1:mu N:nyamabanga PO:1:u PO:a V:2:u V:8:bu V:zim V:18:a CJ:▁na NN:▁serivisi PO:1:zi PO:a N:0:a N:1:ba N:ntu PT:▁.
+NP:▁alice T:▁cooper T:▁numu T:kristo PT:▁.
+T:▁pi T:bul V:2:a V:4:a V:r V:18:i N:0:u N:1:mu N:nyagitugu PO:1:u PO:a T:▁tayi T:lande PT:▁.
+T:▁neil T:▁armstrong CP:▁niwe N:1:mu N:gabo N:wambere V:2:u V:4:a V:ger V:18:ye PR:▁ku N:1:ku N:ezi PT:▁.
+T:▁kt T:lk PR:▁i T:▁san T:▁francisco PT:▁.
+NP:▁abarusiya V:2:ba V:fit V:18:e N:0:a N:1:ma N:teka PO:1:i PO:o V:2:ku V:mar V:18:a N:0:i N:1:ki N:he QA:1:ki QA:nini PR:▁mu V:2:ki V:rer V:18:e PT:▁.
+N:0:i N:1:bi N:mera PO:1:bi PO:o PR:▁mu N:1:n N:nyanja V:2:bi V:sarur V:17:w V:18:a PT:▁.
+QA:1:mi QA:ke T:▁tyson V:8:ya V:rumy V:18:e N:0:u N:1:ku N:twi PO:1:ku PO:a T:▁holy T:field PR:▁mu DI:▁1964 PT:▁.
+PR:▁ku N:1:ki N:umweru PT:▁, N:0:a N:1:ba N:yobozi V:2:ba V:gir V:18:ye N:0:i N:1:n N:paka PR:▁ku V:2:ba V:9:ii V:jyan V:18:ye CJ:▁no V:2:ku V:shak V:18:a V:2:ku V:tind V:16:y V:18:a N:0:i N:1:ki N:he V:1:nti V:2:a V:reng V:17:w V:18:a PO:1:ki PO:o PR:▁muri NP:▁kanama PO:1:ki PO:o V:2:ku V:uzuz V:18:a N:0:i N:1:n N:yandiko V:2:ku V:gir V:18:a CJ:▁ngo V:2:ba V:8:ba V:ha V:18:a N:0:u N:1:mu N:anya V:2:u V:hag V:13:iz V:16:y V:18:e PO:1:u PO:o V:2:ku V:kemur V:18:a N:0:i N:1:bi N:bazo CJ:▁nka DE:1:i DE:2:bi DE:i PT:▁.
+NP:▁porofeseri T:▁ocho T:a T:▁garcia CP:▁ni NU:0:u NU:mwe PR:▁mu V:2:ba V:gir V:18:ye NN:▁guverinoma PO:1:i PO:a T:▁salvador T:an PT:▁.
+N:0:i N:1:ki N:buga AJ:▁mpuzamahanga PO:1:ki PO:a T:▁ted T:▁stevens T:▁an T:cho T:rage CP:▁ni N:0:u N:1:mu N:koresha PO:1:u PO:a T:▁jeremy T:▁lind T:se T:th PT:▁.
 T:▁f T:ena T:stra T:s V:2:a V:ibasir V:17:w V:18:ye CJ:▁na T:▁fm T:l T:n PT:▁.
-N:1:ma N:0:a N:banga N:yubucuruzi V:4:a V:2:a V:ribw V:18:ye PT:▁.
-NP:▁texas T:▁instru T:ments V:2:i V:kor V:18:a N:terefone V:2:zi V:gend V:13:an V:17:w V:18:a PT:▁.
-N:1:bi N:0:i N:gega NU:0:bi NU:biri PO:1:bi PO:a NP:▁ab NP:ong NP:ereza V:2:bi V:oherez V:16:y V:17:w V:18:ye PR:▁kuri NN:▁sitasiyo PO:1:i PO:a NN:▁polisi IJ:▁aho DE:2:ba DE:1:a DE:o N:1:ba N:sirikare V:2:ba V:fung V:13:ir V:18:ye PT:▁, V:4:a V:2:bi V:shyir V:16:y V:17:w V:18:ye PR:▁mu N:1:mi N:rwano PT:▁.
+N:0:a N:1:ma N:banga N:yubucuruzi V:2:a V:4:a V:ribw V:18:ye PT:▁.
+T:▁texas T:▁instru T:ments V:2:i V:kor V:18:a N:terefone V:2:zi V:gend V:13:an V:17:w V:18:a PT:▁.
+N:0:i N:1:bi N:gega NU:0:bi NU:biri PO:1:bi PO:a NP:▁ab NP:ong NP:ereza V:2:bi V:oherez V:16:y V:17:w V:18:ye PR:▁kuri NN:▁sitasiyo PO:1:i PO:a NN:▁polisi IJ:▁aho DE:1:a DE:2:ba DE:o N:1:ba N:sirikare V:2:ba V:fung V:13:ir V:18:ye PT:▁, V:2:bi V:4:a V:shyir V:16:y V:17:w V:18:ye PR:▁mu N:1:mi N:rwano PT:▁.
 T:▁am T:ste T:tten V:2:i V:herer V:13:ir V:18:ye PR:▁muri NP:▁otirishiya PT:▁.
-NP:▁microsoft V:4:a V:2:a V:koresh V:18:a NN:▁miliyoni DI:▁500 PO:1:zi PO:a N:1:ma N:0:a N:dolari PT:▁.
-N:1:n N:0:i N:rwara PO:1:i PO:a NP:▁alzheimer V:2:i V:vur V:17:w V:18:a V:2:ha V:kor V:13:ish V:14:iz V:17:w V:18:ye N:1:bi N:0:i N:yobyabwenge PT:▁.
-NP:▁char NP:lton T:▁he T:ston V:4:a V:2:a V:kin V:18:ye N:0:i N:zina PO:1:ri PO:a N:firime PT:▁" NP:▁ben PT:▁- T:▁hur PT:▁" PT:▁.
-NP:▁oracle V:2:i V:gurish V:18:a T:▁software PT:▁.
-DE:2:ba DE:1:a DE:a T:▁gur T:ha V:2:ba V:komok V:18:a PR:▁muri NP:▁nepal PT:▁.
-N:1:ki N:0:i N:bazo PO:1:ki PO:a N:1:ma N:0:a N:faranga PO:1:i PO:o PR:▁muri NP:▁aziya V:2:ki V:fat V:18:a T:▁s T:san T:g T:yong NP:▁motor
-T:▁bernardo NP:▁vieira V:4:a V:2:a V:r V:18:i NP:▁perezida PO:1:u PO:a NP:▁gineya PT:▁- NP:▁bissau PT:▁.
-N:1:ba N:0:a N:ntu V:2:ba V:hur V:18:ye V:2:n V:1:ni V:garuk V:18:a QA:1:n QA:bi V:8:ki V:7:mu V:2:n V:ha V:18:e V:2:ba V:fat V:18:a T:▁aspi T:rine PT:▁.
-N:1:bi N:0:i N:hugu PO:1:bi PO:a NP:▁afurika V:4:ra V:2:bi V:shishikaz V:13:ir V:18:a V:2:ku V:komez V:18:a N:1:n N:0:i N:nyamaswa V:2:ku V:ba V:18:a V:19:ho VC:▁kugirango V:2:zi V:kurur V:18:a PO:1:ba PO:a N:1:mu N:kerarugendo PT:▁.
-N:1:n N:0:i N:garuka PO:1:i PO:a N:parike V:2:i V:hindur V:18:a N:1:ki N:0:i N:rere N:1:ki N:isi PT:▁.
-T:▁hub T:ble V:4:a V:2:a V:vumbur V:18:ye N:1:mu N:0:u N:obo V:9:ii V:2:u V:rabur V:18:a PT:▁.
-NN:▁guverinoma PO:1:i PO:a NP:▁amerika V:4:ra V:2:i V:shak V:18:a V:2:ku V:gabany V:18:a N:1:bi N:0:i N:ciro PO:1:bi PO:a N:1:bi N:0:i N:yobyabwenge PT:▁.
-N:1:mu N:0:u N:nyamakuru PO:1:u PO:a N:1:mu N:0:u N:gore V:4:a V:2:a V:shimut V:17:w V:18:ye PR:▁muri NP:▁iraki PT:▁.
-N:1:ba N:0:a N:ntu V:2:ba V:ger V:18:a PR:▁kuri DI:▁33 PT:▁. DI:▁5 T:▁mi T:ili T:on V:2:ba V:ba V:18:a PR:▁muri T:▁to T:ki T:yo PT:▁.
-N:1:mu N:0:u N:yaga V:2:u V:it V:17:w V:18:a NP:▁irene V:2:u V:gir V:18:ye V:2:ku V:eger V:18:a N:1:n N:0:i N:kombe PO:1:i PO:a NP:▁iburasirazuba PO:1:bu PO:a NP:▁amerika PT:▁.
-N:1:mu N:0:u N:ganga V:2:a V:ic V:16:y V:17:w V:18:e CJ:▁na N:1:ba N:0:a N:byeyi PO:1:ba PO:a PO:3:a PO:4:e PT:▁.
-T:▁cyri T:lli T:c CP:▁ni N:1:n N:0:i N:nyuguti V:9:ii V:2:zi V:kor V:13:ish V:17:w V:18:a PR:▁mu N:1:n N:rimi NU:0:zi NU:mwe CJ:▁na NU:0:zi NU:mwe PO:1:zi PO:a NP:▁igi NP:sila NP:ve PT:▁, CJ:▁nka N:0:i N:kirusiya PT:▁.
-N:1:ma N:0:a N:shyaka QA:1:ma QA:inshi PO:1:i PO:a NN:▁politiki V:4:a V:2:i V:garagar V:18:ye PT:▁.
-N:1:ru N:0:u N:kiko PO:1:ru PO:a NP:▁ikirenga V:2:ru V:emer V:16:y V:18:ye CJ:▁ko N:1:ba N:0:a N:camanza OT:1:ba OT:onyine V:2:a V:r V:18:i PO:1:ba PO:o V:2:ba V:shobor V:18:a V:2:ku V:tang V:18:a N:1:ki N:0:i N:hano PO:1:ki PO:a N:1:ru N:0:u N:pfu PT:▁.
-T:▁euro PT:▁- NP:▁disney CP:▁ni NP:▁pari NP:ke T:▁yi T:myi T:dagaduro PT:▁.
-N:1:bu N:0:u N:tabera NP:▁carlos NP:▁valencia V:2:a V:ic V:13:ir V:17:w V:18:ye PR:▁i T:▁me T:del T:lin PT:▁.
-N:1:mu N:0:u N:nyeshuri T:▁w T:ubu T:vu T:zi NP:▁philip T:▁mar T:ko T:ff V:4:a V:2:a V:sezerany V:18:ye PT:▁.
-N:1:n N:0:i N:nzovu PO:1:zi PO:o PR:▁muri NP:▁afurika V:2:zi V:bangam V:13:ir V:17:w V:18:ye CJ:▁na N:1:ba N:0:a N:higi PO:1:ba PO:a N:1:n N:0:i N:nzovu PT:▁.
-N:1:bi N:0:i N:yobyabwenge V:4:a V:2:bi V:tegan V:13:iz V:17:w V:18:ye V:2:bi V:gomb V:18:a V:2:ku V:gir V:18:a N:1:bu N:0:u N:zima N:1:bu N:rebure T:▁bwi T:soko TE:▁nyuma PO:1:i PO:o V:2:ku V:emer V:16:y V:17:w V:18:a N:1:n N:namabwiriza VC:▁kugirango V:2:ba V:iteg V:16:y V:17:w V:18:e SP:▁imbere PT:▁.
-N:1:ma N:0:a N:faranga V:2:a V:injir V:18:a PR:▁mu N:1:mu N:ryango PO:1:u PO:a T:▁he T:p T:burn PT:▁.
-N:1:ba N:0:a N:yoboke PO:1:ba PO:a NN:▁demokarasi N:1:ba N:ari V:2:ba V:fit V:18:e N:1:ma N:0:a N:jwi V:2:a V:komer V:18:ye PO:1:i PO:o V:2:ku V:tor V:18:a PR:▁mu N:1:bu N:curuzi PT:▁.
-N:1:mu N:0:u N:bano SP:▁hagati PO:1:i PO:a T:▁arijantine N:1:n N:nu NP:▁bwongereza V:4:ra V:2:u V:gend V:18:a V:2:u V:rush V:18:a V:19:ho V:2:ku V:kor V:13:an V:18:a CJ:▁na NN:▁koperative PT:▁.
-N:1:ba N:0:a N:gore V:8:ba V:2:i V:1:nti V:hagararir V:17:w V:18:ye AD:▁nabi PR:▁mu N:1:n N:nteko PT:▁.
-T:▁war T:sa T:w V:4:a V:2:a V:ter V:17:w V:18:ye CJ:▁na NP:▁aba NP:su NP:we NP:de PR:▁mu DI:▁165 DI:5 PT:▁, N:1:mu N:0:u N:jyi V:4:ra V:2:u V:seny V:16:y V:17:w V:18:a PT:▁.
-V:2:ha V:shyir V:16:y V:17:w V:18:ye V:19:ho N:1:mi N:0:i N:rimo QA:1:mi QA:inshi PR:▁muri N:1:ma N:nda PO:1:i PO:a TE:▁mbere PO:1:i PO:a NP:▁perezida NP:▁bush PT:▁.
-N:0:i N:perereza PO:1:ri PO:a NP:▁amerika V:4:a V:2:ri V:kor V:16:y V:17:w V:18:ye CJ:▁na N:0:i N:perereza V:4:a V:2:ri V:tangir V:16:y V:17:w V:18:ye CJ:▁na N:0:i N:shami PO:1:ri PO:a N:1:bu N:0:u N:curuzi PT:▁.
-V:2:ku V:nyw V:18:a N:0:i N:kawa V:2:bi V:fit V:18:e N:1:ka N:0:a N:maro PO:1:ka PO:a N:1:bu N:0:u N:zima PT:▁.
-T:▁latif T:▁kho T:sa V:4:a V:2:a V:r V:18:i V:2:a V:fit V:13:an V:16:y V:18:e N:1:mu N:0:u N:bano CJ:▁na NP:▁madamu T:▁bhu T:tto PT:▁.
-NP:▁alvaro V:8:ri V:2:u V:ba V:18:e CP:▁ni NP:▁perezida PO:1:u PO:a NP:▁kolombiya V:2:u V:r V:18:i V:19:ho VC:▁ubu PT:▁.
-NP:▁da NP:lai NP:▁la NP:ma V:4:a V:2:i V:ba V:18:ye V:19:ho N:1:mu N:buhungiro V:2:ku V:v V:18:a DI:▁10 PT:▁, DI:▁000 PT:▁.
+T:▁microsoft V:2:i V:4:a V:koresh V:18:a NN:▁miliyoni DI:▁500 PO:1:zi PO:a N:0:a N:1:ma N:dolari PT:▁.
+N:0:i N:1:n N:rwara PO:1:i PO:a T:▁alzheimer V:2:i V:vur V:17:w V:18:a V:2:ha V:kor V:13:ish V:14:iz V:17:w V:18:ye N:0:i N:1:bi N:yobyabwenge PT:▁.
+T:▁char T:lton T:▁he T:ston V:2:i V:4:a V:kin V:18:ye N:0:i N:zina PO:1:ri PO:a N:firime PT:▁" T:▁ben PT:▁- T:▁hur PT:▁" PT:▁.
+T:▁oracle V:2:i V:gurish V:18:a T:▁software PT:▁.
+DE:1:a DE:2:ba DE:a T:▁gur T:ha V:2:ba V:komok V:18:a PR:▁muri T:▁nepal PT:▁.
+N:0:i N:1:ki N:bazo PO:1:ki PO:a N:0:a N:1:ma N:faranga PO:1:i PO:o PR:▁muri NP:▁aziya V:2:ki V:fat V:18:a T:▁s T:san T:g T:yong T:▁motor
+T:▁bernardo T:▁vieira V:2:a V:4:a V:r V:18:i NP:▁perezida PO:1:u PO:a NP:▁gineya PT:▁- T:▁bissau PT:▁.
+N:0:a N:1:ba N:ntu V:2:ba V:hur V:18:ye V:1:ni V:2:n V:garuk V:18:a QA:1:n QA:bi V:2:n V:7:mu V:8:ki V:ha V:18:e V:2:ba V:fat V:18:a T:▁aspi T:rine PT:▁.
+N:0:i N:1:bi N:hugu PO:1:bi PO:a NP:▁afurika V:2:bi V:4:ra V:shishikaz V:13:ir V:18:a V:2:ku V:komez V:18:a N:0:i N:1:n N:nyamaswa V:2:ku V:ba V:18:a V:19:ho VC:▁kugirango V:2:zi V:kurur V:18:a PO:1:ba PO:a N:1:mu N:kerarugendo PT:▁.
+N:0:i N:1:n N:garuka PO:1:i PO:a N:parike V:2:i V:hindur V:18:a N:0:i N:1:ki N:rere N:1:ki N:isi PT:▁.
+T:▁hub T:ble V:2:a V:4:a V:vumbur V:18:ye N:0:u N:1:mu N:obo V:2:u V:9:ii V:rabur V:18:a PT:▁.
+NN:▁guverinoma PO:1:i PO:a NP:▁amerika V:2:i V:4:ra V:shak V:18:a V:2:ku V:gabany V:18:a N:0:i N:1:bi N:ciro PO:1:bi PO:a N:0:i N:1:bi N:yobyabwenge PT:▁.
+N:0:u N:1:mu N:nyamakuru PO:1:u PO:a N:0:u N:1:mu N:gore V:2:a V:4:a V:shimut V:17:w V:18:ye PR:▁muri NP:▁iraki PT:▁.
+N:0:a N:1:ba N:ntu V:2:ba V:ger V:18:a PR:▁kuri DI:▁33 PT:▁. DI:▁5 T:▁mi T:ili T:on V:2:ba V:ba V:18:a PR:▁muri T:▁to T:ki T:yo PT:▁.
+N:0:u N:1:mu N:yaga V:2:u V:it V:17:w V:18:a NP:▁irene V:2:u V:gir V:18:ye V:2:ku V:eger V:18:a N:0:i N:1:n N:kombe PO:1:i PO:a NP:▁iburasirazuba PO:1:bu PO:a NP:▁amerika PT:▁.
+N:0:u N:1:mu N:ganga V:2:a V:ic V:16:y V:17:w V:18:e CJ:▁na N:0:a N:1:ba N:byeyi PO:1:ba PO:a PO:3:a PO:4:e PT:▁.
+T:▁cyri T:lli T:c CP:▁ni N:0:i N:1:n N:nyuguti V:2:zi V:9:ii V:kor V:13:ish V:17:w V:18:a PR:▁mu N:1:n N:rimi NU:0:zi NU:mwe CJ:▁na NU:0:zi NU:mwe PO:1:zi PO:a NP:▁igi NP:sila NP:ve PT:▁, CJ:▁nka N:0:i N:kirusiya PT:▁.
+N:0:a N:1:ma N:shyaka QA:1:ma QA:inshi PO:1:i PO:a NN:▁politiki V:2:i V:4:a V:garagar V:18:ye PT:▁.
+N:0:u N:1:ru N:kiko PO:1:ru PO:a NP:▁ikirenga V:2:ru V:emer V:16:y V:18:ye CJ:▁ko N:0:a N:1:ba N:camanza OT:1:ba OT:onyine V:2:a V:r V:18:i PO:1:ba PO:o V:2:ba V:shobor V:18:a V:2:ku V:tang V:18:a N:0:i N:1:ki N:hano PO:1:ki PO:a N:0:u N:1:ru N:pfu PT:▁.
+T:▁euro PT:▁- T:▁disney CP:▁ni NP:▁pari NP:ke T:▁yi T:myi T:dagaduro PT:▁.
+N:0:u N:1:bu N:tabera T:▁carlos T:▁valencia V:2:a V:ic V:13:ir V:17:w V:18:ye PR:▁i T:▁me T:del T:lin PT:▁.
+N:0:u N:1:mu N:nyeshuri T:▁w T:ubu T:vu T:zi T:▁philip T:▁mar T:ko T:ff V:2:a V:4:a V:sezerany V:18:ye PT:▁.
+N:0:i N:1:n N:nzovu PO:1:zi PO:o PR:▁muri NP:▁afurika V:2:zi V:bangam V:13:ir V:17:w V:18:ye CJ:▁na N:0:a N:1:ba N:higi PO:1:ba PO:a N:0:i N:1:n N:nzovu PT:▁.
+N:0:i N:1:bi N:yobyabwenge V:2:bi V:4:a V:tegan V:13:iz V:17:w V:18:ye V:2:bi V:gomb V:18:a V:2:ku V:gir V:18:a N:0:u N:1:bu N:zima N:1:bu N:rebure T:▁bwi T:soko TE:▁nyuma PO:1:i PO:o V:2:ku V:emer V:16:y V:17:w V:18:a N:1:n N:namabwiriza VC:▁kugirango V:2:ba V:iteg V:16:y V:17:w V:18:e SP:▁imbere PT:▁.
+N:0:a N:1:ma N:faranga V:2:a V:injir V:18:a PR:▁mu N:1:mu N:ryango PO:1:u PO:a T:▁he T:p T:burn PT:▁.
+N:0:a N:1:ba N:yoboke PO:1:ba PO:a NN:▁demokarasi N:1:ba N:ari V:2:ba V:fit V:18:e N:0:a N:1:ma N:jwi V:2:a V:komer V:18:ye PO:1:i PO:o V:2:ku V:tor V:18:a PR:▁mu N:1:bu N:curuzi PT:▁.
+N:0:u N:1:mu N:bano SP:▁hagati PO:1:i PO:a T:▁arijantine N:1:n N:nu NP:▁bwongereza V:2:u V:4:ra V:gend V:18:a V:2:u V:rush V:18:a V:19:ho V:2:ku V:kor V:13:an V:18:a CJ:▁na NN:▁koperative PT:▁.
+N:0:a N:1:ba N:gore V:1:nti V:2:i V:8:ba V:hagararir V:17:w V:18:ye AD:▁nabi PR:▁mu N:1:n N:nteko PT:▁.
+T:▁war T:sa T:w V:2:a V:4:a V:ter V:17:w V:18:ye CJ:▁na NP:▁aba NP:su NP:we NP:de PR:▁mu DI:▁165 DI:5 PT:▁, N:0:u N:1:mu N:jyi V:2:u V:4:ra V:seny V:16:y V:17:w V:18:a PT:▁.
+V:2:ha V:shyir V:16:y V:17:w V:18:ye V:19:ho N:0:i N:1:mi N:rimo QA:1:mi QA:inshi PR:▁muri N:1:ma N:nda PO:1:i PO:a TE:▁mbere PO:1:i PO:a NP:▁perezida T:▁bush PT:▁.
+N:0:i N:perereza PO:1:ri PO:a NP:▁amerika V:2:ri V:4:a V:kor V:16:y V:17:w V:18:ye CJ:▁na N:0:i N:perereza V:2:ri V:4:a V:tangir V:16:y V:17:w V:18:ye CJ:▁na N:0:i N:shami PO:1:ri PO:a N:0:u N:1:bu N:curuzi PT:▁.
+V:2:ku V:nyw V:18:a N:0:i N:kawa V:2:bi V:fit V:18:e N:0:a N:1:ka N:maro PO:1:ka PO:a N:0:u N:1:bu N:zima PT:▁.
+T:▁latif T:▁kho T:sa V:2:a V:4:a V:r V:18:i V:2:a V:fit V:13:an V:16:y V:18:e N:0:u N:1:mu N:bano CJ:▁na NP:▁madamu T:▁bhu T:tto PT:▁.
+T:▁alvaro V:2:u V:8:ri V:ba V:18:e CP:▁ni NP:▁perezida PO:1:u PO:a NP:▁kolombiya V:2:u V:r V:18:i V:19:ho VC:▁ubu PT:▁.
+T:▁da T:lai NP:▁la NP:ma V:2:i V:4:a V:ba V:18:ye V:19:ho N:1:mu N:buhungiro V:2:ku V:v V:18:a DI:▁10 PT:▁, DI:▁000 PT:▁.
 T:▁bi T:hor V:2:i V:herer V:13:ir V:18:ye PR:▁muri T:▁ru T:maniya PT:▁.
-T:▁mer T:ri T:ll T:▁lyn T:ch PT:▁& N:co CJ:▁na NP:▁smith T:▁bar T:ney VC:▁ubu CP:▁ni N:1:ki N:0:i N:ce PO:1:ki PO:a T:▁citi T:gro T:up PT:▁.
-PR:▁ku PO:1:i PO:a DI:▁30 MO:▁gicurasi DI:▁89 PT:▁, N:1:ba N:0:a N:sore NU:0:ba NU:biri PO:1:ba PO:a N:1:ba N:0:a N:nyamerika V:2:ba V:ic V:16:y V:17:w V:18:e PT:▁.
-NP:▁robert NP:▁pat NP:tin NP:son CP:▁ni N:vampire PT:▁.
-T:▁mu T:cuku T:mbuzi PO:1:i PO:a N:1:n N:0:i N:terineti T:▁mo T:sai T:c V:4:a V:2:a V:korerw V:18:ye PR:▁muri N:hoteri PO:1:i PO:a NP:▁san NP:▁francisco NP:▁marriott PT:▁.
-V:2:ha V:r V:18:i V:19:ho N:1:ki N:0:i N:emezo T:▁cyuru T:kiko V:8:ki V:4:i V:2:ru V:reng V:18:a V:2:ki V:jyan V:16:y V:18:e CJ:▁no V:2:ku V:kur V:18:a V:19:ho N:1:n N:0:i N:kunga PT:▁- N:yubuzima PT:▁.
-N:1:ru N:0:u N:kiko PO:1:ru PO:a N:1:ki N:0:i N:renga PO:1:ru PO:o PR:▁muri NP:▁amerika V:2:ru V:emer V:16:y V:18:ye V:2:ku V:shyingiranw V:18:a PR:▁kwa V:8:ba V:2:a V:hur V:16:y V:18:ye N:1:bi N:0:i N:tsina
-T:▁greg N:page V:4:a V:2:i V:r V:18:i N:1:mu N:0:u N:kinnyi PO:1:u PO:a N:0:i N:teramakofe PT:▁.
-NP:▁cami NP:lla NP:▁parker T:▁bow T:les V:4:a V:2:a V:sezerany V:18:ye CJ:▁na N:1:mu N:0:u N:ragwa PO:1:u PO:a NP:▁ubw NP:ong NP:ereza PT:▁.
-V:2:ku V:ot V:18:a CP:▁ni N:1:ki N:0:i N:go T:▁cyu T:bu T:curuzi N:1:ki N:igihugu PT:▁.
-N:1:n N:0:i N:ganda V:2:zi V:kor V:18:a N:1:bu N:0:u N:cukuzi V:2:zi V:koresh V:18:a N:1:bu N:0:u N:ryo V:2:bu V:z V:17:w V:18:i N:1:n N:ko V:2:ku V:hunik V:18:a N:1:bi N:0:i N:rundo PT:▁.
-DE:2:ha DE:no CP:▁hari N:1:ki N:0:i N:runga PR:▁muri T:▁yellow T:stone PT:▁.
-N:1:ki N:0:i N:sirikare PO:1:ki PO:a NP:▁amerika V:2:ki V:emer V:18:ye N:1:ki N:0:i N:ifuzo PO:1:ki PO:a NP:▁guverineri PO:1:u PO:a N:0:i N:banze PO:1:ku PO:o N:1:n N:0:i N:gabo PO:1:zi PO:a NP:▁amerika V:2:zi V:itab V:18:a SP:▁kure PO:1:i PO:a N:1:ru N:0:u N:sengero PO:1:ru PO:a NP:▁imamu NP:▁ali PR:▁i T:▁na T:ja T:f PT:▁.
-N:1:bi N:0:i N:tero PO:1:bi PO:a N:0:i N:terabwoba V:4:a V:2:bi V:kor V:13:ir V:17:w V:18:ye PR:▁muri NP:▁salvador PT:▁.
-N:1:ma N:0:a N:zu N:yashenywe CJ:▁na N:1:mu N:0:u N:riro PR:▁muri NP:▁oklahoma CJ:▁na NP:▁texas PT:▁.
-V:2:ha V:fat V:16:y V:17:w V:18:ye N:1:n N:0:i N:gamba PO:1:zi PO:o V:2:ku V:hagarik V:18:a N:1:n N:magendu PO:1:i PO:a N:1:ba N:0:a N:nyamahanga PT:▁.
-N:1:n N:0:i N:rwara PO:1:i PO:a NP:▁alzheimer V:2:i V:vur V:17:w V:18:a V:2:ha V:kor V:13:ish V:14:iz V:17:w V:18:ye N:1:bi N:0:i N:yobyabwenge PT:▁.
-N:1:ku N:0:u N:boko PO:1:ku PO:a N:robo V:4:a V:2:ku V:kor V:13:ish V:14:iz V:16:y V:17:w V:18:ye T:▁mubu T:vu T:mbuzi PO:1:bu PO:a NN:▁siyansi PT:▁.
-T:▁bu T:gs NP:▁bun NP:ny V:2:i V:fit V:17:w V:18:ye CJ:▁na NP:▁warner NP:▁bro NP:s PT:▁.
-T:▁clare T:tta T:▁pe T:ta T:cci V:4:a V:2:a V:r V:18:i N:1:n N:yirabuja PO:1:u PO:a TE:▁nyuma PO:1:u PO:a T:▁mussolini PT:▁.
-N:1:mu N:0:u N:jyi PO:1:u PO:a T:▁ma T:dras V:2:u V:herer V:13:ir V:18:ye PR:▁mu OR:▁majyepfo PO:1:i PO:a NP:▁ubu NP:hinde PT:▁.
-V:2:ku V:emer V:16:y V:18:a N:1:bi N:0:i N:yobyabwenge V:2:bi V:fit V:18:e N:1:n N:0:i N:yungu PT:▁.
-T:▁row T:ling CP:▁ni N:1:mu N:0:u N:anditsi PO:1:u PO:a PT:▁" NP:▁harry NP:▁potter PT:▁" PT:▁.
-N:1:n N:0:i N:zu N:yumujyi CP:▁ni N:1:n N:0:i N:zu N:1:n N:ndangamurage VC:▁ubu PT:▁.
-N:1:n N:0:i N:uri V:4:a V:2:i V:garagar V:18:ye PR:▁mu N:1:ki N:ce V:2:ki V:itw V:16:y V:18:a PT:▁" N:1:ma N:0:a N:tegeko PT:▁& NP:▁i NP:teka PT:▁" V:4:a V:2:ki V:nyur V:18:ye PR:▁muri NP:▁mutarama PT:▁.
-N:1:mu N:0:u N:bare V:8:ba V:4:a V:2:u V:shing V:16:y V:17:w V:18:ye N:1:mu N:0:u N:tekano PR:▁ku N:1:bi N:buga N:1:bi N:indege PO:1:bi PO:a NP:▁amerika V:4:za V:2:u V:gabanuk V:18:a PT:▁.
-NP:▁christopher T:▁ya T:velo T:w CP:▁ni N:1:mu N:0:u N:amikazi PO:1:u PO:a NP:▁ubuholandi PT:▁.
-T:▁alb T:right V:4:a V:2:a V:vug V:18:ye CJ:▁ko V:2:ku V:han V:18:a NP:▁saddam NP:▁hussein PT:▁, T:▁impfu PO:1:zi PO:a DE:2:ba DE:1:a DE:o N:1:ba N:ana PT:▁" V:4:a V:2:bi V:r V:18:i V:2:bi V:kwir V:18:ye PT:▁. PT:▁"
-RL:▁papa NP:▁yohani NP:▁pawulo PO:1:u PO:a NP:▁ii V:4:a V:2:a V:vuk V:13:ir V:18:ye PR:▁muri NP:▁polonye PT:▁.
-N:0:i N:zina PO:1:ri PO:a N:1:mu N:0:u N:gore PO:1:u PO:a NP:▁george T:▁w PT:▁. NP:▁bush CP:▁ni NP:▁laura PT:▁.
-N:1:ki N:0:i N:icaro QA:1:ki QA:kuru PO:1:ki PO:a T:▁wto V:2:ki V:r V:18:i PR:▁mu NP:▁busuwisi PT:▁.
-T:▁travis T:▁bar T:ker CP:▁ni V:8:yi V:2:i V:tsind V:18:a PT:▁.
-NP:▁qatar PR:▁i NP:▁doha PT:▁.
-NP:▁robert V:8:bi V:2:ku V:c V:18:a V:4:a V:2:i V:shyir V:16:y V:17:w V:18:ye V:19:ho CJ:▁na T:▁s T:cu T:de T:ria NP:▁ferrari PT:▁.
-T:▁ha T:que V:4:ra V:2:a V:shak V:18:a V:2:ku V:shyir V:18:a N:0:i N:cyongereza N:1:n N:mubizamini NU:0:bi NU:mwe PT:▁.
-V:2:ku V:emer V:16:y V:18:a N:1:bi N:0:i N:yobyabwenge V:2:bi V:fit V:18:e N:1:n N:0:i N:yungu PT:▁.
-NP:▁perezida NP:▁laurent NP:▁gbagbo DE:2:ba DE:1:a DE:a PR:▁muri NP:▁cote IJ:▁da NP:▁ivoire PT:▁.
-V:2:ha V:tor V:17:w V:18:a NP:▁minisitiri PO:1:u PO:a N:1:n N:0:i N:ntebe QA:1:mu QA:shya PO:1:u PO:a T:▁porutugali PT:▁.
-NP:▁arafat V:2:a V:amagan V:18:ye N:1:bi N:0:i N:tero PO:1:bi PO:a N:1:ba N:0:a N:iyahuzi PR:▁muri NP:▁isiraheli PT:▁.
-N:1:ha N:0:a N:ntu PO:1:ha PO:o SP:▁hasi N:kwisi CP:▁ni PR:▁ku N:1:n N:nyanja PO:1:i PO:a N:1:mu N:0:u N:nyu PT:▁.
-N:1:ki N:0:i N:bazo V:c V:18:a N:1:bi N:0:i N:sazi V:2:ki V:emer V:16:y V:17:w V:18:ye PT:▁.
-NP:▁vla NP:dis NP:la NP:v T:▁list T:ye T:v V:2:a V:ic V:13:ir V:17:w V:18:ye PR:▁i NP:▁moscou PT:▁.
-N:0:i N:nkubi PO:1:i PO:a N:1:mu N:0:u N:yaga V:2:a V:ibasir V:18:ye NP:▁filipine PT:▁.
-N:1:mu N:0:u N:sozi PO:1:u PO:a T:▁oly T:mp T:us V:2:u V:r V:18:i SP:▁hagati N:yisi PT:▁.
-N:0:i N:tangazo PO:1:ri PO:a N:1:bu N:0:u N:igenge PR:▁muri NP:▁amerika V:2:ri V:herer V:13:ir V:18:ye PR:▁i NP:▁philadelphia PT:▁.
-T:▁broad T:way DE:2:ri DE:1:i DE:i PR:▁i NP:▁new NP:▁york PT:▁.
+T:▁mer T:ri T:ll T:▁lyn T:ch PT:▁& N:co CJ:▁na T:▁smith T:▁bar T:ney VC:▁ubu CP:▁ni N:0:i N:1:ki N:ce PO:1:ki PO:a T:▁citi T:gro T:up PT:▁.
+PR:▁ku PO:1:i PO:a DI:▁30 MO:▁gicurasi DI:▁89 PT:▁, N:0:a N:1:ba N:sore NU:0:ba NU:biri PO:1:ba PO:a N:0:a N:1:ba N:nyamerika V:2:ba V:ic V:16:y V:17:w V:18:e PT:▁.
+T:▁robert T:▁pat T:tin T:son CP:▁ni N:vampire PT:▁.
+T:▁mu T:cuku T:mbuzi PO:1:i PO:a N:0:i N:1:n N:terineti T:▁mo T:sai T:c V:2:a V:4:a V:korerw V:18:ye PR:▁muri N:hoteri PO:1:i PO:a T:▁san T:▁francisco T:▁marriott PT:▁.
+V:2:ha V:r V:18:i V:19:ho N:0:i N:1:ki N:emezo T:▁cyuru T:kiko V:2:ru V:4:i V:8:ki V:reng V:18:a V:2:ki V:jyan V:16:y V:18:e CJ:▁no V:2:ku V:kur V:18:a V:19:ho N:0:i N:1:n N:kunga PT:▁- N:yubuzima PT:▁.
+N:0:u N:1:ru N:kiko PO:1:ru PO:a N:0:i N:1:ki N:renga PO:1:ru PO:o PR:▁muri NP:▁amerika V:2:ru V:emer V:16:y V:18:ye V:2:ku V:shyingiranw V:18:a PR:▁kwa V:2:a V:8:ba V:hur V:16:y V:18:ye N:0:i N:1:bi N:tsina
+T:▁greg N:page V:2:i V:4:a V:r V:18:i N:0:u N:1:mu N:kinnyi PO:1:u PO:a N:0:i N:teramakofe PT:▁.
+T:▁cami T:lla T:▁parker T:▁bow T:les V:2:a V:4:a V:sezerany V:18:ye CJ:▁na N:0:u N:1:mu N:ragwa PO:1:u PO:a NP:▁ubw NP:ong NP:ereza PT:▁.
+V:2:ku V:ot V:18:a CP:▁ni N:0:i N:1:ki N:go T:▁cyu T:bu T:curuzi N:1:ki N:igihugu PT:▁.
+N:0:i N:1:n N:ganda V:2:zi V:kor V:18:a N:0:u N:1:bu N:cukuzi V:2:zi V:koresh V:18:a N:0:u N:1:bu N:ryo V:2:bu V:z V:17:w V:18:i N:1:n N:ko V:2:ku V:hunik V:18:a N:0:i N:1:bi N:rundo PT:▁.
+DE:2:ha DE:no CP:▁hari N:0:i N:1:ki N:runga PR:▁muri T:▁yellow T:stone PT:▁.
+N:0:i N:1:ki N:sirikare PO:1:ki PO:a NP:▁amerika V:2:ki V:emer V:18:ye N:0:i N:1:ki N:ifuzo PO:1:ki PO:a NP:▁guverineri PO:1:u PO:a N:0:i N:banze PO:1:ku PO:o N:0:i N:1:n N:gabo PO:1:zi PO:a NP:▁amerika V:2:zi V:itab V:18:a SP:▁kure PO:1:i PO:a N:0:u N:1:ru N:sengero PO:1:ru PO:a NP:▁imamu NP:▁ali PR:▁i T:▁na T:ja T:f PT:▁.
+N:0:i N:1:bi N:tero PO:1:bi PO:a N:0:i N:terabwoba V:2:bi V:4:a V:kor V:13:ir V:17:w V:18:ye PR:▁muri T:▁salvador PT:▁.
+N:0:a N:1:ma N:zu N:yashenywe CJ:▁na N:0:u N:1:mu N:riro PR:▁muri T:▁oklahoma CJ:▁na T:▁texas PT:▁.
+V:2:ha V:fat V:16:y V:17:w V:18:ye N:0:i N:1:n N:gamba PO:1:zi PO:o V:2:ku V:hagarik V:18:a N:1:n N:magendu PO:1:i PO:a N:0:a N:1:ba N:nyamahanga PT:▁.
+N:0:i N:1:n N:rwara PO:1:i PO:a T:▁alzheimer V:2:i V:vur V:17:w V:18:a V:2:ha V:kor V:13:ish V:14:iz V:17:w V:18:ye N:0:i N:1:bi N:yobyabwenge PT:▁.
+N:0:u N:1:ku N:boko PO:1:ku PO:a N:robo V:2:ku V:4:a V:kor V:13:ish V:14:iz V:16:y V:17:w V:18:ye T:▁mubu T:vu T:mbuzi PO:1:bu PO:a NN:▁siyansi PT:▁.
+T:▁bu T:gs T:▁bun T:ny V:2:i V:fit V:17:w V:18:ye CJ:▁na T:▁warner T:▁bro T:s PT:▁.
+T:▁clare T:tta T:▁pe T:ta T:cci V:2:a V:4:a V:r V:18:i N:1:n N:yirabuja PO:1:u PO:a TE:▁nyuma PO:1:u PO:a T:▁mussolini PT:▁.
+N:0:u N:1:mu N:jyi PO:1:u PO:a T:▁ma T:dras V:2:u V:herer V:13:ir V:18:ye PR:▁mu OR:▁majyepfo PO:1:i PO:a NP:▁ubu NP:hinde PT:▁.
+V:2:ku V:emer V:16:y V:18:a N:0:i N:1:bi N:yobyabwenge V:2:bi V:fit V:18:e N:0:i N:1:n N:yungu PT:▁.
+T:▁row T:ling CP:▁ni N:0:u N:1:mu N:anditsi PO:1:u PO:a PT:▁" T:▁harry T:▁potter PT:▁" PT:▁.
+N:0:i N:1:n N:zu N:yumujyi CP:▁ni N:0:i N:1:n N:zu N:1:n N:ndangamurage VC:▁ubu PT:▁.
+N:0:i N:1:n N:uri V:2:i V:4:a V:garagar V:18:ye PR:▁mu N:1:ki N:ce V:2:ki V:itw V:16:y V:18:a PT:▁" N:0:a N:1:ma N:tegeko PT:▁& N:0:i N:teka PT:▁" V:2:ki V:4:a V:nyur V:18:ye PR:▁muri NP:▁mutarama PT:▁.
+N:0:u N:1:mu N:bare V:2:u V:4:a V:8:ba V:shing V:16:y V:17:w V:18:ye N:0:u N:1:mu N:tekano PR:▁ku N:1:bi N:buga N:1:bi N:indege PO:1:bi PO:a NP:▁amerika V:2:u V:4:za V:gabanuk V:18:a PT:▁.
+T:▁christopher T:▁ya T:velo T:w CP:▁ni N:0:u N:1:mu N:amikazi PO:1:u PO:a NP:▁ubuholandi PT:▁.
+T:▁alb T:right V:2:a V:4:a V:vug V:18:ye CJ:▁ko V:2:ku V:han V:18:a T:▁saddam T:▁hussein PT:▁, T:▁impfu PO:1:zi PO:a DE:1:a DE:2:ba DE:o N:1:ba N:ana PT:▁" V:2:bi V:4:a V:r V:18:i V:2:bi V:kwir V:18:ye PT:▁. PT:▁"
+RL:▁papa NP:▁yohani NP:▁pawulo PO:1:u PO:a T:▁ii V:2:a V:4:a V:vuk V:13:ir V:18:ye PR:▁muri NP:▁polonye PT:▁.
+N:0:i N:zina PO:1:ri PO:a N:0:u N:1:mu N:gore PO:1:u PO:a T:▁george T:▁w PT:▁. T:▁bush CP:▁ni T:▁laura PT:▁.
+N:0:i N:1:ki N:icaro QA:1:ki QA:kuru PO:1:ki PO:a T:▁wto V:2:ki V:r V:18:i PR:▁mu NP:▁busuwisi PT:▁.
+T:▁travis T:▁bar T:ker CP:▁ni V:2:i V:8:yi V:tsind V:18:a PT:▁.
+T:▁qatar PR:▁i NP:▁doha PT:▁.
+T:▁robert V:2:ku V:8:bi V:c V:18:a V:2:i V:4:a V:shyir V:16:y V:17:w V:18:ye V:19:ho CJ:▁na T:▁s T:cu T:de T:ria T:▁ferrari PT:▁.
+T:▁ha T:que V:2:a V:4:ra V:shak V:18:a V:2:ku V:shyir V:18:a N:0:i N:cyongereza N:1:n N:mubizamini NU:0:bi NU:mwe PT:▁.
+V:2:ku V:emer V:16:y V:18:a N:0:i N:1:bi N:yobyabwenge V:2:bi V:fit V:18:e N:0:i N:1:n N:yungu PT:▁.
+NP:▁perezida T:▁laurent T:▁gbagbo DE:1:a DE:2:ba DE:a PR:▁muri NP:▁cote IJ:▁da T:▁ivoire PT:▁.
+V:2:ha V:tor V:17:w V:18:a NP:▁minisitiri PO:1:u PO:a N:0:i N:1:n N:ntebe QA:1:mu QA:shya PO:1:u PO:a T:▁porutugali PT:▁.
+T:▁arafat V:2:a V:amagan V:18:ye N:0:i N:1:bi N:tero PO:1:bi PO:a N:0:a N:1:ba N:iyahuzi PR:▁muri NP:▁isiraheli PT:▁.
+N:0:a N:1:ha N:ntu PO:1:ha PO:o SP:▁hasi N:kwisi CP:▁ni PR:▁ku N:1:n N:nyanja PO:1:i PO:a N:0:u N:1:mu N:nyu PT:▁.
+N:0:i N:1:ki N:bazo V:c V:18:a N:0:i N:1:bi N:sazi V:2:ki V:emer V:16:y V:17:w V:18:ye PT:▁.
+T:▁vla T:dis T:la T:v T:▁list T:ye T:v V:2:a V:ic V:13:ir V:17:w V:18:ye PR:▁i T:▁moscou PT:▁.
+N:0:i N:nkubi PO:1:i PO:a N:0:u N:1:mu N:yaga V:2:a V:ibasir V:18:ye NP:▁filipine PT:▁.
+N:0:u N:1:mu N:sozi PO:1:u PO:a T:▁oly T:mp T:us V:2:u V:r V:18:i SP:▁hagati N:yisi PT:▁.
+N:0:i N:tangazo PO:1:ri PO:a N:0:u N:1:bu N:igenge PR:▁muri NP:▁amerika V:2:ri V:herer V:13:ir V:18:ye PR:▁i T:▁philadelphia PT:▁.
+T:▁broad T:way DE:1:i DE:2:ri DE:i PR:▁i T:▁new T:▁york PT:▁.
 N:0:i N:sosiyete PO:1:i PO:a N:gari PO:1:i PO:a N:1:n N:moshi PO:1:i PO:a NP:▁ubufaransa V:2:i V:itw V:16:y V:18:a T:▁sn T:c T:f PT:▁.
-PR:▁mu NP:▁nta NP:ra PO:1:i PO:a NP:▁los NP:▁angeles N:1:ba N:0:a N:byeyi OT:1:ba OT:ose V:2:ba V:gomb V:18:a V:2:ku V:ishyur V:18:a N:1:ma N:0:a N:faranga PO:1:i PO:o V:2:ku V:fung V:18:a N:1:ba N:0:a N:ana PO:1:ba PO:a PO:3:ba PO:4:o PT:▁.
-N:1:mu N:0:u N:tangabuhamya V:4:a V:2:a V:rokor V:18:ye NP:▁rodriguez PT:▁.
-N:1:mi N:0:i N:rasire PO:1:i PO:a N:1:mi N:0:i N:rasire PR:▁ku PO:1:i PO:a DI:▁27 MO:▁ukuboza PT:▁, V:4:a V:2:i V:murik V:13:ir V:18:ye N:1:ki N:0:i N:rere PO:1:ki PO:a N:0:i N:si PT:▁.
-T:▁yel T:eni T:c V:4:a V:2:a V:sambany V:13:iz V:18:ye N:1:mu N:0:u N:hungu PO:1:u PO:a PO:3:a PO:4:e PT:▁.
-NP:▁blair V:2:a V:gir V:13:ir V:18:a N:1:n N:0:i N:mpuhwe N:1:mu N:0:u N:ntu OT:1:u OT:ose V:4:a V:2:u V:bur V:18:ye V:8:bu V:2:u V:zim V:18:a PR:▁muri NP:▁iraki PT:▁.
-DI:▁80 PT:▁% V:2:ba V:emez V:18:a NP:▁bwana NP:▁bush PT:▁.
-N:1:ki N:0:i N:ciro T:▁cyi T:mpa T:puro V:4:ra V:2:ki V:zamuk V:18:a PT:▁.
-N:1:ba N:0:a N:ntu V:2:ba V:ba V:18:ye V:19:ho V:2:ha V:shir V:18:ye N:1:mi N:0:i N:aka DI:▁10 PT:▁, DI:▁000 PT:▁.
-PT:▁" T:▁sma T:sh PT:▁" CP:▁ni N:1:mu N:0:u N:twe PO:1:u PO:a NN:▁alubumu PO:1:i PO:a NU:0:ka NU:tatu PO:1:i PO:a N:1:ru N:0:u N:byaro PT:▁.
-DE:2:ha DE:no CP:▁hari N:1:ma N:0:a N:kimbirane PO:1:i PO:a N:1:ma N:0:a N:zi PT:▁.
-NP:▁jerry T:▁re T:ins T:dorf V:4:a V:2:a V:tsind V:13:ir V:18:ye NN:▁shampiyona DI:▁7 PT:▁.
-N:1:mu N:0:u N:gore PO:1:u PO:o PR:▁muri T:▁québec V:2:a V:ic V:16:y V:18:e N:1:mu N:0:u N:kobwa N:wimyaka NU:1:i NU:0:a NU:ne PT:▁.
-N:1:ba N:0:a N:kozi V:3:ta V:2:ba V:fit V:18:e N:1:bu N:0:u N:renganzira V:2:ba V:injir V:18:ye T:▁mumi T:yobo T:ro PO:1:i PO:a N:1:n N:mudasobwa PR:▁mu N:1:bu N:ryo V:3:ta V:2:bu V:emer V:17:w V:18:ye PT:▁.
-NP:▁lin T:▁pia T:o V:4:a V:2:a V:r V:18:i N:1:mu N:0:u N:yobozi PO:1:u PO:a N:0:i N:shyaka PO:1:ri PO:a N:gikomunisiti PR:▁mu NP:▁bushinwa PT:▁.
+PR:▁mu NP:▁nta NP:ra PO:1:i PO:a T:▁los T:▁angeles N:0:a N:1:ba N:byeyi OT:1:ba OT:ose V:2:ba V:gomb V:18:a V:2:ku V:ishyur V:18:a N:0:a N:1:ma N:faranga PO:1:i PO:o V:2:ku V:fung V:18:a N:0:a N:1:ba N:ana PO:1:ba PO:a PO:3:ba PO:4:o PT:▁.
+N:0:u N:1:mu N:tangabuhamya V:2:a V:4:a V:rokor V:18:ye T:▁rodriguez PT:▁.
+N:0:i N:1:mi N:rasire PO:1:i PO:a N:0:i N:1:mi N:rasire PR:▁ku PO:1:i PO:a DI:▁27 MO:▁ukuboza PT:▁, V:2:i V:4:a V:murik V:13:ir V:18:ye N:0:i N:1:ki N:rere PO:1:ki PO:a N:0:i N:si PT:▁.
+T:▁yel T:eni T:c V:2:a V:4:a V:sambany V:13:iz V:18:ye N:0:u N:1:mu N:hungu PO:1:u PO:a PO:3:a PO:4:e PT:▁.
+T:▁blair V:2:a V:gir V:13:ir V:18:a N:0:i N:1:n N:mpuhwe N:0:u N:1:mu N:ntu OT:1:u OT:ose V:2:u V:4:a V:bur V:18:ye V:2:u V:8:bu V:zim V:18:a PR:▁muri NP:▁iraki PT:▁.
+DI:▁80 PT:▁% V:2:ba V:emez V:18:a NP:▁bwana T:▁bush PT:▁.
+N:0:i N:1:ki N:ciro T:▁cyi T:mpa T:puro V:2:ki V:4:ra V:zamuk V:18:a PT:▁.
+N:0:a N:1:ba N:ntu V:2:ba V:ba V:18:ye V:19:ho V:2:ha V:shir V:18:ye N:0:i N:1:mi N:aka DI:▁10 PT:▁, DI:▁000 PT:▁.
+PT:▁" T:▁sma T:sh PT:▁" CP:▁ni N:0:u N:1:mu N:twe PO:1:u PO:a NN:▁alubumu PO:1:i PO:a NU:0:ka NU:tatu PO:1:i PO:a N:0:u N:1:ru N:byaro PT:▁.
+DE:2:ha DE:no CP:▁hari N:0:a N:1:ma N:kimbirane PO:1:i PO:a N:0:a N:1:ma N:zi PT:▁.
+T:▁jerry T:▁re T:ins T:dorf V:2:i V:4:a V:tsind V:13:ir V:18:ye NN:▁shampiyona DI:▁7 PT:▁.
+N:0:u N:1:mu N:gore PO:1:u PO:o PR:▁muri T:▁québec V:2:a V:ic V:16:y V:18:e N:0:u N:1:mu N:kobwa N:wimyaka NU:0:a NU:1:i NU:ne PT:▁.
+N:0:a N:1:ba N:kozi V:2:ba V:3:ta V:fit V:18:e N:0:u N:1:bu N:renganzira V:2:ba V:injir V:18:ye T:▁mumi T:yobo T:ro PO:1:i PO:a N:1:n N:mudasobwa PR:▁mu N:1:bu N:ryo V:2:bu V:3:ta V:emer V:17:w V:18:ye PT:▁.
+T:▁lin T:▁pia T:o V:2:a V:4:a V:r V:18:i N:0:u N:1:mu N:yobozi PO:1:u PO:a N:0:i N:shyaka PO:1:ri PO:a N:gikomunisiti PR:▁mu NP:▁bushinwa PT:▁.
 T:▁bro T:cco T:li V:2:i V:r V:18:i V:19:mo T:▁is T:ot T:hio T:c T:yana T:tes PT:▁.
-T:▁massage PO:1:i PO:o PR:▁muri NP:▁suwede V:2:i V:rekur V:18:a N:1:mi N:0:i N:tsi V:2:i V:kaz V:18:e PT:▁.
-NP:▁angel T:▁bro T:king V:2:a V:fit V:18:e N:1:ki N:0:i N:icaro PR:▁i T:▁bomba T:y PT:▁.
-NP:▁nick T:▁le T:es T:on V:4:a V:2:a V:tar V:17:w V:18:ye PR:▁muri OT:1:i OT:ombi V:2:a V:zir V:18:a V:2:ku V:senyuk V:18:a PO:1:ku PO:a T:▁ba T:rin T:gs NP:▁bank NP:▁plc PT:▁.
-N:1:ka N:0:a N:rere PO:1:ka PO:a N:1:bu N:0:u N:curuzi SP:▁hagati PT:▁( T:▁cb T:d PT:▁) CP:▁ni N:1:ki N:0:i N:ce PO:1:ki PO:a T:▁ro T:tor T:ua PT:▁.
-N:1:mu N:0:u N:yaga PO:1:u PO:o PR:▁mu V:8:tu V:rer V:18:e V:2:tu V:shyuh V:18:a V:2:u V:angiz V:18:ye N:1:bi N:0:i N:ntu QA:1:bi QA:inshi PT:▁.
-DE:2:zi DE:1:i DE:ndi N:1:n N:hinduka V:9:ii V:2:zi V:r V:18:i V:19:mo NN:▁gahunda T:▁zub T:ushaka T:shatsi N:1:n N:niterambere NU:0:ha NU:mwe DE:2:a DE:1:na DE:ndi N:1:ma N:sosiyete PT:▁.
-N:1:ba N:0:a N:ntu V:2:ba V:gur V:18:ye PR:▁mu N:1:ba N:itero PO:1:bi PO:a N:1:ba N:0:a N:iyahuzi PO:1:ba PO:o PR:▁muri NP:▁tamil PT:▁.
-N:1:ki N:0:i N:hano PO:1:ki PO:a N:1:ru N:0:u N:pfu CP:▁ni V:2:ku V:0:u V:buz V:18:a N:1:ki N:0:i N:aha PT:▁.
-N:1:mu N:0:u N:camanza V:2:a V:emez V:18:ye N:0:i N:vangura PT:▁- V:2:ri V:shing V:13:ir V:18:ye PR:▁ku N:1:ki N:tsina PT:▁.
+T:▁massage PO:1:i PO:o PR:▁muri NP:▁suwede V:2:i V:rekur V:18:a N:0:i N:1:mi N:tsi V:2:i V:kaz V:18:e PT:▁.
+T:▁angel T:▁bro T:king V:2:a V:fit V:18:e N:0:i N:1:ki N:icaro PR:▁i T:▁bomba T:y PT:▁.
+T:▁nick T:▁le T:es T:on V:2:a V:4:a V:tar V:17:w V:18:ye PR:▁muri OT:1:i OT:ombi V:2:a V:zir V:18:a V:2:ku V:senyuk V:18:a PO:1:ku PO:a T:▁ba T:rin T:gs T:▁bank T:▁plc PT:▁.
+N:0:a N:1:ka N:rere PO:1:ka PO:a N:0:u N:1:bu N:curuzi SP:▁hagati PT:▁( T:▁cb T:d PT:▁) CP:▁ni N:0:i N:1:ki N:ce PO:1:ki PO:a T:▁ro T:tor T:ua PT:▁.
+N:0:u N:1:mu N:yaga PO:1:u PO:o PR:▁mu V:8:tu V:rer V:18:e V:2:tu V:shyuh V:18:a V:2:u V:angiz V:18:ye N:0:i N:1:bi N:ntu QA:1:bi QA:inshi PT:▁.
+DE:1:i DE:2:zi DE:ndi N:1:n N:hinduka V:2:zi V:9:ii V:r V:18:i V:19:mo NN:▁gahunda T:▁zub T:ushaka T:shatsi N:1:n N:niterambere NU:0:ha NU:mwe DE:1:na DE:2:a DE:ndi N:1:ma N:sosiyete PT:▁.
+N:0:a N:1:ba N:ntu V:2:ba V:gur V:18:ye PR:▁mu N:1:ba N:itero PO:1:bi PO:a N:0:a N:1:ba N:iyahuzi PO:1:ba PO:o PR:▁muri T:▁tamil PT:▁.
+N:0:i N:1:ki N:hano PO:1:ki PO:a N:0:u N:1:ru N:pfu CP:▁ni V:0:u V:2:ku V:buz V:18:a N:0:i N:1:ki N:aha PT:▁.
+N:0:u N:1:mu N:camanza V:2:a V:emez V:18:ye N:0:i N:vangura PT:▁- V:2:ri V:shing V:13:ir V:18:ye PR:▁ku N:1:ki N:tsina PT:▁.
 NP:▁ro NP:mani T:▁pro T:di CP:▁ni NP:▁perezida PO:1:u PO:a NP:▁amerika PT:▁.
-N:0:i N:tangazamakuru PO:1:ri PO:a PT:▁' T:▁gon T:zo PT:▁' PO:1:ri PO:a NP:▁thompson V:2:ri V:juguny V:16:y V:18:a N:1:bi N:0:i N:ntu SP:▁hanze T:▁yi T:diri T:shya PT:▁.
-N:1:n N:0:i N:nama V:2:i V:huz V:18:a NP:▁ubu NP:rayi CJ:▁na NP:▁ubuyapani V:4:ra V:2:i V:ber V:18:a PR:▁mu N:1:mu N:rwa QA:1:mu QA:kuru PO:1:u PO:a NP:▁ubuyapani PT:▁.
-NP:▁jenerali NP:▁miguel V:2:n V:mar V:16:y V:18:a T:▁marquez V:4:a V:2:a V:gir V:18:ye N:1:ru N:0:u N:hare PR:▁mu V:4:i V:2:i V:ic V:17:w V:18:a PO:1:ri PO:a NP:▁luis NP:▁carlos T:▁ga T:lan PT:▁.
+N:0:i N:tangazamakuru PO:1:ri PO:a PT:▁' T:▁gon T:zo PT:▁' PO:1:ri PO:a T:▁thompson V:2:ri V:juguny V:16:y V:18:a N:0:i N:1:bi N:ntu SP:▁hanze T:▁yi T:diri T:shya PT:▁.
+N:0:i N:1:n N:nama V:2:i V:huz V:18:a NP:▁ubu NP:rayi CJ:▁na NP:▁ubuyapani V:2:i V:4:ra V:ber V:18:a PR:▁mu N:1:mu N:rwa QA:1:mu QA:kuru PO:1:u PO:a NP:▁ubuyapani PT:▁.
+NP:▁jenerali T:▁miguel V:2:n V:mar V:16:y V:18:a T:▁marquez V:2:a V:4:a V:gir V:18:ye N:0:u N:1:ru N:hare PR:▁mu V:2:i V:4:i V:ic V:17:w V:18:a PO:1:ri PO:a T:▁luis T:▁carlos T:▁ga T:lan PT:▁.
 PR:▁mu NP:▁bushinwa CP:▁hari V:pand V:18:a DI:▁32 PT:▁.
-N:1:n N:0:i N:rwara PO:1:i PO:a NN:▁bagiteri V:4:ra V:2:i V:tsind V:18:a N:1:n N:0:i N:tambara PO:1:i PO:o V:2:ku V:rwany V:18:a T:▁antibiyo T:tike PT:▁.
-N:1:ma N:0:a N:banga N:yubucuruzi V:4:a V:2:a V:ribw V:18:ye PT:▁.
-NP:▁jakarta V:2:a V:ryam V:18:ye PR:▁ku N:1:n N:kombe PO:1:i PO:a T:▁ci T:li T:w T:ung PT:▁( N:1:mu N:0:u N:gezi PO:1:u PO:a T:▁li T:w T:ung PT:▁) PR:▁ku N:1:n N:kombe PO:1:i PO:a N:1:ma N:0:a N:jyaruguru PO:1:i PO:a OR:▁uburengerazuba PO:1:bu PO:a N:1:ki N:0:i N:rwa PO:1:ki PO:a NP:▁java PT:▁.
-T:▁p PT:▁. T:▁pra T:yong CP:▁ni N:1:mu N:0:u N:nyamuryango PO:1:u PO:a T:▁thera T:vada PT:▁.
-NP:▁marc NP:▁allen T:▁conne T:lly V:4:a V:2:a V:kor V:18:aga PR:▁muri NP:▁sci PT:▁.
-NP:▁califor NP:niya NP:▁in NP:teko V:2:i V:shing V:18:a N:1:ma N:0:a N:tegeko DI:▁179 DI:2 PT:▁& DI:▁179 DI:3 CP:▁ni N:1:ma N:0:a N:tegeko V:2:a V:rwany V:18:a N:1:mi N:0:i N:kino PO:1:i PO:a N:videwo V:2:i V:kaby V:13:iz V:16:y V:18:e PT:▁.
-NP:▁bo NP:vine T:▁sp T:ongi T:form T:▁en T:ce T:pha T:lo T:pa T:thi T:e CP:▁ni DE:2:ri DE:1:i DE:ndi N:zina T:▁ry PT:▁" N:1:n N:0:i N:rwara N:yinka V:4:a V:2:i V:sar V:18:ye PT:▁" PT:▁.
-NP:▁pierre T:▁gema T:ye T:l V:2:a V:ic V:13:ir V:17:w V:18:ye PR:▁mu N:1:mu N:handa PR:▁mu N:1:n N:nkengero PO:1:zi PO:a T:▁beirut PT:▁.
-NP:▁barack NP:▁obama V:2:a V:mar V:18:ye N:1:mi N:0:i N:nsi DI:▁100 V:2:a V:r V:18:i NP:▁perezida PO:1:u PO:a NP:▁amerika PT:▁.
-NP:▁blair V:2:a V:babar V:16:y V:17:w V:18:ye N:1:n N:umuntu OT:1:u OT:ose V:4:a V:2:u V:bur V:18:ye V:8:bu V:2:u V:zim V:18:a PR:▁muri NP:▁iraki PT:▁.
-N:1:ki N:0:i N:sirikare PO:1:ki PO:a NP:▁amerika V:2:ki V:imur V:18:ye N:1:ba N:0:a N:nyamerika PT:▁.
-N:1:n N:0:i N:kombe PO:1:zi PO:a N:1:n N:0:i N:nyanja PO:1:i PO:a NP:▁santa NP:▁monica V:2:zi V:fit V:18:e N:1:bu N:0:u N:rebure PO:1:bu PO:a UN:▁kilometero DI:▁50 PT:▁.
-T:▁euro PT:▁- NP:▁disney CP:▁ni N:parike V:2:i V:iband V:18:ye SP:▁hanze PO:1:i PO:a NP:▁paris PT:▁.
-NP:▁george T:▁w PT:▁. NP:▁bush V:2:i V:injir V:18:ye PR:▁muri NN:▁perezidansi PO:1:i PO:a NP:▁amerika V:4:a V:2:ha V:shir V:18:ye N:1:mi N:0:i N:aka DI:▁3 PT:▁.
-V:2:ri V:ta V:18:a T:▁levi PT:▁- T:▁mon T:tal T:cini V:8:n V:2:i V:1:ni V:zob V:13:ir V:18:e N:kwisi OT:1:i OT:ose N:1:n N:mubwonko PT:▁.
-NP:▁antonio T:▁fa T:zio V:2:a V:yobor V:17:w V:18:ye CJ:▁na NP:▁jean PT:▁- NP:▁claude T:▁t T:ric T:he T:t PT:▁.
-T:▁cristi T:ani V:4:ra V:2:a V:shinj V:17:w V:18:a V:4:i V:2:i V:ic V:17:w V:18:a PO:1:ri PO:a NP:▁aba NP:yezu NP:wi NP:ti NU:0:ba NU:tandatu PT:▁.
+N:0:i N:1:n N:rwara PO:1:i PO:a NN:▁bagiteri V:2:i V:4:ra V:tsind V:18:a N:0:i N:1:n N:tambara PO:1:i PO:o V:2:ku V:rwany V:18:a T:▁antibiyo T:tike PT:▁.
+N:0:a N:1:ma N:banga N:yubucuruzi V:2:a V:4:a V:ribw V:18:ye PT:▁.
+T:▁jakarta V:2:a V:ryam V:18:ye PR:▁ku N:1:n N:kombe PO:1:i PO:a T:▁ci T:li T:w T:ung PT:▁( N:0:u N:1:mu N:gezi PO:1:u PO:a T:▁li T:w T:ung PT:▁) PR:▁ku N:1:n N:kombe PO:1:i PO:a N:0:a N:1:ma N:jyaruguru PO:1:i PO:a OR:▁uburengerazuba PO:1:bu PO:a N:0:i N:1:ki N:rwa PO:1:ki PO:a NP:▁java PT:▁.
+T:▁p PT:▁. T:▁pra T:yong CP:▁ni N:0:u N:1:mu N:nyamuryango PO:1:u PO:a T:▁thera T:vada PT:▁.
+T:▁marc T:▁allen T:▁conne T:lly V:2:a V:4:a V:kor V:18:aga PR:▁muri T:▁sci PT:▁.
+T:▁califor T:niya NP:▁in NP:teko V:2:i V:shing V:18:a N:0:a N:1:ma N:tegeko DI:▁179 DI:2 PT:▁& DI:▁179 DI:3 CP:▁ni N:0:a N:1:ma N:tegeko V:2:a V:rwany V:18:a N:0:i N:1:mi N:kino PO:1:i PO:a N:videwo V:2:i V:kaby V:13:iz V:16:y V:18:e PT:▁.
+NP:▁bo NP:vine T:▁sp T:ongi T:form T:▁en T:ce T:pha T:lo T:pa T:thi T:e CP:▁ni DE:1:i DE:2:ri DE:ndi N:zina T:▁ry PT:▁" N:0:i N:1:n N:rwara N:yinka V:2:i V:4:a V:sar V:18:ye PT:▁" PT:▁.
+T:▁pierre T:▁gema T:ye T:l V:2:a V:ic V:13:ir V:17:w V:18:ye PR:▁mu N:1:mu N:handa PR:▁mu N:1:n N:nkengero PO:1:zi PO:a T:▁beirut PT:▁.
+T:▁barack NP:▁obama V:2:a V:mar V:18:ye N:0:i N:1:mi N:nsi DI:▁100 V:2:a V:r V:18:i NP:▁perezida PO:1:u PO:a NP:▁amerika PT:▁.
+T:▁blair V:2:a V:babar V:16:y V:17:w V:18:ye N:1:n N:umuntu OT:1:u OT:ose V:2:u V:4:a V:bur V:18:ye V:2:u V:8:bu V:zim V:18:a PR:▁muri NP:▁iraki PT:▁.
+N:0:i N:1:ki N:sirikare PO:1:ki PO:a NP:▁amerika V:2:ki V:imur V:18:ye N:0:a N:1:ba N:nyamerika PT:▁.
+N:0:i N:1:n N:kombe PO:1:zi PO:a N:0:i N:1:n N:nyanja PO:1:i PO:a NP:▁santa NP:▁monica V:2:zi V:fit V:18:e N:0:u N:1:bu N:rebure PO:1:bu PO:a UN:▁kilometero DI:▁50 PT:▁.
+T:▁euro PT:▁- T:▁disney CP:▁ni N:parike V:2:i V:iband V:18:ye SP:▁hanze PO:1:i PO:a T:▁paris PT:▁.
+T:▁george T:▁w PT:▁. T:▁bush V:2:i V:injir V:18:ye PR:▁muri NN:▁perezidansi PO:1:i PO:a NP:▁amerika V:2:ha V:4:a V:shir V:18:ye N:0:i N:1:mi N:aka DI:▁3 PT:▁.
+V:2:ri V:ta V:18:a T:▁levi PT:▁- T:▁mon T:tal T:cini V:1:ni V:2:i V:8:n V:zob V:13:ir V:18:e N:kwisi OT:1:i OT:ose N:1:n N:mubwonko PT:▁.
+T:▁antonio T:▁fa T:zio V:2:a V:yobor V:17:w V:18:ye CJ:▁na T:▁jean PT:▁- T:▁claude T:▁t T:ric T:he T:t PT:▁.
+T:▁cristi T:ani V:2:a V:4:ra V:shinj V:17:w V:18:a V:2:i V:4:i V:ic V:17:w V:18:a PO:1:ri PO:a NP:▁aba NP:yezu NP:wi NP:ti NU:0:ba NU:tandatu PT:▁.
 V:2:i V:modok V:18:a DE:2:zi DE:i NP:▁burayi V:2:zi V:gurish V:18:a PR:▁mu NP:▁burusiya PT:▁.
-N:1:ma N:0:a N:sezerano AJ:▁mpuzamahanga V:4:a V:2:a V:buz V:13:iz V:18:ye N:1:bu N:0:u N:curuzi PR:▁mu N:1:n N:mahembe PO:1:i PO:a N:1:n N:0:i N:zovu PT:▁.
-N:1:mu N:0:u N:sozi PO:1:u PO:a T:▁oly T:mp T:us V:2:u V:r V:18:i PR:▁muri T:▁the T:ssa T:ly PT:▁.
-T:▁mel T:v T:yn T:▁per T:cy V:4:a V:2:a V:shyir V:18:ye V:19:ho T:▁miner T:va T:▁ri T:gg T:ing PR:▁kuri NP:▁kip NP:▁marina PT:▁.
-V:2:ku V:injir V:16:y V:18:a N:1:ma N:0:a N:yero V:4:ara V:2:bi V:rwany V:13:iz V:16:y V:17:w V:18:e PT:▁.
-NP:▁bosi NP:niya V:2:i V:herer V:13:ir V:18:ye V:8:ha V:2:a V:hor V:18:ye T:▁yu T:go T:sila T:viya PT:▁.
-V:8:ki V:7:mu V:2:n V:ha V:18:e V:2:ha V:ba V:18:ye N:1:n N:0:i N:hanuka V:2:u V:shobor V:18:a V:2:ku V:koresh V:18:a NP:▁texas NP:▁data NP:▁reco NP:very VC:▁kandi V:4:za V:2:u V:gir V:18:a N:1:bu N:0:u N:shobozi PO:1:bu PO:o V:2:ku V:garur V:18:a N:1:ma N:0:a N:kuru V:4:a V:2:a V:takar V:18:ye PT:▁.
-N:1:ba N:0:a N:ntu DI:▁100 VC:▁cyangwa V:2:ba V:reng V:18:a V:8:ha V:2:ba V:sig V:18:ye V:8:bu V:2:u V:zim V:18:a PR:▁mu N:1:bu N:ato V:2:bu V:roham V:18:a PT:▁.
-N:yoko NP:▁on NP:o CP:▁ni N:1:mu N:0:u N:pfakazi PO:1:u PO:a NP:▁john T:▁len T:non PT:▁.
-NP:▁franck NP:▁v PT:▁. V:2:a V:komok V:18:a PR:▁muri T:▁an T:gers PT:▁.
-NP:▁judith NP:▁miller V:2:a V:kor V:18:a PR:▁kuri NP:▁new NP:▁york NP:▁times PT:▁.
-NP:▁microsoft V:4:a V:2:zi V:1:nti V:tang V:18:a N:1:bu N:0:u N:biko V:9:ii V:2:bu V:onger V:13:ir V:18:ye V:8:ba V:2:ku V:koresh V:18:a PT:▁.
-N:1:ki N:0:i N:hano PO:1:ki PO:a N:1:ru N:0:u N:pfu CP:▁ni V:2:ku V:0:u V:buz V:18:a N:1:ki N:0:i N:aha PT:▁.
-N:1:ba N:0:a N:ntu DI:▁10 PT:▁, DI:▁000 V:2:ba V:ba V:18:a PR:▁muri T:▁to T:ki T:yo PT:▁.
-T:▁f T:ho T:bia CP:▁ni N:1:bu N:0:u N:oba V:2:bu V:kaby V:13:iz V:16:y V:18:e T:▁bwi T:kin T:tu N:1:ru N:naka VC:▁cyangwa N:1:bi N:0:i N:ntu N:1:ru N:naka PT:▁.
-N:0:i N:sosiyete PO:1:i PO:o PR:▁muri NP:▁califor NP:niya V:4:a V:2:a V:shinj V:16:y V:17:w V:18:aga V:2:ku V:bik V:18:a N:1:mi N:0:i N:ti V:3:ta V:2:i V:itond V:16:y V:18:e PT:▁.
-N:1:mu N:0:u N:yobozi T:▁wumu T:tali T:yani V:2:a V:habw V:18:a NP:▁oscar N:yicyubahiro PT:▁.
-T:▁wolfgang T:▁ama T:deus T:▁moza T:rt V:4:a V:2:a V:vuk V:13:ir V:18:ye T:▁sal T:z T:burg PT:▁.
-T:▁al T:tai V:2:i V:c V:18:ye N:1:n N:0:i N:kumi V:2:i V:ter V:18:a N:1:ma N:0:a N:kimbirane V:2:a V:komer V:18:ye PT:▁.
-NP:▁miller V:4:a V:2:a V:pf V:13:ur V:18:ye PR:▁ku CA:▁wa NU:0:ka NU:ne SP:▁nijoro PT:▁, V:8:zi V:2:a V:ig V:18:ye N:1:mu N:0:u N:tima PT:▁, V:2:a V:kikiz V:16:y V:17:w V:18:e CJ:▁na V:4:a V:2:ba V:0:a V:gir V:18:ye N:1:mu N:0:u N:ryango PT:▁.
-NP:▁bwana T:▁cal T:der T:on V:2:a V:shobor V:18:ye V:2:ku V:shyir V:18:a V:19:ho N:1:mu N:0:u N:twe V:2:ru V:sang V:18:e PO:1:u PO:o V:3:ta V:2:ku V:umv V:13:ir V:18:a N:1:ku N:abaturage PT:▁.
-DE:2:ba DE:a N:1:ru N:shimusi V:2:ba V:angiz V:18:ye N:1:bu N:0:u N:ato NP:▁liberty NP:▁mari NP:time PT:▁.
-N:1:mu N:0:u N:kinnyi PO:1:u PO:a NN:▁filime NP:▁angela T:▁l T:ans T:bury V:2:a V:fit V:18:e N:1:mi N:0:i N:aka DI:▁86 PT:▁.
-T:▁d T:rum T:mond T:ville V:2:i V:r V:18:i V:19:mo N:1:mu N:0:u N:kobwa PT:▁.
-N:0:i N:vugurura PO:1:ri PO:a N:1:n N:0:i N:mari V:4:a V:2:ri V:sab V:17:w V:18:ye PR:▁mu N:1:n N:nama PO:1:i PO:a NP:▁g7 V:4:a V:2:a V:ber V:13:ir V:18:ye PR:▁i T:▁hali T:fax PT:▁.
-N:1:ki N:0:i N:ruhuko PO:1:ki PO:o V:2:ku V:byar V:18:a V:4:ra V:2:ki V:tandukan V:16:y V:18:e PR:▁mu NP:▁burayi PT:▁.
-N:1:ka N:0:a N:tsiko PO:1:ka PO:a T:▁ver T:den T:s CP:▁ni N:1:ki N:0:i N:nyamakuru PO:1:ki PO:o PR:▁muri NP:▁noruveje PT:▁.
-T:▁sp T:iro T:u V:4:a V:2:a V:rem V:17:w V:18:ye CJ:▁na NP:▁rob PT:▁- T:▁vel PT:▁.
-T:▁cleo T:pa T:tra CJ:▁na NP:▁marc NP:▁antony V:2:ba V:ba V:18:aga PR:▁mu NP:▁misiri PT:▁.
-NP:▁vla NP:dis NP:la NP:v T:▁list T:ye T:v V:2:a V:ic V:13:ir V:17:w V:18:ye PR:▁i NP:▁moscou PT:▁.
-N:1:bi N:0:i N:curuzwa PO:1:bi PO:a T:▁pana T:soni T:c V:4:a V:2:bi V:kor V:16:y V:17:w V:18:ye CJ:▁na NP:▁samsung NP:▁electronics N:co PT:▁. NP:▁ltd PT:▁.
-T:▁umunya T:palestine V:4:ara V:2:a V:pf V:13:ur V:18:ye DE:2:ba DE:1:a DE:ndi V:4:ra V:2:ba V:komerek V:18:a PT:▁.
-T:▁pi T:ppa T:▁bac T:ca V:4:a V:2:a V:r V:18:i N:1:mu N:0:u N:ntu V:2:u V:haranir V:18:a N:1:ma N:0:a N:horo PR:▁mu NP:▁butaliyani PT:▁.
-T:▁ho T:ssam NP:▁za NP:ki CP:▁ni NP:▁minisitiri PO:1:u PO:a N:1:bu N:0:u N:banyi CJ:▁na N:1:ma N:0:a N:hanga QA:1:mu QA:shya PO:1:u PO:a NP:▁isiraheli PT:▁.
-N:1:ki N:0:i N:ciro T:▁cyi T:mpa T:puro V:4:ra V:2:ki V:zamuk V:18:a PT:▁.
-NP:▁telegraph PO:1:i PO:a DE:2:r DE:1:bu DE:i SP:▁munsi V:4:ra V:2:i V:gurish V:17:w V:18:a PT:▁.
-PR:▁ku CA:▁wa NU:0:ka NU:biri PT:▁, N:1:ba N:0:a N:dipolomate PO:1:ba PO:a NP:▁aba NP:hinde V:2:ba V:hur V:18:ye CJ:▁na N:1:n N:0:i N:fungwa PO:1:i PO:o PR:▁mu NP:▁buhinde PT:▁, V:4:a V:2:ba V:kat V:13:ir V:17:w V:18:ye PO:1:ru PO:0:u PO:o V:2:ku V:pf V:18:a PT:▁.
-PR:▁muri DI:▁1996 QA:1:mi QA:ke NP:▁tyson V:8:ya V:rumy V:18:e N:1:ku N:0:u N:twi PO:1:ku PO:a T:▁holy T:field PT:▁.
-N:1:ki N:0:i N:ifuzo V:4:ara V:2:ki V:gabanuk V:18:ye V:2:ku V:ger V:18:a PR:▁kuri NN:▁miliyari DI:▁1 PT:▁. DI:▁1
-N:1:ba N:0:a N:ntu NN:▁miliyoni DI:▁1 PT:▁. DI:▁5 V:2:ba V:hitan V:16:y V:17:w V:18:e CJ:▁na N:1:ma N:0:a N:pfa CJ:▁na N:1:n N:0:i N:ara PR:▁mu DI:▁1974 PR:▁muri NP:▁bangladesh PT:▁.
-NP:▁caritas V:4:a V:2:a V:tangaz V:18:ye CJ:▁ko N:1:bi N:0:i N:taro QA:1:bi QA:inshi PO:1:bi PO:o PR:▁muri NP:▁iraki PT:▁, PT:▁( V:2:u V:sib V:16:y V:18:e N:1:bi N:0:i N:taro PO:1:bi PO:a NP:▁saddam PT:▁, PT:▁) V:2:bi V:ibasir V:17:w V:18:ye CJ:▁na N:1:ma N:0:a N:sasu PO:1:i PO:a T:▁bagi T:dadi PT:▁.
-N:1:mu N:0:u N:polisi PO:1:u PO:a N:1:ba N:0:a N:sivili V:4:ara V:2:a V:ic V:16:y V:17:w V:18:e PT:▁.
-T:▁super T:ena T:lo T:tto V:4:a V:2:i V:tang V:18:ye N:1:ki N:0:i N:hembo V:2:ki V:reng V:18:a NN:▁miliyoni DI:▁72 PO:1:zi PO:a N:1:ma N:0:a N:yero PT:▁.
-N:1:ki N:0:i N:go AJ:▁mpuzamahanga PO:1:ki PO:a NN:▁peteroli V:4:za V:2:ki V:tang V:18:a N:0:i N:soko PO:1:ri PO:a NN:▁miliyoni DI:▁60 PO:1:zi PO:a NN:▁peteroli CJ:▁na NN:▁lisansi PR:▁ku N:0:i N:soko PT:▁.
-N:wu DE:2:i DE:i CP:▁ni NP:▁minisitiri PO:1:u PO:a N:1:bu N:0:u N:curuzi PO:1:u PO:a N:1:bu N:0:u N:banyi CJ:▁na N:1:ma N:0:a N:hanga PO:1:u PO:a NP:▁ubushinwa PT:▁.
-PR:▁ku SP:▁munsi CA:▁wa TE:▁ejo N:1:bi N:0:i N:sasu PO:1:bi PO:a N:0:i N:terabwoba V:4:a V:2:bi V:hitan V:18:ye N:1:ba N:0:a N:ntu NU:0:ba NU:biri PR:▁ku N:1:mu N:ryango PO:1:u PO:a NN:▁ambasade PO:1:i PO:a NP:▁isiraheli PR:▁mu N:1:mu N:rwa QA:1:mu QA:kuru PO:1:u PO:a T:▁uz T:ube T:ki T:sitani PT:▁.
-NP:▁evans NP:▁paul CP:▁ni N:1:mu N:0:u N:yobozi PO:1:u PO:a NP:▁port PT:▁- T:▁au PT:▁- NP:▁prince PT:▁.
-PR:▁ku CA:▁wa NU:0:ka NU:biri PT:▁, PR:▁i NP:▁new NP:▁york TE:▁ejo V:4:za V:2:ha V:z V:18:a PO:1:ha PO:a N:1:ma N:0:a N:vuta PO:1:i PO:a NN:▁peteroli V:4:a V:2:i V:zamuk V:18:ye AD:▁cyane PT:▁, PR:▁ku N:1:ma N:dorari DI:▁42 PR:▁kuri T:▁bar T:rale PT:▁.
-NN:▁guverinoma PO:1:i PO:a NP:▁ubu NP:tali NP:yani V:2:i V:kor V:18:a V:2:i V:pererez V:18:a PR:▁kuri NP:▁sony PT:▁.
-NN:▁polisi V:2:i V:koresh V:18:a T:▁robot PR:▁mu V:2:ku V:koresh V:18:a N:1:bi N:0:i N:sasu PT:▁.
-V:8:bu V:2:u V:byuk V:16:y V:18:e V:2:bu V:geragez V:18:a V:2:ku V:fat V:18:a NP:▁mar NP:ks PT:▁& NP:▁spencer NP:▁group PT:▁.
-NP:▁dick T:▁lu T:gar CP:▁ni NU:0:u NU:mwe PR:▁mu V:4:a V:2:ba V:gir V:18:ye N:1:mu N:0:u N:ryango PO:1:u PO:a NP:▁cuba PT:▁- NP:▁amerika PT:▁.
-V:8:ba V:2:a V:tor V:17:w V:18:ye PR:▁muri NP:▁califor NP:niya V:2:ba V:juguny V:18:ye NP:▁guverineri NP:▁gray NP:▁davis V:8:mu V:2:ba V:simbur V:16:y V:18:a NP:▁arnold NP:▁schwarzenegger PT:▁.
-N:1:mu N:0:u N:ryango PO:1:u PO:a V:8:bi V:2:a V:bumb V:16:y V:18:e V:2:u V:imur V:18:ye N:1:bu N:0:u N:tegetsi PR:▁muri NP:▁iraki PT:▁.
-NP:▁halle NP:▁berry V:2:a V:kor V:13:an V:18:a CJ:▁na NP:▁scott T:▁stor T:ch PT:▁.
-NP:▁kevin T:▁whi T:ta T:ker CP:▁ni N:1:mu N:0:u N:yobozi PO:1:u PO:a NP:▁minisiteri PO:1:i PO:a N:1:bu N:0:u N:banyi CJ:▁na N:1:ma N:0:a N:hanga PT:▁.
-NP:▁don NP:▁white CP:▁niwe V:4:a V:2:u V:shing V:18:ye T:▁green T:pe T:ace PT:▁.
+N:0:a N:1:ma N:sezerano AJ:▁mpuzamahanga V:2:a V:4:a V:buz V:13:iz V:18:ye N:0:u N:1:bu N:curuzi PR:▁mu N:1:n N:mahembe PO:1:i PO:a N:0:i N:1:n N:zovu PT:▁.
+N:0:u N:1:mu N:sozi PO:1:u PO:a T:▁oly T:mp T:us V:2:u V:r V:18:i PR:▁muri T:▁the T:ssa T:ly PT:▁.
+T:▁mel T:v T:yn T:▁per T:cy V:2:a V:4:a V:shyir V:18:ye V:19:ho T:▁miner T:va T:▁ri T:gg T:ing PR:▁kuri T:▁kip NP:▁marina PT:▁.
+V:2:ku V:injir V:16:y V:18:a N:0:a N:1:ma N:yero V:2:bi V:4:ara V:rwany V:13:iz V:16:y V:17:w V:18:e PT:▁.
+NP:▁bosi NP:niya V:2:i V:herer V:13:ir V:18:ye V:2:a V:8:ha V:hor V:18:ye T:▁yu T:go T:sila T:viya PT:▁.
+V:2:n V:7:mu V:8:ki V:ha V:18:e V:2:ha V:ba V:18:ye N:0:i N:1:n N:hanuka V:2:u V:shobor V:18:a V:2:ku V:koresh V:18:a T:▁texas NP:▁data T:▁reco T:very VC:▁kandi V:2:u V:4:za V:gir V:18:a N:0:u N:1:bu N:shobozi PO:1:bu PO:o V:2:ku V:garur V:18:a N:0:a N:1:ma N:kuru V:2:a V:4:a V:takar V:18:ye PT:▁.
+N:0:a N:1:ba N:ntu DI:▁100 VC:▁cyangwa V:2:ba V:reng V:18:a V:2:ba V:8:ha V:sig V:18:ye V:2:u V:8:bu V:zim V:18:a PR:▁mu N:1:bu N:ato V:2:bu V:roham V:18:a PT:▁.
+N:yoko NP:▁on NP:o CP:▁ni N:0:u N:1:mu N:pfakazi PO:1:u PO:a T:▁john T:▁len T:non PT:▁.
+T:▁franck T:▁v PT:▁. V:2:a V:komok V:18:a PR:▁muri T:▁an T:gers PT:▁.
+T:▁judith T:▁miller V:2:a V:kor V:18:a PR:▁kuri T:▁new T:▁york T:▁times PT:▁.
+T:▁microsoft V:1:nti V:2:zi V:4:a V:tang V:18:a N:0:u N:1:bu N:biko V:2:bu V:9:ii V:onger V:13:ir V:18:ye V:2:ku V:8:ba V:koresh V:18:a PT:▁.
+N:0:i N:1:ki N:hano PO:1:ki PO:a N:0:u N:1:ru N:pfu CP:▁ni V:0:u V:2:ku V:buz V:18:a N:0:i N:1:ki N:aha PT:▁.
+N:0:a N:1:ba N:ntu DI:▁10 PT:▁, DI:▁000 V:2:ba V:ba V:18:a PR:▁muri T:▁to T:ki T:yo PT:▁.
+T:▁f T:ho T:bia CP:▁ni N:0:u N:1:bu N:oba V:2:bu V:kaby V:13:iz V:16:y V:18:e T:▁bwi T:kin T:tu N:1:ru N:naka VC:▁cyangwa N:0:i N:1:bi N:ntu N:1:ru N:naka PT:▁.
+N:0:i N:sosiyete PO:1:i PO:o PR:▁muri T:▁califor T:niya V:2:i V:4:a V:shinj V:16:y V:17:w V:18:aga V:2:ku V:bik V:18:a N:0:i N:1:mi N:ti V:2:i V:3:ta V:itond V:16:y V:18:e PT:▁.
+N:0:u N:1:mu N:yobozi T:▁wumu T:tali T:yani V:2:a V:habw V:18:a T:▁oscar N:yicyubahiro PT:▁.
+T:▁wolfgang T:▁ama T:deus T:▁moza T:rt V:2:a V:4:a V:vuk V:13:ir V:18:ye T:▁sal T:z T:burg PT:▁.
+T:▁al T:tai V:2:i V:c V:18:ye N:0:i N:1:n N:kumi V:2:i V:ter V:18:a N:0:a N:1:ma N:kimbirane V:2:a V:komer V:18:ye PT:▁.
+T:▁miller V:2:a V:4:a V:pf V:13:ur V:18:ye PR:▁ku CA:▁wa NU:0:ka NU:ne SP:▁nijoro PT:▁, V:2:a V:8:zi V:ig V:18:ye N:0:u N:1:mu N:tima PT:▁, V:2:a V:kikiz V:16:y V:17:w V:18:e CJ:▁na V:0:a V:2:ba V:4:a V:gir V:18:ye N:0:u N:1:mu N:ryango PT:▁.
+NP:▁bwana T:▁cal T:der T:on V:2:a V:shobor V:18:ye V:2:ku V:shyir V:18:a V:19:ho N:0:u N:1:mu N:twe V:2:ru V:sang V:18:e PO:1:u PO:o V:2:ku V:3:ta V:umv V:13:ir V:18:a N:1:ku N:abaturage PT:▁.
+DE:2:ba DE:a N:1:ru N:shimusi V:2:ba V:angiz V:18:ye N:0:u N:1:bu N:ato T:▁liberty NP:▁mari NP:time PT:▁.
+N:0:u N:1:mu N:kinnyi PO:1:u PO:a NN:▁filime NP:▁angela T:▁l T:ans T:bury V:2:a V:fit V:18:e N:0:i N:1:mi N:aka DI:▁86 PT:▁.
+T:▁d T:rum T:mond T:ville V:2:i V:r V:18:i V:19:mo N:0:u N:1:mu N:kobwa PT:▁.
+N:0:i N:vugurura PO:1:ri PO:a N:0:i N:1:n N:mari V:2:ri V:4:a V:sab V:17:w V:18:ye PR:▁mu N:1:n N:nama PO:1:i PO:a T:▁g7 V:2:i V:4:a V:ber V:13:ir V:18:ye PR:▁i T:▁hali T:fax PT:▁.
+N:0:i N:1:ki N:ruhuko PO:1:ki PO:o V:2:ku V:byar V:18:a V:2:ki V:4:ra V:tandukan V:16:y V:18:e PR:▁mu NP:▁burayi PT:▁.
+N:0:a N:1:ka N:tsiko PO:1:ka PO:a T:▁ver T:den T:s CP:▁ni N:0:i N:1:ki N:nyamakuru PO:1:ki PO:o PR:▁muri NP:▁noruveje PT:▁.
+T:▁sp T:iro T:u V:2:a V:4:a V:rem V:17:w V:18:ye CJ:▁na T:▁rob PT:▁- T:▁vel PT:▁.
+T:▁cleo T:pa T:tra CJ:▁na T:▁marc T:▁antony V:2:ba V:ba V:18:aga PR:▁mu NP:▁misiri PT:▁.
+T:▁vla T:dis T:la T:v T:▁list T:ye T:v V:2:a V:ic V:13:ir V:17:w V:18:ye PR:▁i T:▁moscou PT:▁.
+N:0:i N:1:bi N:curuzwa PO:1:bi PO:a T:▁pana T:soni T:c V:2:bi V:4:a V:kor V:16:y V:17:w V:18:ye CJ:▁na T:▁samsung T:▁electronics N:co PT:▁. T:▁ltd PT:▁.
+T:▁umunya T:palestine V:2:a V:4:ara V:pf V:13:ur V:18:ye DE:1:a DE:2:ba DE:ndi V:2:ba V:4:ra V:komerek V:18:a PT:▁.
+T:▁pi T:ppa T:▁bac T:ca V:2:a V:4:a V:r V:18:i N:0:u N:1:mu N:ntu V:2:u V:haranir V:18:a N:0:a N:1:ma N:horo PR:▁mu NP:▁butaliyani PT:▁.
+T:▁ho T:ssam NP:▁za NP:ki CP:▁ni NP:▁minisitiri PO:1:u PO:a N:0:u N:1:bu N:banyi CJ:▁na N:0:a N:1:ma N:hanga QA:1:mu QA:shya PO:1:u PO:a NP:▁isiraheli PT:▁.
+N:0:i N:1:ki N:ciro T:▁cyi T:mpa T:puro V:2:ki V:4:ra V:zamuk V:18:a PT:▁.
+T:▁telegraph PO:1:i PO:a DE:1:bu DE:2:r DE:i SP:▁munsi V:2:i V:4:ra V:gurish V:17:w V:18:a PT:▁.
+PR:▁ku CA:▁wa NU:0:ka NU:biri PT:▁, N:0:a N:1:ba N:dipolomate PO:1:ba PO:a NP:▁aba NP:hinde V:2:ba V:hur V:18:ye CJ:▁na N:0:i N:1:n N:fungwa PO:1:i PO:o PR:▁mu NP:▁buhinde PT:▁, V:2:ba V:4:a V:kat V:13:ir V:17:w V:18:ye PO:0:u PO:1:ru PO:o V:2:ku V:pf V:18:a PT:▁.
+PR:▁muri DI:▁1996 QA:1:mi QA:ke T:▁tyson V:8:ya V:rumy V:18:e N:0:u N:1:ku N:twi PO:1:ku PO:a T:▁holy T:field PT:▁.
+N:0:i N:1:ki N:ifuzo V:2:ki V:4:ara V:gabanuk V:18:ye V:2:ku V:ger V:18:a PR:▁kuri NN:▁miliyari DI:▁1 PT:▁. DI:▁1
+N:0:a N:1:ba N:ntu NN:▁miliyoni DI:▁1 PT:▁. DI:▁5 V:2:ba V:hitan V:16:y V:17:w V:18:e CJ:▁na N:0:a N:1:ma N:pfa CJ:▁na N:0:i N:1:n N:ara PR:▁mu DI:▁1974 PR:▁muri T:▁bangladesh PT:▁.
+T:▁caritas V:2:a V:4:a V:tangaz V:18:ye CJ:▁ko N:0:i N:1:bi N:taro QA:1:bi QA:inshi PO:1:bi PO:o PR:▁muri NP:▁iraki PT:▁, PT:▁( V:2:u V:sib V:16:y V:18:e N:0:i N:1:bi N:taro PO:1:bi PO:a T:▁saddam PT:▁, PT:▁) V:2:bi V:ibasir V:17:w V:18:ye CJ:▁na N:0:a N:1:ma N:sasu PO:1:i PO:a T:▁bagi T:dadi PT:▁.
+N:0:u N:1:mu N:polisi PO:1:u PO:a N:0:a N:1:ba N:sivili V:2:a V:4:ara V:ic V:16:y V:17:w V:18:e PT:▁.
+T:▁super T:ena T:lo T:tto V:2:i V:4:a V:tang V:18:ye N:0:i N:1:ki N:hembo V:2:ki V:reng V:18:a NN:▁miliyoni DI:▁72 PO:1:zi PO:a N:0:a N:1:ma N:yero PT:▁.
+N:0:i N:1:ki N:go AJ:▁mpuzamahanga PO:1:ki PO:a NN:▁peteroli V:2:ki V:4:za V:tang V:18:a N:0:i N:soko PO:1:ri PO:a NN:▁miliyoni DI:▁60 PO:1:zi PO:a NN:▁peteroli CJ:▁na NN:▁lisansi PR:▁ku N:0:i N:soko PT:▁.
+N:wu DE:2:i DE:i CP:▁ni NP:▁minisitiri PO:1:u PO:a N:0:u N:1:bu N:curuzi PO:1:u PO:a N:0:u N:1:bu N:banyi CJ:▁na N:0:a N:1:ma N:hanga PO:1:u PO:a NP:▁ubushinwa PT:▁.
+PR:▁ku SP:▁munsi CA:▁wa TE:▁ejo N:0:i N:1:bi N:sasu PO:1:bi PO:a N:0:i N:terabwoba V:2:bi V:4:a V:hitan V:18:ye N:0:a N:1:ba N:ntu NU:0:ba NU:biri PR:▁ku N:1:mu N:ryango PO:1:u PO:a NN:▁ambasade PO:1:i PO:a NP:▁isiraheli PR:▁mu N:1:mu N:rwa QA:1:mu QA:kuru PO:1:u PO:a T:▁uz T:ube T:ki T:sitani PT:▁.
+T:▁evans T:▁paul CP:▁ni N:0:u N:1:mu N:yobozi PO:1:u PO:a T:▁port PT:▁- T:▁au PT:▁- T:▁prince PT:▁.
+PR:▁ku CA:▁wa NU:0:ka NU:biri PT:▁, PR:▁i T:▁new T:▁york TE:▁ejo V:2:ha V:4:za V:z V:18:a PO:1:ha PO:a N:0:a N:1:ma N:vuta PO:1:i PO:a NN:▁peteroli V:2:i V:4:a V:zamuk V:18:ye AD:▁cyane PT:▁, PR:▁ku N:1:ma N:dorari DI:▁42 PR:▁kuri T:▁bar T:rale PT:▁.
+NN:▁guverinoma PO:1:i PO:a NP:▁ubu NP:tali NP:yani V:2:i V:kor V:18:a V:2:i V:pererez V:18:a PR:▁kuri T:▁sony PT:▁.
+NN:▁polisi V:2:i V:koresh V:18:a T:▁robot PR:▁mu V:2:ku V:koresh V:18:a N:0:i N:1:bi N:sasu PT:▁.
+V:2:u V:8:bu V:byuk V:16:y V:18:e V:2:bu V:geragez V:18:a V:2:ku V:fat V:18:a T:▁mar T:ks PT:▁& T:▁spencer T:▁group PT:▁.
+T:▁dick T:▁lu T:gar CP:▁ni NU:0:u NU:mwe PR:▁mu V:2:ba V:4:a V:gir V:18:ye N:0:u N:1:mu N:ryango PO:1:u PO:a NP:▁cuba PT:▁- NP:▁amerika PT:▁.
+V:2:a V:8:ba V:tor V:17:w V:18:ye PR:▁muri T:▁califor T:niya V:2:ba V:juguny V:18:ye NP:▁guverineri T:▁gray T:▁davis V:2:ba V:8:mu V:simbur V:16:y V:18:a T:▁arnold T:▁schwarzenegger PT:▁.
+N:0:u N:1:mu N:ryango PO:1:u PO:a V:2:a V:8:bi V:bumb V:16:y V:18:e V:2:u V:imur V:18:ye N:0:u N:1:bu N:tegetsi PR:▁muri NP:▁iraki PT:▁.
+T:▁halle T:▁berry V:2:a V:kor V:13:an V:18:a CJ:▁na T:▁scott T:▁stor T:ch PT:▁.
+T:▁kevin T:▁whi T:ta T:ker CP:▁ni N:0:u N:1:mu N:yobozi PO:1:u PO:a NP:▁minisiteri PO:1:i PO:a N:0:u N:1:bu N:banyi CJ:▁na N:0:a N:1:ma N:hanga PT:▁.
+T:▁don T:▁white CP:▁niwe V:2:u V:4:a V:shing V:18:ye T:▁green T:pe T:ace PT:▁.
 T:▁mag T:le T:v V:2:i V:kor V:13:ish V:17:w V:18:a N:1:n N:mubucuruzi PT:▁.
 N:0:i N:dini V:2:ri V:emer V:17:w V:18:ye PO:1:ri PO:a T:▁tayi T:lande CP:▁ni T:▁budi T:sime PO:1:i PO:a T:▁thera T:vada PT:▁.
-T:▁c T:sn V:2:i V:tang V:18:a UN:▁toni NN:▁miliyoni DI:▁28 PO:1:zi PO:a N:1:bi N:0:i N:uma PR:▁ku N:1:mu N:aka PT:▁.
-N:1:mu N:0:u N:bare PO:1:u PO:a PO:1:ba PO:a NN:▁miliyari V:9:ii V:2:u V:onger V:18:a PT:▁.
-NP:▁kofi NP:▁annan V:4:a V:2:a V:tor V:17:w V:18:ye PR:▁mu N:1:ma N:tora PO:1:i PO:o PR:▁ku PO:1:i PO:a DI:▁30 NP:▁mutarama PT:▁.
-NP:▁jesse NP:▁jackson V:4:a V:2:a V:vuk V:13:ir V:18:ye PR:▁muri NP:▁caroline N:yepfo PT:▁.
-N:1:ki N:0:i N:shushanyo V:2:n V:bon V:13:ir V:18:a V:4:i V:2:ki V:modok V:18:a V:2:i V:koresh V:18:a N:1:bi N:0:i N:ce PO:1:bi PO:a N:roketi NU:0:ha NU:mwe CJ:▁na T:▁capsule N:yuburyo PO:1:bu PO:a NP:▁apollo PT:▁.
-N:1:bi N:0:i N:mera V:2:bi V:hingw V:16:y V:18:a N:1:mu N:mazi VC:▁cyangwa N:1:mu N:bindi N:1:bi N:ntu V:3:ta V:2:bi V:r V:18:i N:1:bu N:0:u N:taka PT:▁.
-N:1:mu N:0:u N:gore V:4:ra V:2:a V:tsind V:18:a V:2:ku V:zamuk V:18:a T:▁ev T:erest OT:1:u OT:onyine PT:▁.
-NP:▁gabriel NP:▁garcia T:▁marquez N:1:n N:numwanditsi N:1:n N:numwanditsi PT:▁.
-DE:2:ba DE:1:a DE:ndi N:1:ba N:yobozi NU:0:ba NU:rindwi PO:1:ba PO:a NP:▁gm V:2:ba V:sig V:18:ye NU:0:ha NU:mwe CJ:▁na NP:▁lopez PT:▁.
-DE:2:ku DE:rya N:1:bi N:0:i N:ryo PO:1:bi PO:a N:potasiyumu V:2:bi V:rind V:18:a NP:▁osteo NP:poro NP:se PT:▁.
-NP:▁monica T:▁mea T:do T:ws PO:1:u PO:a N:1:mi N:0:i N:aka DI:▁23 V:4:a V:2:i V:ras V:16:y V:17:w V:18:ye PR:▁mu N:1:ru N:tugu VC:▁ubwo V:4:a V:2:a V:r V:18:i V:2:a V:twar V:18:ye N:0:i N:modoka PO:1:i PO:a N:1:n N:metero PR:▁mu N:1:mu N:jyi PO:1:u PO:a NP:▁new NP:▁york
-N:0:i N:tsinda PO:1:ri PO:a NP:▁rock T:▁phi T:sh V:2:ri V:kor V:18:a N:1:ki N:0:i N:taramo PO:1:ki PO:a TE:▁nyuma PR:▁muri T:▁ver T:mont PT:▁.
-NP:▁charles T:▁darwin V:4:a V:2:a V:fat V:18:ye N:1:ru N:0:u N:gendo PR:▁mu N:1:bu N:ato V:2:bu V:itw V:16:y V:18:a NP:▁h NP:ms T:▁bea T:gle PT:▁.
-N:1:ki N:0:i N:ntu V:4:a V:2:ki V:gurish V:13:iz V:16:y V:17:w V:18:ye AD:▁cyane CP:▁ni T:▁b T:ust T:▁yumu T:ringa V:4:a V:2:a V:kor V:16:y V:17:w V:18:ye CJ:▁na T:▁he T:p T:burn PR:▁mu N:1:mi N:aka PO:1:i PO:a PO:1:zi PO:a DI:▁1960 N:yumukunzi CA:▁we T:▁wumu T:kinnyi CA:▁we NP:▁spencer NP:▁tracy PT:▁.
-NP:▁bush V:2:a V:zahur V:18:a CJ:▁na T:▁al PT:▁- T:▁ma T:liki PR:▁i T:▁had T:ley PT:▁.
-N:1:mu N:0:u N:rambo V:4:a V:2:u V:bonek V:18:ye CJ:▁na N:1:ba N:0:a N:polisi PO:1:ba PO:a N:gisirikare PO:1:ba PO:a PR:▁u PT:▁. T:▁s PT:▁.
-PR:▁muri V:9:ii V:5:na V:2:n V:karag V:17:w V:18:a V:4:ra V:2:ha V:kor V:17:w V:18:a N:1:bu N:0:u N:kangurambaga PO:1:bu PO:a N:1:ma N:0:a N:tora PT:▁.
-RL:▁papa NP:▁yohani NP:▁pawulo PO:1:u PO:a NP:▁ii V:4:a V:2:a V:vuk V:13:ir V:18:ye PR:▁muri NP:▁polonye PT:▁.
+T:▁c T:sn V:2:i V:tang V:18:a UN:▁toni NN:▁miliyoni DI:▁28 PO:1:zi PO:a N:0:i N:1:bi N:uma PR:▁ku N:1:mu N:aka PT:▁.
+N:0:u N:1:mu N:bare PO:1:u PO:a PO:1:ba PO:a NN:▁miliyari V:2:u V:9:ii V:onger V:18:a PT:▁.
+NP:▁kofi T:▁annan V:2:a V:4:a V:tor V:17:w V:18:ye PR:▁mu N:1:ma N:tora PO:1:i PO:o PR:▁ku PO:1:i PO:a DI:▁30 NP:▁mutarama PT:▁.
+T:▁jesse T:▁jackson V:2:a V:4:a V:vuk V:13:ir V:18:ye PR:▁muri NP:▁caroline N:yepfo PT:▁.
+N:0:i N:1:ki N:shushanyo V:2:n V:bon V:13:ir V:18:a V:2:ki V:4:i V:modok V:18:a V:2:i V:koresh V:18:a N:0:i N:1:bi N:ce PO:1:bi PO:a N:roketi NU:0:ha NU:mwe CJ:▁na T:▁capsule N:yuburyo PO:1:bu PO:a T:▁apollo PT:▁.
+N:0:i N:1:bi N:mera V:2:bi V:hingw V:16:y V:18:a N:1:mu N:mazi VC:▁cyangwa N:1:mu N:bindi N:1:bi N:ntu V:2:bi V:3:ta V:r V:18:i N:0:u N:1:bu N:taka PT:▁.
+N:0:u N:1:mu N:gore V:2:a V:4:ra V:tsind V:18:a V:2:ku V:zamuk V:18:a T:▁ev T:erest OT:1:u OT:onyine PT:▁.
+T:▁gabriel T:▁garcia T:▁marquez N:1:n N:numwanditsi N:1:n N:numwanditsi PT:▁.
+DE:1:a DE:2:ba DE:ndi N:1:ba N:yobozi NU:0:ba NU:rindwi PO:1:ba PO:a T:▁gm V:2:ba V:sig V:18:ye NU:0:ha NU:mwe CJ:▁na T:▁lopez PT:▁.
+DE:2:ku DE:rya N:0:i N:1:bi N:ryo PO:1:bi PO:a N:potasiyumu V:2:bi V:rind V:18:a T:▁osteo T:poro T:se PT:▁.
+NP:▁monica T:▁mea T:do T:ws PO:1:u PO:a N:0:i N:1:mi N:aka DI:▁23 V:2:i V:4:a V:ras V:16:y V:17:w V:18:ye PR:▁mu N:1:ru N:tugu VC:▁ubwo V:2:a V:4:a V:r V:18:i V:2:a V:twar V:18:ye N:0:i N:modoka PO:1:i PO:a N:1:n N:metero PR:▁mu N:1:mu N:jyi PO:1:u PO:a T:▁new T:▁york
+N:0:i N:tsinda PO:1:ri PO:a T:▁rock T:▁phi T:sh V:2:ri V:kor V:18:a N:0:i N:1:ki N:taramo PO:1:ki PO:a TE:▁nyuma PR:▁muri T:▁ver T:mont PT:▁.
+T:▁charles T:▁darwin V:2:a V:4:a V:fat V:18:ye N:0:u N:1:ru N:gendo PR:▁mu N:1:bu N:ato V:2:bu V:itw V:16:y V:18:a T:▁h T:ms T:▁bea T:gle PT:▁.
+N:0:i N:1:ki N:ntu V:2:ki V:4:a V:gurish V:13:iz V:16:y V:17:w V:18:ye AD:▁cyane CP:▁ni T:▁b T:ust T:▁yumu T:ringa V:2:a V:4:a V:kor V:16:y V:17:w V:18:ye CJ:▁na T:▁he T:p T:burn PR:▁mu N:1:mi N:aka PO:1:i PO:a PO:1:zi PO:a DI:▁1960 N:yumukunzi CA:▁we T:▁wumu T:kinnyi PO:1:u PO:a PO:3:a PO:4:e T:▁spencer T:▁tracy PT:▁.
+T:▁bush V:2:a V:zahur V:18:a CJ:▁na T:▁al PT:▁- T:▁ma T:liki PR:▁i T:▁had T:ley PT:▁.
+N:0:u N:1:mu N:rambo V:2:u V:4:a V:bonek V:18:ye CJ:▁na N:0:a N:1:ba N:polisi PO:1:ba PO:a N:gisirikare PO:1:ba PO:a PR:▁u PT:▁. T:▁s PT:▁.
+PR:▁muri V:2:n V:5:na V:9:ii V:karag V:17:w V:18:a V:2:ha V:4:ra V:kor V:17:w V:18:a N:0:u N:1:bu N:kangurambaga PO:1:bu PO:a N:0:a N:1:ma N:tora PT:▁.
+RL:▁papa NP:▁yohani NP:▁pawulo PO:1:u PO:a T:▁ii V:2:a V:4:a V:vuk V:13:ir V:18:ye PR:▁muri NP:▁polonye PT:▁.
 PT:▁" NP:▁abaperesi PT:▁" V:2:a V:andik V:16:y V:17:w V:18:ye CJ:▁na T:▁ae T:sc T:hy T:lus PT:▁.
-DE:2:ha DE:no CP:▁hari N:1:ma N:0:a N:kimbirane PO:1:i PO:a N:1:ma N:0:a N:zi PT:▁.
-NN:▁miliyoni DI:▁60 PO:1:zi PO:a T:▁barri T:le PO:1:i PO:a NN:▁peteroli CJ:▁na NN:▁lisansi V:4:za V:2:bi V:bonek V:18:a N:1:ku N:umasoko PT:▁.
-T:▁musharraf V:4:a V:2:a V:tegek V:18:ye V:8:ba V:2:a V:igaragamby V:16:y V:18:aga V:2:ku V:fat V:18:a N:1:n N:0:i N:gamba V:2:zi V:ham V:16:y V:18:e PO:1:zi PO:o V:2:ku V:rwany V:18:a N:1:n N:0:i N:ego PO:1:zi PO:a N:1:mu N:0:u N:tekano PT:▁.
-NP:▁john NP:▁wil NP:kes NP:▁boo NP:th V:2:a V:ic V:16:y V:18:e NP:▁perezida NP:▁abraham NP:▁lincoln PT:▁.
-T:▁ji T:ver T:ly NP:▁won V:4:a V:2:a V:r V:18:i N:1:mu N:0:u N:yobozi PO:1:u PO:a NN:▁polisi PT:▁.
-T:▁antibiyo T:tike V:2:i V:kor V:13:ish V:17:w V:18:a PR:▁mu V:2:ku V:rwany V:18:a N:1:bi N:0:i N:sebe PO:1:bi PO:a T:▁pep T:tike PT:▁.
-V:8:n V:7:ha V:6:bu V:2:u V:z V:18:i N:bwabanjirije N:1:ma N:0:a N:teka V:4:a V:2:a V:vumbur V:17:w V:18:ye PR:▁muri NP:▁afrika N:yepfo PT:▁.
-T:▁silo T:veni T:ya V:2:i V:fit V:18:e N:1:ba N:0:a N:turage DI:▁270 PT:▁. DI:▁000 PT:▁.
-N:1:ba N:0:a N:gore V:8:ba V:2:i V:1:nti V:hagararir V:17:w V:18:ye AD:▁nabi PR:▁mu N:1:n N:nteko PT:▁.
-NP:▁lee T:▁tr T:und T:le V:2:a V:r V:18:i N:1:n N:mubucuruzi NU:0:ha NU:mwe CJ:▁na NP:▁club DE:2:i DE:a V:2:n V:ber V:18:e PT:▁.
-N:1:mu N:0:u N:herwe PO:1:u PO:a NP:▁houston V:4:a V:2:u V:gur V:18:ye NP:▁ford NP:▁esc NP:ort PO:1:i PO:a NP:▁papa PT:▁.
-PR:▁mu DI:▁2001 PT:▁, N:1:mu N:0:u N:ryango PO:1:u PO:a N:1:bu N:0:u N:mwe PO:1:bu PO:a N:1:bi N:0:i N:hugu PO:1:bi PO:a NP:▁ubu NP:rayi V:4:a V:2:u V:shyir V:18:ye V:19:ho N:pasiporo PO:1:i PO:a N:1:ma N:0:a N:tungo PT:▁.
-PR:▁ku DE:2:u DE:a V:2:n V:ber V:18:e PT:▁, T:▁ko T:z T:lo T:wski V:4:a V:2:i V:kat V:13:ir V:17:w V:18:ye N:1:ki N:0:i N:fungo PO:1:ki PO:a N:1:mi N:0:i N:aka DI:▁25 PT:▁.
-N:1:mu N:0:u N:yobozi PO:1:u PO:a T:▁green T:pe T:ace V:4:a V:2:a V:vug V:18:ye CJ:▁ko N:1:ma N:0:a N:horo V:2:a V:r V:18:i N:0:i N:terabwoba PT:▁.
+DE:2:ha DE:no CP:▁hari N:0:a N:1:ma N:kimbirane PO:1:i PO:a N:0:a N:1:ma N:zi PT:▁.
+NN:▁miliyoni DI:▁60 PO:1:zi PO:a T:▁barri T:le PO:1:i PO:a NN:▁peteroli CJ:▁na NN:▁lisansi V:2:bi V:4:za V:bonek V:18:a N:1:ku N:umasoko PT:▁.
+T:▁musharraf V:2:a V:4:a V:tegek V:18:ye V:2:a V:8:ba V:igaragamby V:16:y V:18:aga V:2:ku V:fat V:18:a N:0:i N:1:n N:gamba V:2:zi V:ham V:16:y V:18:e PO:1:zi PO:o V:2:ku V:rwany V:18:a N:0:i N:1:n N:ego PO:1:zi PO:a N:0:u N:1:mu N:tekano PT:▁.
+T:▁john T:▁wil T:kes T:▁boo T:th V:2:a V:ic V:16:y V:18:e NP:▁perezida T:▁abraham T:▁lincoln PT:▁.
+T:▁ji T:ver T:ly T:▁won V:2:a V:4:a V:r V:18:i N:0:u N:1:mu N:yobozi PO:1:u PO:a NN:▁polisi PT:▁.
+T:▁antibiyo T:tike V:2:i V:kor V:13:ish V:17:w V:18:a PR:▁mu V:2:ku V:rwany V:18:a N:0:i N:1:bi N:sebe PO:1:bi PO:a T:▁pep T:tike PT:▁.
+V:2:u V:6:bu V:7:ha V:8:n V:z V:18:i N:bwabanjirije N:0:a N:1:ma N:teka V:2:a V:4:a V:vumbur V:17:w V:18:ye PR:▁muri T:▁afrika N:yepfo PT:▁.
+T:▁silo T:veni T:ya V:2:i V:fit V:18:e N:0:a N:1:ba N:turage DI:▁270 PT:▁. DI:▁000 PT:▁.
+N:0:a N:1:ba N:gore V:1:nti V:2:i V:8:ba V:hagararir V:17:w V:18:ye AD:▁nabi PR:▁mu N:1:n N:nteko PT:▁.
+T:▁lee T:▁tr T:und T:le V:2:a V:r V:18:i N:1:n N:mubucuruzi NU:0:ha NU:mwe CJ:▁na T:▁club PO:1:i PO:a V:2:n V:ber V:18:e PT:▁.
+N:0:u N:1:mu N:herwe PO:1:u PO:a T:▁houston V:2:u V:4:a V:gur V:18:ye T:▁ford T:▁esc T:ort PO:1:i PO:a NP:▁papa PT:▁.
+PR:▁mu DI:▁2001 PT:▁, N:0:u N:1:mu N:ryango PO:1:u PO:a N:0:u N:1:bu N:mwe PO:1:bu PO:a N:0:i N:1:bi N:hugu PO:1:bi PO:a NP:▁ubu NP:rayi V:2:u V:4:a V:shyir V:18:ye V:19:ho N:pasiporo PO:1:i PO:a N:0:a N:1:ma N:tungo PT:▁.
+PR:▁ku DE:2:u DE:a V:2:n V:ber V:18:e PT:▁, T:▁ko T:z T:lo T:wski V:2:i V:4:a V:kat V:13:ir V:17:w V:18:ye N:0:i N:1:ki N:fungo PO:1:ki PO:a N:0:i N:1:mi N:aka DI:▁25 PT:▁.
+N:0:u N:1:mu N:yobozi PO:1:u PO:a T:▁green T:pe T:ace V:2:a V:4:a V:vug V:18:ye CJ:▁ko N:0:a N:1:ma N:horo V:2:a V:r V:18:i N:0:i N:terabwoba PT:▁.
