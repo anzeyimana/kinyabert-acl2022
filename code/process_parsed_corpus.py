@@ -1,3 +1,8 @@
+# Copyright (c) Antoine Nzeyimana.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 import progressbar
 import torch
 import youtokentome as yttm
@@ -12,9 +17,9 @@ def parse_documents_corpus(home_path, in_file_path, out_file_path):
 
     print(time_now(),'Processing', in_file_path, '...')
 
-    codes_path = "/home/user/KINLP/fastBPE/rw_codes"
-    vocab_path = "/home/user/KINLP/fastBPE/vocab.rw.40000"
-    spm_model_path = "/home/user/KINLP/spm/sentencepiece.bpe.model"
+    codes_path = "fastBPE/rw_codes"
+    vocab_path = "fastBPE/vocab.rw.40000"
+    spm_model_path = "spm/sentencepiece.bpe.model"
 
     bpe = fastBPE.fastBPE(codes_path, vocab_path)
     spm = sentencepiece.SentencePieceProcessor(model_file=spm_model_path)
@@ -78,9 +83,9 @@ def parse_sentences_corpus(home_path, in_file_path, out_file_path):
 
     print('Processing', in_file_path, '...')
 
-    codes_path = "/home/user/projects/user/kinyabert/fastBPE/rw_codes"
-    vocab_path = "/home/user/projects/user/kinyabert/fastBPE/vocab.rw.40000"
-    spm_model_path = "/mnt/NVM/KinyaBERT_Checkpoints/xlmr.base/sentencepiece.bpe.model"
+    codes_path = "fastBPE/rw_codes"
+    vocab_path = "fastBPE/vocab.rw.40000"
+    spm_model_path = "xlmr.base/sentencepiece.bpe.model"
 
     bpe = fastBPE.fastBPE(codes_path, vocab_path)
     spm = sentencepiece.SentencePieceProcessor(model_file=spm_model_path)
@@ -127,155 +132,155 @@ def parse_sentences_corpus(home_path, in_file_path, out_file_path):
 if __name__ == '__main__':
     build_kinlp_morpho_lib()
     from kinlpmorpholib import ffi, lib
-    conf = "/home/user/KINLP/data/kb_config_kinlp.conf"
-    # conf = "/mnt/NVM/KINLP/data/config_kinlp.conf"
+    conf = "data/kb_config_kinlp.conf"
+    # conf = "data/config_kinlp.conf"
     lib.start_kinlp_lib(conf.encode('utf-8'))
     
-    data_home_path = "/home/user/KINLP/"
+    data_home_path = "./"
 
     parse_documents_corpus(data_home_path,
-                           '/home/user/KINLP/data/better-valid-kinlp-latest.txt',
-                           '/home/user/KINLP/data/parsed_corpus_2021-07-28')
+                           'data/better-valid-kinlp-latest.txt',
+                           'data/parsed_corpus_2021-07-28')
 
     # # WNLI -------------------------------------------------------------------------------------------------------------------
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/rw_translated/wnli_input_dev_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/parsed/dev_input0")
+    #                        "datasets/KIN_WNLI/rw_translated/wnli_input_dev_input0_rw_translations.txt",
+    #                        "datasets/KIN_WNLI/parsed/dev_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/rw_translated/wnli_input_dev_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/parsed/dev_input1")
+    #                        "datasets/KIN_WNLI/rw_translated/wnli_input_dev_input1_rw_translations.txt",
+    #                        "datasets/KIN_WNLI/parsed/dev_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/rw_translated/wnli_input_test_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/parsed/test_input0")
+    #                        "datasets/KIN_WNLI/rw_translated/wnli_input_test_input0_rw_translations.txt",
+    #                        "datasets/KIN_WNLI/parsed/test_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/rw_translated/wnli_input_test_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/parsed/test_input1")
+    #                        "datasets/KIN_WNLI/rw_translated/wnli_input_test_input1_rw_translations.txt",
+    #                        "datasets/KIN_WNLI/parsed/test_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/rw_translated/wnli_input_train_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/parsed/train_input0")
+    #                        "datasets/KIN_WNLI/rw_translated/wnli_input_train_input0_rw_translations.txt",
+    #                        "datasets/KIN_WNLI/parsed/train_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/rw_translated/wnli_input_train_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_WNLI/parsed/train_input1")
+    #                        "datasets/KIN_WNLI/rw_translated/wnli_input_train_input1_rw_translations.txt",
+    #                        "datasets/KIN_WNLI/parsed/train_input1")
     #
     # # MRPC -------------------------------------------------------------------------------------------------------------------
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/rw_translated/mrpc_input_dev_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/parsed/dev_input0")
+    #                        "datasets/KIN_MRPC/rw_translated/mrpc_input_dev_input0_rw_translations.txt",
+    #                        "datasets/KIN_MRPC/parsed/dev_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/rw_translated/mrpc_input_dev_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/parsed/dev_input1")
+    #                        "datasets/KIN_MRPC/rw_translated/mrpc_input_dev_input1_rw_translations.txt",
+    #                        "datasets/KIN_MRPC/parsed/dev_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/rw_translated/mrpc_input_test_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/parsed/test_input0")
+    #                        "datasets/KIN_MRPC/rw_translated/mrpc_input_test_input0_rw_translations.txt",
+    #                        "datasets/KIN_MRPC/parsed/test_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/rw_translated/mrpc_input_test_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/parsed/test_input1")
+    #                        "datasets/KIN_MRPC/rw_translated/mrpc_input_test_input1_rw_translations.txt",
+    #                        "datasets/KIN_MRPC/parsed/test_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/rw_translated/mrpc_input_train_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/parsed/train_input0")
+    #                        "datasets/KIN_MRPC/rw_translated/mrpc_input_train_input0_rw_translations.txt",
+    #                        "datasets/KIN_MRPC/parsed/train_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/rw_translated/mrpc_input_train_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_MRPC/parsed/train_input1")
+    #                        "datasets/KIN_MRPC/rw_translated/mrpc_input_train_input1_rw_translations.txt",
+    #                        "datasets/KIN_MRPC/parsed/train_input1")
     #
     # # RTE -------------------------------------------------------------------------------------------------------------------
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/rw_translated/rte_input_dev_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/parsed/dev_input0")
+    #                        "datasets/KIN_RTE/rw_translated/rte_input_dev_input0_rw_translations.txt",
+    #                        "datasets/KIN_RTE/parsed/dev_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/rw_translated/rte_input_dev_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/parsed/dev_input1")
+    #                        "datasets/KIN_RTE/rw_translated/rte_input_dev_input1_rw_translations.txt",
+    #                        "datasets/KIN_RTE/parsed/dev_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/rw_translated/rte_input_test_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/parsed/test_input0")
+    #                        "datasets/KIN_RTE/rw_translated/rte_input_test_input0_rw_translations.txt",
+    #                        "datasets/KIN_RTE/parsed/test_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/rw_translated/rte_input_test_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/parsed/test_input1")
+    #                        "datasets/KIN_RTE/rw_translated/rte_input_test_input1_rw_translations.txt",
+    #                        "datasets/KIN_RTE/parsed/test_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/rw_translated/rte_input_train_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/parsed/train_input0")
+    #                        "datasets/KIN_RTE/rw_translated/rte_input_train_input0_rw_translations.txt",
+    #                        "datasets/KIN_RTE/parsed/train_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/rw_translated/rte_input_train_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_RTE/parsed/train_input1")
+    #                        "datasets/KIN_RTE/rw_translated/rte_input_train_input1_rw_translations.txt",
+    #                        "datasets/KIN_RTE/parsed/train_input1")
     #
     # # QNLI -------------------------------------------------------------------------------------------------------------------
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/rw_translated/qnli_input_dev_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/parsed/dev_input0")
+    #                        "datasets/KIN_QNLI/rw_translated/qnli_input_dev_input0_rw_translations.txt",
+    #                        "datasets/KIN_QNLI/parsed/dev_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/rw_translated/qnli_input_dev_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/parsed/dev_input1")
+    #                        "datasets/KIN_QNLI/rw_translated/qnli_input_dev_input1_rw_translations.txt",
+    #                        "datasets/KIN_QNLI/parsed/dev_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/rw_translated/qnli_input_test_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/parsed/test_input0")
+    #                        "datasets/KIN_QNLI/rw_translated/qnli_input_test_input0_rw_translations.txt",
+    #                        "datasets/KIN_QNLI/parsed/test_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/rw_translated/qnli_input_test_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/parsed/test_input1")
+    #                        "datasets/KIN_QNLI/rw_translated/qnli_input_test_input1_rw_translations.txt",
+    #                        "datasets/KIN_QNLI/parsed/test_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/rw_translated/qnli_input_train_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/parsed/train_input0")
+    #                        "datasets/KIN_QNLI/rw_translated/qnli_input_train_input0_rw_translations.txt",
+    #                        "datasets/KIN_QNLI/parsed/train_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/rw_translated/qnli_input_train_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_QNLI/parsed/train_input1")
+    #                        "datasets/KIN_QNLI/rw_translated/qnli_input_train_input1_rw_translations.txt",
+    #                        "datasets/KIN_QNLI/parsed/train_input1")
     #
     # # STS-B -------------------------------------------------------------------------------------------------------------------
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/rw_translated/stsb_input_dev_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/parsed/dev_input0")
+    #                        "datasets/KIN_STS-B/rw_translated/stsb_input_dev_input0_rw_translations.txt",
+    #                        "datasets/KIN_STS-B/parsed/dev_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/rw_translated/stsb_input_dev_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/parsed/dev_input1")
+    #                        "datasets/KIN_STS-B/rw_translated/stsb_input_dev_input1_rw_translations.txt",
+    #                        "datasets/KIN_STS-B/parsed/dev_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/rw_translated/stsb_input_test_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/parsed/test_input0")
+    #                        "datasets/KIN_STS-B/rw_translated/stsb_input_test_input0_rw_translations.txt",
+    #                        "datasets/KIN_STS-B/parsed/test_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/rw_translated/stsb_input_test_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/parsed/test_input1")
+    #                        "datasets/KIN_STS-B/rw_translated/stsb_input_test_input1_rw_translations.txt",
+    #                        "datasets/KIN_STS-B/parsed/test_input1")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/rw_translated/stsb_input_train_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/parsed/train_input0")
+    #                        "datasets/KIN_STS-B/rw_translated/stsb_input_train_input0_rw_translations.txt",
+    #                        "datasets/KIN_STS-B/parsed/train_input0")
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/rw_translated/stsb_input_train_input1_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_STS-B/parsed/train_input1")
+    #                        "datasets/KIN_STS-B/rw_translated/stsb_input_train_input1_rw_translations.txt",
+    #                        "datasets/KIN_STS-B/parsed/train_input1")
     #
     # # SST-2 -------------------------------------------------------------------------------------------------------------------
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_SST-2/rw_translated/sst2_input_dev_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_SST-2/parsed/dev_input0")
+    #                        "datasets/KIN_SST-2/rw_translated/sst2_input_dev_input0_rw_translations.txt",
+    #                        "datasets/KIN_SST-2/parsed/dev_input0")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_SST-2/rw_translated/sst2_input_test_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_SST-2/parsed/test_input0")
+    #                        "datasets/KIN_SST-2/rw_translated/sst2_input_test_input0_rw_translations.txt",
+    #                        "datasets/KIN_SST-2/parsed/test_input0")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_SST-2/rw_translated/sst2_input_train_input0_rw_translations.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/KIN_SST-2/parsed/train_input0")
+    #                        "datasets/KIN_SST-2/rw_translated/sst2_input_train_input0_rw_translations.txt",
+    #                        "datasets/KIN_SST-2/parsed/train_input0")
     #
     # # RW_NEWS -------------------------------------------------------------------------------------------------------------------
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/RW_NEWS/plain/dev.input0.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/RW_NEWS/parsed/dev_input0")
+    #                        "datasets/RW_NEWS/plain/dev.input0.txt",
+    #                        "datasets/RW_NEWS/parsed/dev_input0")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/RW_NEWS/plain/test.input0.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/RW_NEWS/parsed/test_input0")
+    #                        "datasets/RW_NEWS/plain/test.input0.txt",
+    #                        "datasets/RW_NEWS/parsed/test_input0")
     #
     # parse_sentences_corpus(data_home_path,
-    #                        "/home/user/projects/user/kinyabert/datasets/RW_NEWS/plain/train.input0.txt",
-    #                        "/home/user/projects/user/kinyabert/datasets/RW_NEWS/parsed/train_input0")
+    #                        "datasets/RW_NEWS/plain/train.input0.txt",
+    #                        "datasets/RW_NEWS/parsed/train_input0")

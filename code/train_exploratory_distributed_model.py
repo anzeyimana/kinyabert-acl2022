@@ -1,8 +1,8 @@
+# Copyright (c) Antoine Nzeyimana.
 #
-# Next run: Paired Transformer Encoder
-#
-# nohup python3 train_exploratory_distributed_model.py -g 1 -p 0 -s 1 --morpho-dim=384 --stem-dim=384 --embed-dim=768 --paired-encoder=true --seq-tr-nhead=8 --seq-tr-nlayers=8 --seq-tr-dim-feedforward=2048 --use-afsets=1 --afset-dict-size=34008 --predict-affixes=0 --use-affix-bow=0 --use-pos-aware-rel=0 --use-tupe-rel=1 --batch-size=16 --accumulation-steps=160 --number-of-load-batches=3200 --num-iters=200000 --warmup-iter=2000 --peak-lr=0.0004 --wd=0.01 &> log.out & tail -f log.out
-#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 from __future__ import print_function, division
 import os
 import torch
@@ -256,7 +256,7 @@ def train_fn(rank, args):
 
     if (rank == 0):
         print(time_now(), 'Reading corpus text ...', flush=True)
-    parsed_corpus_file = (home_path+"data/parsed_tfidf_corpus_2021-02-07.txt")
+    parsed_corpus_file = (home_path+"data/sample_parsed_corpus.txt")
     parsed_corpus_lines = read_corpus(parsed_corpus_file)
     parsed_corpus_doc_ends = [i for i in range(len(parsed_corpus_lines)) if (len(parsed_corpus_lines[i]) == 0)]
 

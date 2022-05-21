@@ -1,3 +1,8 @@
+# Copyright (c) Antoine Nzeyimana.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 import argparse
 from cffi import FFI
 import youtokentome as yttm
@@ -336,12 +341,12 @@ def setup_common_args(list_args=None, silent=False):
     parser.add_argument("--devbest-cls-output-file", type=str, default=None)
     parser.add_argument("--final-cls-output-file", type=str, default=None)
 
-    parser.add_argument("--home-path", type=str, default="/home/user/KINLP/")
+    parser.add_argument("--home-path", type=str, default="./")
 
     parser.add_argument("--regression-target", type=str2bool, default=False)
     parser.add_argument("--regression-scale-factor", type=float, default=5.0)
 
-    parser.add_argument("--pretrained-roberta-model-dir", type=str, default="/home/user/KINLP/data/")
+    parser.add_argument("--pretrained-roberta-model-dir", type=str, default="data/")
     parser.add_argument("--pretrained-roberta-checkpoint-file", type=str, default="checkpoint_best.pt")
     parser.add_argument("--xlmr", type=str2bool, default=False)
 
@@ -356,7 +361,6 @@ def setup_common_args(list_args=None, silent=False):
     parser.add_argument("--input-format", type=str, default=None)
 
     parser.add_argument("--afset-dict-size", type=int, default=10000)
-    parser.add_argument("--paired-encoder", type=str2bool, default=False)
 
     parser.add_argument("--debug", type=str2bool, default=False)
 

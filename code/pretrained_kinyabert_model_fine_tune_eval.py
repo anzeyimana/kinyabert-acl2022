@@ -1,3 +1,7 @@
+# Copyright (c) Antoine Nzeyimana.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
 
 def train_evals(args):
     import os
@@ -210,7 +214,7 @@ def train_evals_all():
     # args.use_afsets = True
     # args.afset_dict_size = 34008
     # args.predict_affixes = False
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_10_18_exploratory_kinyabert_model_2021-08-29_pos@2_stem@1_mbow@False_pawrel@False_tuperel@True_afsets@True@34008_predaffixes@False.pt'
+    # args.pretrained_model_file = 'data/backup_10_18_exploratory_kinyabert_model_2021-08-29_pos@2_stem@1_mbow@False_pawrel@False_tuperel@True_afsets@True@34008_predaffixes@False.pt'
     # train_evals(args)
     #
     # args = setup_common_args()
@@ -223,7 +227,7 @@ def train_evals_all():
     # args.use_tupe_rel = True
     # args.use_afsets = False
     # args.predict_affixes = True
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_08_22_morpho_attentive_model_base_2021-07-12.pt'
+    # args.pretrained_model_file = 'data/backup_08_22_morpho_attentive_model_base_2021-07-12.pt'
     # train_evals(args)
 
     # args = setup_common_args()
@@ -238,7 +242,7 @@ def train_evals_all():
     # args.predict_affixes = False
     # args.use_morpho_encoder = False
     # args.stem_dim = 768
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_10_23_exploratory_kinyabert_model_2021-09-29_pos@0_stem@0_mbow@False_pawrel@False_tuperel@True_afsets@False@34008_predaffixes@False_morpho@False.pt'
+    # args.pretrained_model_file = 'data/backup_10_23_exploratory_kinyabert_model_2021-09-29_pos@0_stem@0_mbow@False_pawrel@False_tuperel@True_afsets@False@34008_predaffixes@False_morpho@False.pt'
     # train_evals(args)
 
     # args = setup_common_args()
@@ -252,7 +256,7 @@ def train_evals_all():
     # args.use_afsets = True
     # args.afset_dict_size = 34008
     # args.predict_affixes = False
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_09_29_exploratory_kinyabert_model_2021-08-29_pos@2_stem@1_mbow@False_pawrel@False_tuperel@True_afsets@True@34008_predaffixes@False.pt'
+    # args.pretrained_model_file = 'data/backup_09_29_exploratory_kinyabert_model_2021-08-29_pos@2_stem@1_mbow@False_pawrel@False_tuperel@True_afsets@True@34008_predaffixes@False.pt'
     # train_evals(args)
     #
     # args = setup_common_args()
@@ -265,7 +269,7 @@ def train_evals_all():
     # args.use_tupe_rel = True
     # args.use_afsets = False
     # args.predict_affixes = True
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_07_26_morpho_attentive_model_base_2021-07-12.pt'
+    # args.pretrained_model_file = 'data/backup_07_26_morpho_attentive_model_base_2021-07-12.pt'
     # train_evals(args)
     #
     # args = setup_common_args()
@@ -278,7 +282,7 @@ def train_evals_all():
     # args.use_tupe_rel = True
     # args.use_afsets = False
     # args.predict_affixes = True
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_08_12_exploratory_kinyabert_model_2021-07-30_pos:2_stem:1_mbow:True_pawrel:False_tuperel:True.pt'
+    # args.pretrained_model_file = 'data/backup_08_12_exploratory_kinyabert_model_2021-07-30_pos:2_stem:1_mbow:True_pawrel:False_tuperel:True.pt'
     # train_evals(args)
 
     # args = setup_common_args()
@@ -293,7 +297,7 @@ def train_evals_all():
     # args.predict_affixes = False
     # args.use_morpho_encoder = False
     # args.stem_dim = 768
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_10_07_exploratory_kinyabert_model_2021-09-29_pos@0_stem@0_mbow@False_pawrel@False_tuperel@True_afsets@False@34008_predaffixes@False_morpho@False.pt'
+    # args.pretrained_model_file = 'data/backup_10_07_exploratory_kinyabert_model_2021-09-29_pos@0_stem@0_mbow@False_pawrel@False_tuperel@True_afsets@False@34008_predaffixes@False_morpho@False.pt'
     # train_evals(args)
 
     # args = setup_common_args()
@@ -306,7 +310,7 @@ def train_evals_all():
     # args.use_tupe_rel=False
     # args.use_afsets=False
     # args.predict_affixes=True
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_04_23_morpho_attentive_model_base_2021-04-19.pt'
+    # args.pretrained_model_file = 'data/backup_04_23_morpho_attentive_model_base_2021-04-19.pt'
     # train_evals(args)
     #
     # args = setup_common_args()
@@ -319,7 +323,7 @@ def train_evals_all():
     # args.use_tupe_rel=False
     # args.use_afsets=False
     # args.predict_affixes=True
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_05_14_morpho_attentive_model_base_2021-04-19.pt'
+    # args.pretrained_model_file = 'data/backup_05_14_morpho_attentive_model_base_2021-04-19.pt'
     # train_evals(args)
     #
     # args = setup_common_args()
@@ -332,7 +336,7 @@ def train_evals_all():
     # args.use_tupe_rel=False
     # args.use_afsets=False
     # args.predict_affixes=True
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_08_27_morpho_attentive_model_base_2021-04-19.pt'
+    # args.pretrained_model_file = 'data/backup_08_27_morpho_attentive_model_base_2021-04-19.pt'
     # train_evals(args)
     #
     # args = setup_common_args()
@@ -345,7 +349,7 @@ def train_evals_all():
     # args.use_tupe_rel = True
     # args.use_afsets = True
     # args.predict_affixes = False
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_08_29_exploratory_kinyabert_model_2021-08-15_pos@2_stem@1_mbow@False_pawrel@False_tuperel@True_afsets@True_predaffixes@False.pt'
+    # args.pretrained_model_file = 'data/backup_08_29_exploratory_kinyabert_model_2021-08-15_pos@2_stem@1_mbow@False_pawrel@False_tuperel@True_afsets@True_predaffixes@False.pt'
     # train_evals(args)
 
     # args = setup_common_args()
@@ -358,7 +362,7 @@ def train_evals_all():
     # args.use_tupe_rel = True
     # args.use_afsets = False
     # args.predict_affixes = True
-    # args.pretrained_model_file = '/home/user/KINLP/data/backup_10_30_exploratory_kinyabert_model_2021-07-30_pos:2_stem:1_mbow:True_pawrel:False_tuperel:True.pt'
+    # args.pretrained_model_file = 'data/backup_10_30_exploratory_kinyabert_model_2021-07-30_pos:2_stem:1_mbow:True_pawrel:False_tuperel:True.pt'
     # train_evals(args)
 
     args = setup_common_args()
@@ -379,7 +383,7 @@ def train_evals_all():
     args.use_affix_bow = False
     args.use_pos_aware_rel = False
     args.use_tupe_rel = True
-    args.pretrained_model_file = '/home/user/KINLP/data/backup_11_03_exploratory_kinyabert_model_2021-10-22_pos@0_stem@1_mbow@False_pawrel@False_tuperel@True_afsets@True@34008_predaffixes@False_morpho@True_paired@True.pt'
+    args.pretrained_model_file = 'data/backup_11_03_exploratory_kinyabert_model_2021-10-22_pos@0_stem@1_mbow@False_pawrel@False_tuperel@True_afsets@True@34008_predaffixes@False_morpho@True_paired@True.pt'
     train_evals(args)
 
 if __name__ == '__main__':

@@ -1,3 +1,8 @@
+# Copyright (c) Antoine Nzeyimana.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 import progressbar
 import torch
 import youtokentome as yttm
@@ -10,9 +15,9 @@ def parse_ner_dataset(home_path, in_file_path, out_file_path):
 
     print('Processing', in_file_path, '...')
 
-    codes_path = "/home/user/projects/user/kinyabert/fastBPE/rw_codes"
-    vocab_path = "/home/user/projects/user/kinyabert/fastBPE/vocab.rw.40000"
-    spm_model_path = "/mnt/NVM/KinyaBERT_Checkpoints/xlmr.base/sentencepiece.bpe.model"
+    codes_path = "fastBPE/rw_codes"
+    vocab_path = "fastBPE/vocab.rw.40000"
+    spm_model_path = "xlmr.base/sentencepiece.bpe.model"
 
     bpe = fastBPE.fastBPE(codes_path, vocab_path)
     spm = sentencepiece.SentencePieceProcessor(model_file=spm_model_path)
@@ -136,19 +141,19 @@ def parse_ner_dataset(home_path, in_file_path, out_file_path):
 if __name__ == '__main__':
     build_kinlp_morpho_lib()
     from kinlpmorpholib import ffi, lib
-    #conf = "/home/user/KINLP/data/kb_config_kinlp.conf"
-    conf = "/mnt/NVM/KINLP/data/config_kinlp.conf"
+    #conf = "data/kb_config_kinlp.conf"
+    conf = "data/config_kinlp.conf"
     lib.start_kinlp_lib(conf.encode('utf-8'))
 
-    data_home_path = "/mnt/NVM/KINLP/"
+    data_home_path = "./"
 
     parse_ner_dataset(data_home_path,
-                       "/home/user/projects/user/kinyabert/datasets/KIN_NER/original/dev.txt",
-                       "/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/dev")
+                       "datasets/KIN_NER/original/dev.txt",
+                       "datasets/KIN_NER/parsed/dev")
     parse_ner_dataset(data_home_path,
-                       "/home/user/projects/user/kinyabert/datasets/KIN_NER/original/test.txt",
-                       "/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/test")
+                       "datasets/KIN_NER/original/test.txt",
+                       "datasets/KIN_NER/parsed/test")
     parse_ner_dataset(data_home_path,
-                       "/home/user/projects/user/kinyabert/datasets/KIN_NER/original/train.txt",
-                       "/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/train")
+                       "datasets/KIN_NER/original/train.txt",
+                       "datasets/KIN_NER/parsed/train")
     lib.stop_kinlp_lib()

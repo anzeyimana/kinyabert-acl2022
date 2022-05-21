@@ -1,3 +1,8 @@
+# Copyright (c) Antoine Nzeyimana.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 
 from __future__ import print_function, division
 
@@ -97,14 +102,14 @@ class KBVocab:
                  other_morpho_min_count = 20,
                  other_cls_min_count = 20,
                  other_token_min_count = 200,
-                 pos_tag_vocab_idx_tsv="/home/user/KINLP/data/pos_tag_vocab_idx_2021-02-07.tsv",
-                 pos_tag_vocab_tsv="/home/user/KINLP/data/pos_tag_vocab_2021-02-07.tsv",
-                 stem_vocab_idx_tsv="/home/user/KINLP/data/stem_vocab_idx_2021-02-07.tsv",
-                 stem_vocab_tsv="/home/user/KINLP/data/stem_vocab_2021-02-07.tsv",
-                 morpheme_slot_vocab_idx_tsv="/home/user/KINLP/data/morpheme_slot_vocab_idx_2021-02-07.tsv",
-                 morpheme_slot_vocab_tsv="/home/user/KINLP/data/morpheme_slot_vocab_2021-02-07.tsv",
-                 affix_vocab_idx_tsv="/home/user/KINLP/data/affix_vocab_idx_2021-02-07.tsv",
-                 affix_vocab_tsv="/home/user/KINLP/data/affix_vocab_2021-02-07.tsv",
+                 pos_tag_vocab_idx_tsv="data/pos_tag_vocab_idx_2021-02-07.tsv",
+                 pos_tag_vocab_tsv="data/pos_tag_vocab_2021-02-07.tsv",
+                 stem_vocab_idx_tsv="data/stem_vocab_idx_2021-02-07.tsv",
+                 stem_vocab_tsv="data/stem_vocab_2021-02-07.tsv",
+                 morpheme_slot_vocab_idx_tsv="data/morpheme_slot_vocab_idx_2021-02-07.tsv",
+                 morpheme_slot_vocab_tsv="data/morpheme_slot_vocab_2021-02-07.tsv",
+                 affix_vocab_idx_tsv="data/affix_vocab_idx_2021-02-07.tsv",
+                 affix_vocab_tsv="data/affix_vocab_2021-02-07.tsv",
                  read_vocab_files = False):
         self.pos_tag_vocab = dict()
         self.pos_tag_vocab_idx = dict()

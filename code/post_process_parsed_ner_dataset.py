@@ -1,3 +1,7 @@
+# Copyright (c) Antoine Nzeyimana.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
 
 def post_process_files(input_file,labels_file,output_labels_file):
     from morpho_data_loaders import ParsedToken
@@ -19,14 +23,14 @@ def post_process_files(input_file,labels_file,output_labels_file):
 if __name__ == '__main__':
     from kinlpmorpho import build_kinlp_morpho_lib
     build_kinlp_morpho_lib()
-    post_process_files('/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/train_parsed.txt',
-                       '/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/train_labels.txt',
-                       '/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/train_parsed_labels.txt')
+    post_process_files('datasets/KIN_NER/parsed/train_parsed.txt',
+                       'datasets/KIN_NER/parsed/train_labels.txt',
+                       'datasets/KIN_NER/parsed/train_parsed_labels.txt')
 
-    post_process_files('/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/dev_parsed.txt',
-                       '/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/dev_labels.txt',
-                       '/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/dev_parsed_labels.txt')
+    post_process_files('datasets/KIN_NER/parsed/dev_parsed.txt',
+                       'datasets/KIN_NER/parsed/dev_labels.txt',
+                       'datasets/KIN_NER/parsed/dev_parsed_labels.txt')
 
-    post_process_files('/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/test_parsed.txt',
-                       '/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/test_labels.txt',
-                       '/home/user/projects/user/kinyabert/datasets/KIN_NER/parsed/test_parsed_labels.txt')
+    post_process_files('datasets/KIN_NER/parsed/test_parsed.txt',
+                       'datasets/KIN_NER/parsed/test_labels.txt',
+                       'datasets/KIN_NER/parsed/test_parsed_labels.txt')

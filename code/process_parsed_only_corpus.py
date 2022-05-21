@@ -1,3 +1,8 @@
+# Copyright (c) Antoine Nzeyimana.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+
 import progressbar
 import torch
 import youtokentome as yttm
@@ -82,22 +87,22 @@ def parse_sentences_corpus(home_path, in_file_path, out_file_path):
 if __name__ == '__main__':
     build_kinlp_morpho_lib()
     from kinlpmorpholib import ffi, lib
-    conf = "/home/user/KINLP/data/kb_config_kinlp.conf"
-    # conf = "/mnt/NVM/KINLP/data/config_kinlp.conf"
+    conf = "data/kb_config_kinlp.conf"
+    # conf = "data/config_kinlp.conf"
     lib.start_kinlp_lib(conf.encode('utf-8'))
     
-    data_home_path = "/home/user/KINLP/"
+    data_home_path = "./"
 
     # parse_documents_corpus(data_home_path,
-    #                        '/home/user/KINLP/data/full_valid_kinlp_corpus_2021-11-05.txt',
-    #                        '/home/user/KINLP/data/full_valid_kinlp_corpus_2021-11-05')
+    #                        'data/full_valid_kinlp_corpus_2021-11-05.txt',
+    #                        'data/full_valid_kinlp_corpus_2021-11-05')
 
     parse_sentences_corpus(data_home_path,
-                           '/home/user/KINLP/data/kinmt2021_train_rw.txt',
-                           '/home/user/KINLP/data/kinmt2021_train_rw')
+                           'data/kinmt2021_train_rw.txt',
+                           'data/kinmt2021_train_rw')
     parse_sentences_corpus(data_home_path,
-                           '/home/user/KINLP/data/kinmt2021_test_rw.txt',
-                           '/home/user/KINLP/data/kinmt2021_test_rw')
+                           'data/kinmt2021_test_rw.txt',
+                           'data/kinmt2021_test_rw')
     parse_sentences_corpus(data_home_path,
-                           '/home/user/KINLP/data/kinmt2021_valid_rw.txt',
-                           '/home/user/KINLP/data/kinmt2021_valid_rw')
+                           'data/kinmt2021_valid_rw.txt',
+                           'data/kinmt2021_valid_rw')

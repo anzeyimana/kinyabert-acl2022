@@ -1,16 +1,22 @@
-from __future__ import print_function, division
-import torch
-import math
+# Copyright (c) Antoine Nzeyimana.
+#
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
 
+from __future__ import print_function, division
+
+import math
+# Ignore warnings
+import warnings
+
+import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torch.cuda.amp import custom_fwd
+from torch.nn.utils.rnn import pad_sequence
 
-from torch.nn.utils.rnn import pad_sequence, pack_padded_sequence, pad_packed_sequence
 from morpho_transformer import TransformerEncoder, TransformerEncoderLayer, MultiheadAttention
-from paired_transformer import PairedTransformerEncoder, PairedTransformerEncoderLayer, PairedMultiheadAttention
-# Ignore warnings
-import warnings
+
 warnings.filterwarnings("ignore")
 
 def gelu(x):
@@ -48,9 +54,6 @@ def init_bert_params(module):
             module.weight.data[module.padding_idx].zero_()
     if isinstance(module, MultiheadAttention):
         module.in_proj_weight.data.normal_(mean=0.0, std=0.02)
-    if isinstance(module, PairedMultiheadAttention):
-        module.in_proj_weight_for_x.data.normal_(mean=0.0, std=0.02)
-        module.in_proj_weight_for_y.data.normal_(mean=0.0, std=0.02)
 
 # From: https://github.com/guolinke/TUPE/blob/master/fairseq/modules/transformer_sentence_encoder.py
 # this is from T5
@@ -336,56 +339,41 @@ class KinyaBERT_MorphoEncoder(nn.Module):
         self.morpho_dim = morpho_dim
         self.attn_scale_factor = 2
 
-        if args.paired_encoder:
-            assert self.seq_tr_d_model == self.morpho_dim, "Dimensions of morpho encoder and sentence encoder mismatch"
-            self.attn_scale_factor = 5 # 5 factors for attn_i_j: stem_i->stem_j, stem_i->afset_j, afset_i->afset_j, afset_i->stem_j, pos_i->pos_j
+        self.tot_morpho_idx = 0
+        if self.num_pos_m_embeddings > 0:
+            self.m1_pos_embedding = nn.Embedding(num_pos_tags, self.morpho_dim, padding_idx=0)
+            self.tot_morpho_idx += 1
 
-            self.m_afset_embedding = nn.Embedding(num_afsets, self.morpho_dim, padding_idx=0)
+        if self.num_pos_m_embeddings > 1:
+            self.m2_pos_embedding = nn.Embedding(num_pos_tags, self.morpho_dim, padding_idx=0)
+            self.tot_morpho_idx += 1
+
+        if self.num_pos_m_embeddings > 2:
+            self.m3_pos_embedding = nn.Embedding(num_pos_tags, self.morpho_dim, padding_idx=0)
+            self.tot_morpho_idx += 1
+
+        if self.num_stem_m_embeddings > 0:
             self.m_stem_embedding = nn.Embedding(num_stems, self.morpho_dim, padding_idx=0)
-            self.m_affix_embedding = nn.Embedding(num_affixes, self.morpho_dim, padding_idx=0)
-            self.tot_morpho_idx = 2
+            self.tot_morpho_idx += 1
 
+        if args.use_afsets and (num_afsets > 0):
+            self.m_afset_embedding = nn.Embedding(num_afsets, self.morpho_dim, padding_idx=0)
+            self.tot_morpho_idx += 1
+
+        self.seq_tr_d_model += (self.morpho_dim * self.tot_morpho_idx)
+
+        if self.use_affix_bow_m_embedding:
+            self.seq_tr_d_model += self.morpho_dim
+
+        self.s_stem_embedding = nn.Embedding(num_stems, stem_dim, padding_idx=0)
+
+        if args.use_morpho_encoder and (self.seq_tr_d_model > stem_dim):
+            self.m_affix_embedding = nn.Embedding(num_affixes, self.morpho_dim, padding_idx=0)
             morpho_encoder_layers = TransformerEncoderLayer(self.morpho_dim, morpho_tr_nhead, dim_feedforward=morpho_tr_dim_feedforward, dropout=morpho_tr_dropout, activation=morpho_tr_activation)
             self.morpho_transformer_encoder = TransformerEncoder(morpho_encoder_layers, morpho_tr_nlayers)
 
-            sequence_encoder_layers = PairedTransformerEncoderLayer(self.seq_tr_d_model, self.seq_tr_nhead, attn_scale_factor=self.attn_scale_factor, dim_feedforward=seq_tr_dim_feedforward, dropout=seq_tr_dropout, activation=seq_tr_activation)
-            self.seq_paired_transformer_encoder = PairedTransformerEncoder(sequence_encoder_layers, seq_tr_nlayers)
-        else:
-            self.tot_morpho_idx = 0
-            if self.num_pos_m_embeddings > 0:
-                self.m1_pos_embedding = nn.Embedding(num_pos_tags, self.morpho_dim, padding_idx=0)
-                self.tot_morpho_idx += 1
-
-            if self.num_pos_m_embeddings > 1:
-                self.m2_pos_embedding = nn.Embedding(num_pos_tags, self.morpho_dim, padding_idx=0)
-                self.tot_morpho_idx += 1
-
-            if self.num_pos_m_embeddings > 2:
-                self.m3_pos_embedding = nn.Embedding(num_pos_tags, self.morpho_dim, padding_idx=0)
-                self.tot_morpho_idx += 1
-
-            if self.num_stem_m_embeddings > 0:
-                self.m_stem_embedding = nn.Embedding(num_stems, self.morpho_dim, padding_idx=0)
-                self.tot_morpho_idx += 1
-
-            if args.use_afsets and (num_afsets > 0):
-                self.m_afset_embedding = nn.Embedding(num_afsets, self.morpho_dim, padding_idx=0)
-                self.tot_morpho_idx += 1
-
-            self.seq_tr_d_model += (self.morpho_dim * self.tot_morpho_idx)
-
-            if self.use_affix_bow_m_embedding:
-                self.seq_tr_d_model += self.morpho_dim
-
-            self.s_stem_embedding = nn.Embedding(num_stems, stem_dim, padding_idx=0)
-
-            if args.use_morpho_encoder and (self.seq_tr_d_model > stem_dim):
-                self.m_affix_embedding = nn.Embedding(num_affixes, self.morpho_dim, padding_idx=0)
-                morpho_encoder_layers = TransformerEncoderLayer(self.morpho_dim, morpho_tr_nhead, dim_feedforward=morpho_tr_dim_feedforward, dropout=morpho_tr_dropout, activation=morpho_tr_activation)
-                self.morpho_transformer_encoder = TransformerEncoder(morpho_encoder_layers, morpho_tr_nlayers)
-
-            sequence_encoder_layers = TransformerEncoderLayer(self.seq_tr_d_model, self.seq_tr_nhead, dim_feedforward=seq_tr_dim_feedforward, dropout=seq_tr_dropout, activation=seq_tr_activation)
-            self.seq_transformer_encoder = TransformerEncoder(sequence_encoder_layers, seq_tr_nlayers)
+        sequence_encoder_layers = TransformerEncoderLayer(self.seq_tr_d_model, self.seq_tr_nhead, dim_feedforward=seq_tr_dim_feedforward, dropout=seq_tr_dropout, activation=seq_tr_activation)
+        self.seq_transformer_encoder = TransformerEncoder(sequence_encoder_layers, seq_tr_nlayers)
 
         self.use_pos_aware_rel_pos_bias = use_pos_aware_rel_pos_bias
         if self.use_pos_aware_rel_pos_bias:
@@ -479,53 +467,6 @@ class KinyaBERT_MorphoEncoder(nn.Module):
         # pos_tags: (L)
 
         device = stems.device
-        if args.paired_encoder:
-            xm_stem = self.m_stem_embedding(stems)
-            xm_stem = torch.unsqueeze(xm_stem, 0)
-
-            xm_afset = self.m_afset_embedding(afsets)
-            xm_afset = torch.unsqueeze(xm_afset, 0)
-
-            x_embed = torch.cat((xm_stem, xm_afset), 0)
-            # x_embed: (2,L,E)
-            afx = affixes.split(tokens_lengths)
-            # [[2,4,5], [6,7]]
-            afx_padded = pad_sequence(afx, batch_first=False)
-            # afx_padded: (M,L), M: max morphological length
-            m_masks_padded = None
-            has_morphemes = False
-            if afx_padded.nelement() > 0:
-                has_morphemes = True
-                xm_affix = self.m_affix_embedding(afx_padded)
-                # xm_affix: (M,L,E)
-                x_embed = torch.cat((x_embed, xm_affix), 0)
-                # x_embed: (2+M,L,E)
-                m_masks = [torch.zeros((x+(self.tot_morpho_idx)), dtype=torch.bool, device = device) for x in tokens_lengths]
-                m_masks_padded = pad_sequence(m_masks, batch_first=True, padding_value=1) # Shape: (L, 2+M)
-
-            morpho_transformer_output = self.morpho_transformer_encoder(x_embed, src_key_padding_mask=m_masks_padded)  # --> Shape: (2+M, L, E)
-            stems_morpho_encoded = morpho_transformer_output[0, :, :] # (L,E)
-            afsets_morpho_encoded = morpho_transformer_output[1, :, :] # (L,E)
-
-            stem_lists = stems_morpho_encoded.split(input_sequence_lengths, 0)  # len(input_sequence_lengths) = N (i.e. Batch Size, e.g. 32)
-            src_stems = pad_sequence(stem_lists, batch_first=False)
-
-            afset_lists = afsets_morpho_encoded.split(input_sequence_lengths, 0)  # len(input_sequence_lengths) = N (i.e. Batch Size, e.g. 32)
-            src_afsets = pad_sequence(afset_lists, batch_first=False)
-
-            seq_len = src_stems.size(0)
-            batch_size = src_stems.size(1)
-
-            abs_pos_bias = self.get_position_attn_bias(rel_pos_arr, seq_len, batch_size, device)
-
-            masks = [torch.zeros(x, dtype=torch.bool, device=device) for x in input_sequence_lengths]
-            masks_padded = pad_sequence(masks, batch_first=True, padding_value=1)  # Shape: N x S
-
-            src_stems, src_afsets  = self.seq_paired_transformer_encoder(src_stems, src_afsets, attn_bias=abs_pos_bias, src_key_padding_mask=masks_padded)  # --> Shape: L x N x E, with L = max sequence length
-            # --> (L, N, E) = L: Max Sequence Length, N: Batch Size, E: Embedding dimension
-            transformer_output = torch.cat((src_stems, src_afsets), 2) # --> (L, N, 2E)
-            return transformer_output
-
         x_embed = None
         if self.num_pos_m_embeddings > 0:
             xm_pos1 = self.m1_pos_embedding(pos_tags)
@@ -561,13 +502,13 @@ class KinyaBERT_MorphoEncoder(nn.Module):
         #x_embed = torch.cat((xm_pos1, xm_pos2, xm_pos3, xm_stem, xm_afset), 0)
         # x_embed: (4,L,E)
 
+        m_masks_padded = None
+        has_morphemes = False
         if args.use_morpho_encoder:
             afx = affixes.split(tokens_lengths)
             # [[2,4,5], [6,7]]
             afx_padded = pad_sequence(afx, batch_first=False)
             # afx_padded: (M,L), M: max morphological length
-            m_masks_padded = None
-            has_morphemes = False
             if afx_padded.nelement() > 0:
                 has_morphemes = True
                 xm_affix = self.m_affix_embedding(afx_padded)
@@ -657,16 +598,10 @@ class KinyaBERT(nn.Module):
                  tupe_rel_pos_bins = tupe_rel_pos_bins,
                  tupe_max_rel_pos = tupe_max_rel_pos)
 
-        if args.paired_encoder:
-            self.predictor = MorphoHeadPredictor(args, self.encoder.m_stem_embedding.weight,
-                                                 self.encoder.m_afset_embedding.weight if (num_afsets > 0) else None,
-                                                 self.encoder.m_affix_embedding.weight if args.predict_affixes else None,
-                                                 self.encoder.seq_tr_d_model*2, seq_tr_dropout, layernorm_epsilon)
-        else:
-            self.predictor = MorphoHeadPredictor(args, self.encoder.s_stem_embedding.weight,
-                                                 self.encoder.m_afset_embedding.weight if (num_afsets > 0) else None,
-                                                 self.encoder.m_affix_embedding.weight if args.predict_affixes else None,
-                                                 self.encoder.seq_tr_d_model, seq_tr_dropout, layernorm_epsilon)
+        self.predictor = MorphoHeadPredictor(args, self.encoder.s_stem_embedding.weight,
+                                             self.encoder.m_afset_embedding.weight if (num_afsets > 0) else None,
+                                             self.encoder.m_affix_embedding.weight if args.predict_affixes else None,
+                                             self.encoder.seq_tr_d_model, seq_tr_dropout, layernorm_epsilon)
 
     @custom_fwd
     def forward(self, args, rel_pos_arr, tokens_lengths, input_sequence_lengths, pos_tags, stems, afsets, affixes,
@@ -731,10 +666,7 @@ class KinyaBERTClassifier(nn.Module):
                  tupe_rel_pos_bins = tupe_rel_pos_bins,
                  tupe_max_rel_pos = tupe_max_rel_pos)
 
-        if args.paired_encoder:
-            self.cls_head = ClassificationHead(self.encoder.seq_tr_d_model * 2, num_classes * 32, num_classes, pooler_dropout=pooler_dropout)
-        else:
-            self.cls_head = ClassificationHead(self.encoder.seq_tr_d_model, num_classes * 32, num_classes, pooler_dropout=pooler_dropout)
+        self.cls_head = ClassificationHead(self.encoder.seq_tr_d_model, num_classes * 32, num_classes, pooler_dropout=pooler_dropout)
 
     @custom_fwd
     def forward(self, args, rel_pos_arr, tokens_lengths, input_sequence_lengths, pos_tags, stems, afsets, affixes):
@@ -777,10 +709,7 @@ class KinyaBERTSequenceTagger(nn.Module):
                  tupe_rel_pos_bins = tupe_rel_pos_bins,
                  tupe_max_rel_pos = tupe_max_rel_pos)
 
-        if args.paired_encoder:
-            self.cls_head = TokenClassificationHead(self.encoder.seq_tr_d_model*2, num_classes * 32, num_classes, pooler_dropout=pooler_dropout)
-        else:
-            self.cls_head = TokenClassificationHead(self.encoder.seq_tr_d_model, num_classes * 32, num_classes, pooler_dropout=pooler_dropout)
+        self.cls_head = TokenClassificationHead(self.encoder.seq_tr_d_model, num_classes * 32, num_classes, pooler_dropout=pooler_dropout)
 
     @custom_fwd
     def forward(self, args, rel_pos_arr, tokens_lengths, input_sequence_lengths, pos_tags, stems, afsets, affixes):
