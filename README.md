@@ -6,6 +6,9 @@ Implementation for the ACL 2022 paper [KinyaBERT: a Morphology-aware Kinyarwanda
 <img src="code/kinyabert.png" width="90%">
 </p>
 
+### News (2023)
+- a pre-trained KinyaBERT model and the morphological analyzer have been released under a new repository: https://github.com/anzeyimana/DeepKIN
+
 ## Brief Introduction
 
 KinyaBERT implements a two-tier BERT architecture for modeling morphologically rich languages (MRLs).
